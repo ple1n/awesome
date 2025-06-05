@@ -7,3 +7,4 @@
 > awesome list in my mind, to be expanded.... then write a blog here
 
 - Survery over all the ZK-solutions regarding to application in communicational protocols. [markdown](./zk_survey.md)
+- On the architecture of decentralized services [m](./arch.md)

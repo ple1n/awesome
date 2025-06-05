@@ -68,3 +68,7 @@ Noir's main backend is barretenberg https://github.com/AztecProtocol/aztec-packa
 SOTA ZK-snark systems should be much faster and smaller than STARK systems. 
 
 Good list for plonky3 https://github.com/Plonky3/awesome-plonky3
+
+The primary goal of this survery is to choose a suitable way of workflow which includes how I want people on the network such as Freenet2 to work with ZK-related protocols and Apps, which I think necessitates an easy way of protcool development, which necesistates a VM, or a DSL. 
+
+I have not found a perfect solution to my problem so far, and some questions need me to write benchmarks. 
