@@ -125,3 +125,21 @@ Bluesky contains a graph, like IPFS, and Nostr is just a very simple thing built
 There will not be any need for RFCs. You want a new protocol. You just compile it and deploy it to the network with a oneliner. 
 
 Freenet2 is naturally compatible with novel cryptography. Again, due to the minimalism. You can put novel cryptosystems in the compiled WASM blob that faciliates whatever n-signer anonymous voting.
+
+## Discrete and open problems
+
+Discrete as in unrelated. For the same topic, decentralized protocols, there are many, apparently disconnected, unrelated, topics. We trivillay consider it an apparent thing because we know that they are going to converge to one singleton of codebase, so they are, unavoidably related. 
+
+1. The anonymous credibility transfer problem.
+
+There are many cases of high profile anonymous people getting caught due to the need to prove credibility. Like when you tip a journalist and you have to show credibility which makes you liable to state violence or other coercion. 
+
+2. The distributed, anonymous crowd-sourced rating problem
+
+When people seek solution to a problem, when they demand an eventual answer, there will be a list of candidates. And in the absence of crowd-sourced ratings, the candidates will be from either, (1) some sort of state, offical answers, (2) chaotic answers without specific features that we can reason here.  
+
+I call this *the theorem of necessary solution*. 
+
+The very common pitfall with average distributed networks platforms you see showing up on github is that they have massive leaks of personal, metadata clustered around each user. In the other case they make imageboards that have no rating system whatsoever. 
+
+I do have solutions in mind but in this section I believe its a greater priority to organize a list of problems.
