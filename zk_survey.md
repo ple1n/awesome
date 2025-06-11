@@ -72,3 +72,36 @@ Good list for plonky3 https://github.com/Plonky3/awesome-plonky3
 The primary goal of this survery is to choose a suitable way of workflow which includes how I want people on the network such as Freenet2 to work with ZK-related protocols and Apps, which I think necessitates an easy way of protcool development, which necesistates a VM, or a DSL. 
 
 I have not found a perfect solution to my problem so far, and some questions need me to write benchmarks. 
+
+- Circom 
+
+I assume this to be R1CS based which, mainly serves ZK-snarks, which is not quanutm proof. But I decided to take a look anyway. 
+
+Circom is a lower level DSL, as it directly deals with circuits, constraints. Cairo offers a familiar imperative programming style.
+
+Before reading into it, I wanna think it on myself. Consider a constraint `sha256(x)=y`. It can be reduced into an arithmetic circuit, or further, into a boolean circuit. 
+
+The thing is that we have to show `x` to demonstrate that this equation is solvable, in other words, typically, we know `x`. 
+
+We transform the equation into another one `f(a)=b <=> sha256(x)=y` such that `a1=x` and it has other roots. We can show that the equation holds by showing other roots. 
+
+I recommend this book https://www.rareskills.io/post/elliptic-curve-addition
+
+
+## SuperNova 
+
+implemented in https://github.com/lurk-lang/arecibo?tab=readme-ov-file
+
+use https://github.com/lurk-lab/circom-scotia to convert circom to bellpepper which the above accepts
+
+this can better browser integration https://github.com/nalinbhardwaj/Nova-Scotia
+
+
+https://github.com/powdr-labs/powdr should be the state-of-art. It looks like a synthesis of plonky3 (which many zkVMs depend on) and stwo. 
+
+
+## ZK Wasm
+
+https://github.com/DelphinusLab/zkWasm
+
+This VM is halo2 based. 

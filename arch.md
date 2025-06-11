@@ -143,3 +143,11 @@ I call this *the theorem of necessary solution*.
 The very common pitfall with average distributed networks platforms you see showing up on github is that they have massive leaks of personal, metadata clustered around each user. In the other case they make imageboards that have no rating system whatsoever. 
 
 I do have solutions in mind but in this section I believe its a greater priority to organize a list of problems.
+
+## random idea about state machine and zkp
+
+When I worked with levenshentein automata, the automata were used to represent sets. 
+
+Maybe we can construct a state machine in ZKP, and proves it reaches `accept` or `deny` state by executing it in the VM.
+
+https://github.com/BurntSushi/fst

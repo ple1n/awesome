@@ -3,6 +3,7 @@
 
 - https://github.com/stars/ple1n/lists/cryptography
 - https://codeberg.org/skran/false-bottom deniable encryption, in Rust
+- https://github.com/Silur/ZeroTwo some SOTA password auth stuff
 
 > awesome list in my mind, to be expanded.... then write a blog here
 
