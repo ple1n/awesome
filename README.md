@@ -4,6 +4,7 @@
 - https://github.com/stars/ple1n/lists/cryptography
 - https://codeberg.org/skran/false-bottom deniable encryption, in Rust
 - https://github.com/Silur/ZeroTwo some SOTA password auth stuff
+- https://github.com/commonwarexyz/monorepo a lib for p2p in adversarial env. needs further evaluation if it meets my standards doe.
 
 > awesome list in my mind, to be expanded.... then write a blog here
 
