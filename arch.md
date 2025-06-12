@@ -151,3 +151,16 @@ When I worked with levenshentein automata, the automata were used to represent s
 Maybe we can construct a state machine in ZKP, and proves it reaches `accept` or `deny` state by executing it in the VM.
 
 https://github.com/BurntSushi/fst
+
+## Current decision on selection of the ZKVM
+
+Either
+
+- Cairo with STWO (unstable)
+- Powdr (unstable)
+- OpenVW with not-well-supported [instruction](https://github.com/openvm-org/openvm/issues/1711#issuecomment-2960290562) (production-ready)
+
+Selection criterion
+
+- Prover can be run in browser, or outside browser but easily installed
+- Verifyer is preferably in Rust, compiled to WASM and easily integrated in freenet2 contracts.
