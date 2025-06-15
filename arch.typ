@@ -577,7 +577,7 @@ $
   G=(N="States",E={("ZK-Circuit","Input")})
 $
 
-or alternatively 
+or alternatively
 
 $
   G=(N="Input",E="States") \
@@ -588,16 +588,85 @@ etc.
 
 Each $s_n$ represents a set of beliefs of trust. All $t_n$ are secret.
 
-Make the user trust the initial state $s_1$ of the state machine, and every possible state following the execution. 
+Make the user trust the initial state $s_1$ of the state machine, and every possible state following the execution.
 
 The circuit in use should uphold the rule of 'transitive trust'. Thereby, each $s_n$ represents an accurate set of beliefs about trust.
 
 Would this work? Seems like a good general construction.
 
-When a user in the middle of the whole trust graph wants to express trust about some other users (as identified by posts), he produces ZK proofs of state changes, _from other nodes_ to the desired terminal state that reflects the change. Thereby hiding his expression of trust. 
+When a user in the middle of the whole trust graph wants to express trust about some other users (as identified by posts), he produces ZK proofs of state changes, _from other nodes_ to the desired terminal state that reflects the change. Thereby hiding his expression of trust.
 
 The said circuit should ofc require the user to prove its reputation, from that very state, so the user could produce the output state which includes his desired _transfer of trust_.
 
 The scheme must provide a method to merge states, so one set of trust beliefs can be produced.
 
 This system tends towards a minization of states kept on network, as they can be merged and eliminated.
+
+== 2nd Iteration of the ZK-state-machine idea
+
+This is a genreal construction of anonymity-preserving reputation systems, in a distributed setup.
+
+This pro is that this construction is an arrangement of well-developed cryptographic primitive, ZKP, which makes it immediately actionable in development.
+
+A blockchain-style consensus is not required, in this section.
+
+Denote reputation state as $r_n$. The beliefs about reputation, to a node $N$ as $B_N$, where $B_N = "CalcTrust"("trusted"={r_n},G_"graph")$.
+
+As we know there is a fundamentally sound rule that, belief has to be justified. A trust is a belief; therefore a trust must be justified (with some source).
+
+In a special case, we can assume that when a believed-to-be reputable person endorses some other people, they are also believed-to-be reputable, which we call _transitive trust_.
+
+A node on this network, collects $r_n$ as many as possible and change his trust beliefs gradually.
+
+A node has a set of user-set pre-trusted reputation states ${r_n}$
+
+A state transition function $t({r_n}) ->r'$ accepts multiple states, and produce one state.
+
+A ZK-proof proves this transition, $z_t {"public-input"={t},"private-input"}$
+
+There exists a _merge_ function that works over any two $r_1,r_2$ that follow a common ancestor $r_0$
+
+Trivially, a merge can be proved in zero-knowledge, which itself is a new transition.
+
+=== Accumulate trust through other means
+
+Users may make posts with $"post"=("body","signature"=H(k_"ey"))$, such that _key_ can be later used to prove his ownership of this post.
+
+
+=== Generation of endorsement
+
+Any node resides within a potentially infinite graph of reputation.
+
+An $r_n$ may be generated without a prior state. An $r_n$ can be (implicitly) generated from any post, which should assign the post author some reputation. This happens in early time a network.
+
+This can even be regarded as a time of contesting. Upvotes to a post are attached with a $z_t$
+
+In later times, there are commonly acknowledged ${r_n}$ so a new post can be attached with a transition proof with non empty ${r_n}$ input.
+
+Lone nodes on the graph, are merged by transitions.
+
+This seems even harder than a privacy-coin.
+
+== Anonymity through equi-reputatble decoys
+
+Instead of modelling state machine and popular states, we focus on individual reputation proofs.
+
+- Positive reputation proof
+  - Ownership of popular posts (by proving knowledge of $k_"ey"$)
+  - External reputation sources
+  - Proving authorship of any online activity, in general.
+  - *Decoys*
+- Negative reputation proof
+  - That the sources are not re-used up to $n$ times
+  - That the sources are not on blacklist $x,y,z$
+
+This is not that anonymous, but at least we are not linking posts together with one publickey. 
+
+Decoys can be drawn in. An observer can simply take the least reputable source to evaluate the reputation score of this proof. Then, as a result, the prover may just pull in a lot of high reputable sources, to maximize the score, which in turn destroys his anonymity, because it can be inferred the least reputable source is authored by him. 
+
+The best strategy for the prover is to draw in those reputation scores that are probably similar, to any observer (scores are highly subjective nonetheless)
+
+Rephrased:
+
+- Positive reputation proof
+  - Ownership of popular posts $P subset.eq P union "Decoy"$
