@@ -440,6 +440,8 @@ I will try using this idea to port existing Trust models. EigenTrust produces th
 
 In other words, it's equivalent to proving that "you made a post that has among top 10K-100K in upvotes, and you made a project that is among top 1K to 10K by stars, and ..." which means, proving a pseudo-anonym is treated as a conjunction of anonyms.
 
+If we can obtain a same vector (for every node) of trust scores in $NN$, we prove $k$ memberships in $k$ buckets that have high trust scores. This reference vector simplifies the proving.
+
 #quote([It should be emphasized that the pre-trusted peers are essential
   to this algorithm, as they guarantee convergence and break up ma-
   licious collectives. Therefore, the choice of pre-trusted peers is
@@ -451,4 +453,151 @@ In other words, it's equivalent to proving that "you made a post that has among 
   choosing pre-trusted peers is an interesting research area, but it is
   outside of the scope of this paper.])
 
-I have not found a satisfying decentralized, anonymous, reputation system in the literature yet. 
+I have not found a satisfying decentralized, anonymous, reputation system in the literature yet.
+
+=== Limit the number of anonymous identities
+
+We'd want the number of anonymous identities to be finite, and maybe rate-limited.
+
+This is doable with ZK. In general producing a unique hash for every use of an anonym, and proving the lack of such hashes from a merkle tree.
+
+TODO.
+
+
+== Attempt 2, Formalization
+
+We characterise a pseudo-anonyous identity, aka. _pseudonym_, as a continuous presence on Internet.
+
+$
+  "Pnym" = [s_1,s_2,s_3,dots] \
+  "link"([s_n]) : "public" \
+  "Token" = ("pubkey","signature")
+$
+
+$[s_n]$ are states published in public, where the link between them is also public. The token is used to prove identity.
+
+It's a form of currency where any malicious behavior depreciates the "token" drastically and continual compliance is heavily rewarded.
+
+For an _anonym_, the link is only known to the user.
+
+$
+  "Anym" = [s_1,s_2,s_3,dots] \
+  "link"([s_n]) : "private" \
+  "Token" = ("trapdoor"("secretkey"),"proof") \
+  "each token is unlinkable, indistinguishable from other tokens"
+$
+
+Fundamentally we can be sure that, all models of reputation are mathematical manipulation of the available information. Everything not based on _information_ are guesses.
+
+I don't think there is a need to fixate over a specific model, because anything that constructs such a currency should work.
+
+In a typical reputation model, the $[s_1]$ is converted into $n in NN$, a score, where $s_n$ is a trade and the peer's rating about it. I consider this a loss of information.
+
+Consider
+
+$
+  "Anym"=[s_1,s_2,dots,b_1,b_2,dots] \
+  s_n "represents good things he has done" \
+  b_n "represents bad things he has done" \
+  "both are backed by state that exists in public"
+$
+
+To prove a good reputation, you construct a ZK-proof to show you have done many good things, and a exclusion proof of bad things.
+
+=== Transitive trust without pseudonym
+
+$
+  "Pnym_rating"=f("pnym")->n
+$
+
+This is the typical way a peer expresses trust about other peers, but it doesn't work without continual identities.
+
+In an anonymous system, the trust graph is built over $s_n$. The edges connecting identities (originally) are distributed over the states $s_n$.
+
+This method just turns a psuedonym into many small pseudonyms. Is this good enough?
+
+There is a lot of metadata leakage although it's splitted.
+
+=== Ontology of Trust
+
+The untrusted thing must be logically connected to something that is trusted in the first place. The logical connection is called *inference*. There is no way an untrusted thing can be trusted without a logical connection. ZKPs are "zero-trust" due to a complex construction of mathematics, which is in itself, rigorous logic.
+
+The various reputation models emphasize 'transitive trust' because there is no other way to derive trust.
+
+Whim: Is it possible to prove the logical inference, logical connection in zero knowledge
+
+$
+  "prove that" s "is a descendent of" a, b, c, dots, "in a trust graph, in zero-knowledge"
+$
+
+There is a lot of information leakage already?
+
+In other words, it's trying to prove that "you should trust me because you trust X, Y, Z, and I am somehow related to X, Y, Z through some relationships that confer trust"
+
+This can not be turned into a cryptocurrency problem either, because the value of trust coming from each node, is subjective and changing.
+
+Does an anonym expressing endorsement for other $s_n$ (anonyms) compromise anonymity? If so, can we avoid this.
+
+Can we construct a graph that is isomorphic, and make it public instead?
+
+=== Anonymous graph isomorphism
+
+We define a trust graph, where nodes are assigned trust values, directed edges represent conferring of trust.
+
+$
+  "CompTrust"(N) -> N' \
+  "where" N "has nodes with 0 trust and" N' "has a trust assignment for every node"
+$
+
+Provenance of trust is done by proving the ownership of nodes. Think of each node as a publickey, provenance is showing a signature. In classical web-of-trust, each user owns one keypair, and proves trustworthiness by using publickey-cryptography.
+
+We consider graph isomorphism that maps graph A to B, where one node may be mapped to multiple nodes, so that the trust relationships are obfuscated. We want it hard to reconstruct the orginial graph.
+
+== Whim: a general scheme based on ZK and state machine
+
+
+#import "@preview/fletcher:0.5.8" as fletcher: diagram, node, edge
+
+#diagram(
+  node-stroke: 1pt,
+  spacing: 4em,
+  node((0, 0), `s1`, radius: 2em),
+  edge((0, 0), (2, 0), `zk1(pub1,t1)`, "-|>"),
+  node((2, 1), `s2'`, radius: 2em),
+  edge((0, 0), (2, 1), `zk1(pub1,t1')`, "-|>"),
+  node((2, 0), `s2`, radius: 2em),
+  edge(`zk1(pub2,t2)`, "-|>"),
+  node((4, 0), `s3`, radius: 2em),
+)
+
+
+It's possible to construct a graph with ZK, precisely
+
+$
+  G=(N="States",E={("ZK-Circuit","Input")})
+$
+
+or alternatively 
+
+$
+  G=(N="Input",E="States") \
+  "for now I dont talk about this one"
+$
+
+etc.
+
+Each $s_n$ represents a set of beliefs of trust. All $t_n$ are secret.
+
+Make the user trust the initial state $s_1$ of the state machine, and every possible state following the execution. 
+
+The circuit in use should uphold the rule of 'transitive trust'. Thereby, each $s_n$ represents an accurate set of beliefs about trust.
+
+Would this work? Seems like a good general construction.
+
+When a user in the middle of the whole trust graph wants to express trust about some other users (as identified by posts), he produces ZK proofs of state changes, _from other nodes_ to the desired terminal state that reflects the change. Thereby hiding his expression of trust. 
+
+The said circuit should ofc require the user to prove its reputation, from that very state, so the user could produce the output state which includes his desired _transfer of trust_.
+
+The scheme must provide a method to merge states, so one set of trust beliefs can be produced.
+
+This system tends towards a minization of states kept on network, as they can be merged and eliminated.
