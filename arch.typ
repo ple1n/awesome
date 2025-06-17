@@ -192,7 +192,7 @@ Isn't this cost-efficient?
 
 Further, we can see that blockchains with more \$ in stake and more decnetralization are more trustworthy. We can publish state hashes to multiple chains, and when we check for results, they are weighed according to the trustworthiness calculated by the-above-justifications, as a weighed voting.
 
-== TODO: Review blockchain state proof candidates
+== Review blockchain state proof candidates
 
 Recalling from meory, there are a few
 
@@ -202,8 +202,6 @@ Recalling from meory, there are a few
 
 Notice that blockchain state proofs do not need any additional communication. They can be verified within the contract.
 
-
-
 #set quote(block: true)
 
 #quote(attribution: [https://a16zcrypto.com/posts/article/building-helios-ethereum-light-client/])[
@@ -212,7 +210,27 @@ Notice that blockchain state proofs do not need any additional communication. Th
   When a validator is on a sync committee, they *sign* every beacon chain block header that they see. If more than two-thirds of the committee signs a given block header, it is highly likely that that block is in the canonical beacon chain. If Helios knows the makeup of the current sync committee, it can confidently track the head of the chain by asking an untrusted RPC for the most recent sync committee signature.
 ]
 
-So here is the TODO, I'll be making a lib for verifying and publishing such checkpoints.
+https://ethereum.org/en/developers/docs/nodes-and-clients/light-clients/
+
+Eth state proofs are probably sub-optimal. They need to download a sequence of committee changes.
+
+For https://argumentcomputer.github.io/zk-light-clients/ethereum/components/eth_nodes.html I dont think they provide proof servers.
+
+With Mina only a few tips of branches need to be verified.
+
+https://github.com/openmina/openmina
+
+This chain uses a VRF and PoS, which means the stakers should produce the longest chain. 
+
+#highlight([One can only be sure finality is reached when he has the latest tip, close to current time.])
+
+But we don't want to keep all nodes syncing Mina chain. 
+
+When a user posts something on Freenet2, he includes the hash into a Mina transaction. The network generates a state proof. The user attaches the proof to the post, and a ZK proof or a merkle path showing his hash is included, to prove that the post is made at a specific time point. 
+
+The user may also forge a state proof that is not on the canonical chain. In this case, anyone can post a Mina state proof into this Freenet2 contract, which takes down the post (or simply marks the timestamp as fraudulent).
+
+This is the stateproof-challenge approach. 
 
 == TODO: How do contracts use them
 
