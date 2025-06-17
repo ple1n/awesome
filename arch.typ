@@ -656,13 +656,14 @@ Instead of modelling state machine and popular states, we focus on individual re
   - External reputation sources
   - Proving authorship of any online activity, in general.
   - *Decoys*
+    - That you are the author of either (repo1, repo2, repo3, ...)
 - Negative reputation proof
   - That the sources are not re-used up to $n$ times
   - That the sources are not on blacklist $x,y,z$
 
-This is not that anonymous, but at least we are not linking posts together with one publickey. 
+This is not that anonymous, but at least we are not linking posts together with one publickey.
 
-Decoys can be drawn in. An observer can simply take the least reputable source to evaluate the reputation score of this proof. Then, as a result, the prover may just pull in a lot of high reputable sources, to maximize the score, which in turn destroys his anonymity, because it can be inferred the least reputable source is authored by him. 
+Decoys can be drawn in. An observer can simply take the least reputable source to evaluate the reputation score of this proof. Then, as a result, the prover may just pull in a lot of high reputable sources, to maximize the score, which in turn destroys his anonymity, because it can be inferred the least reputable source is authored by him.
 
 The best strategy for the prover is to draw in those reputation scores that are probably similar, to any observer (scores are highly subjective nonetheless)
 
@@ -670,3 +671,170 @@ Rephrased:
 
 - Positive reputation proof
   - Ownership of popular posts $P subset.eq P union "Decoy"$
+
+The rule that each observers picks the lowest scoring set member is to prevent cheating.
+
+The selection of decoys can leak information about local trust-beliefs.
+
+This reputation proof model can generalize to arbitrary information, as long as the statement can be formulated in NP language.
+
+= The Holy Grail of Anonymous Networking - NIAR
+
+Throwing away the papers, let's start by axiomatic characterisation of the problem.
+
+In classical mixnets, messages are bounced through at least 3 relays to delink sender IP and receiver IP. Trivially, the link can be recovered when the 3 relays collude. The 3 relays are randomly selected from a pool.
+
+
+
+#quote(
+  [
+    The second is verifiable mixnets, based on
+    mix networks [18]. In this design, the mixes use a veri-
+    fiable shuffle [7, 13, 28, 37] to permute the ciphertexts,
+    and produce a third-party verifiable proof of the cor-
+    rectness of the shuffle without revealing the actual per-
+    mutation. Similar to DC-Net based systems, verifiable
+    mixnets guarantee anonymity as long as one mix in the
+    network is honest.
+  ],
+  attribution: [https://people.csail.mit.edu/devadas/pubs/riffle.pdf],
+)
+
+#quote(
+  [
+    Riffle achieves bandwidth and computation effi-
+    ciency by employing two privacy primitives: a new
+    hybrid verifiable shuffle for upstream communication,
+    and private information retrieval (PIR)
+  ],
+  attribution: [primitives],
+)
+
+PIR is usually based on FHE from what I read.
+
+#quote(
+  [
+    In file sharing, the prototype achieves high
+    bandwidth (over 100KB/s) for more than 200 clients.
+    In microblogging, the prototype can support more than
+    10,000 clients with latency less than a second, or handle
+    more than 100,000 clients with latency of less than 10
+    seconds
+  ],
+  attribution: [Riffle's performance],
+)
+
+#quote([
+  The state-of-the-art verifiable shuffle by
+  Bayer and Groth [7], for instance, takes 2 minutes to
+  prove and verify a shuffle of 100,000 short messages
+])
+
+I'll look into this, and find the state-of-the-art.
+
+Found an improvement over [7]
+
+https://github.com/asn-d6/curdleproofs
+
+#quote([
+  Curdleproofs is a zero-knowledge shuffle argument which is inspired by the work of Bayer and Groth
+  [BG12].
+])
+
+In _Riffle_, it said
+
+- PIR only provides receiver anonymity
+- Shuffle only provides sender anonymity
+
+#quote([
+  As a concrete example, the state-of-the-art verifiable
+  shuffle proposed by Bayer and Groth [7] takes more than
+  2 minutes to shuffle 100,000 ElGamal ciphertexts, each
+  of which corresponds to a small message (e.g., a sym-
+  metric key).
+])
+
+I had a misunderstanding. Verifiable shuffle doens't mean the server is oblivious to the permutation.
+
+I found the thing to be _Non-Interactive Anonymous Router_
+
+#quote(
+  [
+    A markedly different approach to this
+    problem was recently introduced by Shi and Wu [SW21], who proposed using
+    cryptographic techniques to hide connectivity patterns. Namely, they introduce
+    the Non-Interactive Anonymous Router (NIAR) model, in which a set of N re-
+    ceiving nodes wish to receive information from a set of N sending nodes, with
+    all information passing through a central router. Anonymity in their model is
+    defined to be the inability to link any sender to the corresponding receiver, even
+    if the router and (up to N − 2) various (sender, receiver) pairs are susceptible
+    to attack by an (honest-but-curious1) adversary.
+  ],
+  attribution: [https://eprint.iacr.org/2022/1353.pdf],
+)
+
+That is to say one server replace an entire Tor network and achieve the same anonymity.
+
+#quote(
+  [
+    Departing from all prior approaches, we propose a novel non-interactive abstraction called a
+    Non-Interactive Anonymous Router (NIAR), which works even with a single untrusted router.
+
+    while secu-
+    rity for our protocol follows from the existence of any rate-1 oblivious
+    transfer (OT) protocol (instantiations of which are known to exist
+    under the DDH, QR and LWE assumptions [DGI+19,GHO20]).
+
+    NIAR can serve as a non-interactive anonymous shuffler (NIAS), which shuffles n senders’ messages
+    in a non-interactive manner, such that the messages become unlinkable to their senders
+  ],
+  attribution: [https://eprint.iacr.org/2021/435.pdf],
+)
+
+
+https://vitalik.eth.limo/general/2024/10/29/futures6.html
+
+https://en.wikipedia.org/wiki/Quantum_money
+
+= On interop of Mixnets and DHT-based systems
+
+DHT-based distributed nets involve approx. $log(n)$ lookups per entry, and the process is sequential. Mixnets come with large delay.
+
+Denote
+
+- One-way delay to a DHT node to be $t_d$
+- One-way delay to a mixnet exit node to be $t_m$
+
+We can consider $t_d=t_m=t$ on average for any node, because nodes of all distributed networks are typically uniformly distributed globally.
+
+$
+  T_1=(t_m+2t_d+t_m)+(t_m+2t_d+t_m) + ... "for" log(n) "times"
+  = 2log(n) (t_m+t_d) = 4log(n)t \
+  "proposed solution"
+  T_2 =t_m + log(n)(2t_d) \
+  "without mixnet:" T_0 = log(n)(2t_d)=2log(n)t
+$
+
+The solution is to have an exit node to execute a program that performs the requests on behalf of the user.
+
+Either an exit node from a mixnet executes the program, or a node in the DHT executes the program.
+
+This, the feature _proxied DHT lookup_, should apply to other situations that have high delay, like users in censored regions etc. I wonder if Freenet2 has it.
+
+More generally, we could have _entry nodes_ in a DHT that specialize in lookups, as they reside in data centers which have low latency to all other locations on average.
+
+= 3rd-Iter Reputation system
+
+Since we can use arbitrary reputation system and keep anonymity, how about just throw in some AI.
+
+requirements in mind:
+
+- reasonable convergence globally, to make anonymity work; otherwise anonymouse users get too low of scores
+- speed on cpu
+
+- #link(
+    "https://arxiv.org/pdf/2205.12784",
+    [TrustGNN: Graph Neural Network based Trust
+      Evaluation via Learnable Propagative and
+      Composable Nature],
+  )
