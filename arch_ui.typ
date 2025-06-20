@@ -25,3 +25,5 @@ Motivation: It's better to design better _modes of interaction_ to optimize user
   - run it in freenet2
 + Reputation proof system, blocked by *1*
 + Evaluate reputation models
++ Watch for the status of Freenet2 development
++ Watch for OpenMLS dev. Consider using it.

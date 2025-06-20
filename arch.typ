@@ -3,7 +3,7 @@
 
 Hereby I present the most urgent concerns, the answers to the questions at large, the groundworks of future protocols, the axiomatization of adversarial models.
 
-- The problems with P2P style protocols 
+- The problems with P2P style protocols
 - The problems with Fediverse and why I can do better
 - The optimal usage of 'blockchains' without turning it into a financial scam
 - The problem you might not even know. How can a distributed net be prepared for GFW and such threats.
@@ -934,7 +934,7 @@ requirements in mind:
 
 = ZK-based moderation
 
-Machine learning ran inside a ZK circuit. Demand such a proof when posting, or in the fraud-proof style. 
+Machine learning ran inside a ZK circuit. Demand such a proof when posting, or in the fraud-proof style.
 
 Verifying a proof is usually fast enough but proving can be too slow. TODO.
 
@@ -946,3 +946,66 @@ Yes an attacker can just infinitely fuzz the model, but it's not a problem when 
 - False negative, some illegal content passes filter resulting in a proof being generated, which risks taking down the nodes
 
 It's possible to minimize both false detections to a point fuzzing is ok because by definition it gets fuzzed to a point its legal.
+
+= Two places, two trust systems
+
+The general social structure of the network, resembles typical chatrooms, ie, being a pool of competing chatrooms where each room has a dictatorship.
+
+The typical chatroom has admins and moderators that are appointed and demoted at will. This unironically resembles a government, or more preceisely I would call, a state (apparatus).
+
+The admin enforces his will, shapes the room to his liking through the moderation system.
+
+What I propose here, is a trust system such as _EigenTrust_. The trust system extends the _will_ of the admin, as the system more effectively manages the promotion and demotion of moderators.
+
+This is a brief and incomplete introduction on the political side of my ideas.
+
+Contracts on freenet2, are storage locations on the network.
+
+We can run a trust system in contracts, which reject bad posts before they even get stored.
+
+I call this *objective-trust-system*, as they run independently on the network.
+
+The other system is the *subjective* trust system, which can be more heavy weighted as it serves as an agent that reasons about all the available data, for the user, prioritzing users' preferences and beliefs, removes spam and also acts as a recommender system.
+
+== EigenTrust
+
+I implemented eigentrust in this repo. Here is the mathematical description.
+
+$
+  "let the graph be" G = (N,E) \
+  |N| = n \
+  M in FF^(n times n) \
+  M "is the opinion matrix" \
+  M:n->n->t "expressing a node's trust about another node" \
+  V in FF^n "which is the trust vector" \
+  V :n->t \
+  V "represents a state of trust"
+$
+
+The basic operation is repeatedly calculating until it converges, usually under 2 iterations.
+
+$
+  V_2=phi(M^T) times V_1 \
+  phi "normalizes the matrix which involves a vector of pre-trusted peers" \
+  V_p in FF^n
+$
+
+To be precise, an EigenTrust system is completely defined by, which is its initial state.
+
+$
+  E=(V_0,M_0,V_p)
+$
+
+I deviate from the original paper because it is insecure and does not meet my standards.
+
+The system does not operate over nodes as in human operator nodes, but, abstract nodes.
+
+Model the system as a distributed state machine.
+
+$
+  E_0 = (V_0,M_0,V_p) -->_(M_n) E_n
+$
+
+Then we can use the previously illustrated ZK-state-machine anonymous reputation scheme. 
+
+Such that we prove state change to the trust vector by applying permitted state changes.
