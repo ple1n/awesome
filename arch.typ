@@ -1,7 +1,7 @@
 
 = Outline of architecture of the next-generation distributed internet
 
-Hereby I present the most urgent concerns, the answers to the questions at large.
+Hereby I present the most urgent concerns, the answers to the questions at large, the groundworks of future protocols, the axiomatization of adversarial models.
 
 - The problems with P2P style protocols 
 - The problems with Fediverse and why I can do better
