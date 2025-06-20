@@ -1,4 +1,13 @@
 
+= Outline of architecture of the next-generation distributed internet
+
+Hereby I present the most urgent concerns, the answers to the questions at large.
+
+- The problems with P2P style protocols 
+- The problems with Fediverse and why I can do better
+- The optimal usage of 'blockchains' without turning it into a financial scam
+- The problem you might not even know. How can a distributed net be prepared for GFW and such threats.
+- The need for a ZK-driven reputation system
 
 = Opportunistic consensus
 
@@ -220,17 +229,62 @@ With Mina only a few tips of branches need to be verified.
 
 https://github.com/openmina/openmina
 
-This chain uses a VRF and PoS, which means the stakers should produce the longest chain. 
+This chain uses a VRF and PoS, which means the stakers should produce the longest chain.
 
-#highlight([One can only be sure finality is reached when he has the latest tip, close to current time.])
+But we don't want to keep all nodes syncing Mina chain.
 
-But we don't want to keep all nodes syncing Mina chain. 
-
-When a user posts something on Freenet2, he includes the hash into a Mina transaction. The network generates a state proof. The user attaches the proof to the post, and a ZK proof or a merkle path showing his hash is included, to prove that the post is made at a specific time point. 
+When a user posts something on Freenet2, he includes the hash into a Mina transaction. The network generates a state proof. The user attaches the proof to the post, and a ZK proof or a merkle path showing his hash is included, to prove that the post is made at a specific time point.
 
 The user may also forge a state proof that is not on the canonical chain. In this case, anyone can post a Mina state proof into this Freenet2 contract, which takes down the post (or simply marks the timestamp as fraudulent).
 
-This is the stateproof-challenge approach. 
+This is the stateproof-challenge approach.
+
+=== Mina
+
+Mina is the ideal model of blockchain for illustration . The central task of a blockchain is to do fork selection. The way blockchain does it, involves two kinds of scarcity. The voting power scarcity encoded in genesis block, and temporal scarcity.
+
+Re-cap the fundamental way blockchain works.
+
+#import "@preview/fletcher:0.5.8" as fletcher: diagram, node, edge
+
+#diagram(
+  node-stroke: 1pt,
+  spacing: 4em,
+  node((0, 0), $arrow(phi) = "initial votes"$, radius: 5em),
+  edge((0, 0), (2, 0), `state change`, "-|>"),
+  node((2, 1), $"votes"=beta$, radius: 5em),
+  edge((0, 0), (2, 1), "-|>"),
+  node((2, 0), $"votes"=alpha \ arrow(phi)=arrow(phi)_1$, radius: 5em),
+  edge("-|>"),
+  node((4, 0), `s3`, radius: 5em),
+)
+
+The reference for voting power is kept in "previous state" right before transition, and each fork can have an associated vote calculated.
+
+For any specific point in time, finality is only reached when a fork is the fork with the most votes that can ever be constructed.
+
+If the threshold is set to be 50%, it doesn't guarantee finality because the other 50% can collude and genrate an alternative fork.
+
+Denote total power as $1$, If we set threshold to be $sigma$, the rest $1-sigma$ can collude.
+
+When such collusion is excluded we say it reaches finality according to this standard of security.
+
+Throwing away this definition, we can get a probablistic finality when the temporal scarcity is involved.
+
+We know count the votes of a fork by the total votes accumulated from the genesis to the tip.
+
+The VRF in Mina probablistically make the longest chain to be authored by people with most stake (voting power).
+
+There is no threshold here. With any number of forks, all forks can be sorted by the amount of votes.
+
+And we can take the fork with higest votes. We make sure the tip is right before "current time".
+
+With this _timely assumption_, we can make sure it's the most voted fork because another more voted fork can not possibly exist.
+
+This very strict definition is not true for Mina because it doesn't use a Verifiable Delay Function.
+
+This ultimate kind of finality is only possible with a verifiable delay such as proof of work (but bad impl).
+
 
 == TODO: How do contracts use them
 
@@ -259,6 +313,27 @@ In comaprison, L2 solutions batch states changes and post the proofs of the tran
 
 Decoupling the chain has benefits, we can use any chains as the _timestamp witness_, any chains as microtransaction handler.
 
+== The new form of L2, Freenet2 with blockchain-state fraud proofs
+
+There are 3 major forms L2 right now, specificlly on Ethereum
+
++ ZK-rollups
++ Fraud-proofs
++ ZK-rollups with fraud proofs
+
+But they are all centered around one blockchain, acting as an extension and enhancement of the blockchain.
+
+Here the new form of using blockchain centers around an application protocol
+
+- Nodes are not required to constantly gossip about new blockchain state updates
+- Users do not need to look for RPC servers like what you have to do with Ethereum, or Monero (if you don't run a full node)
+  - In the case of Monero it's hard to find connectable nodes even. This form of L2 just has much more superior decnetralization
+
+We consider a scalable distributed network to be a ring of nodes (informally) where nodes from different locations tend to keep different part of the states of the network.
+
+When a post is made, it's posted onto Mina chain, and a state proof is generated. The network hosts many such state machines. Only when new content is pushed shall a state machine is updated.
+
+Very infrequently a post is found to have a fraudulent state proof, a witness node broadcasts a new chain-state-proof which by itself takes down such posts, because Mina consensus logic should handle this.
 
 = Web of trust
 
@@ -856,3 +931,18 @@ requirements in mind:
       Evaluation via Learnable Propagative and
       Composable Nature],
   )
+
+= ZK-based moderation
+
+Machine learning ran inside a ZK circuit. Demand such a proof when posting, or in the fraud-proof style. 
+
+Verifying a proof is usually fast enough but proving can be too slow. TODO.
+
+The difference is we don't have that much of a gas problem like typical blockchains.
+
+Yes an attacker can just infinitely fuzz the model, but it's not a problem when the model is good enough, specifically, consider CSAM detection
+
+- False positive, some legal content is banned, which is a loss in posting freedom
+- False negative, some illegal content passes filter resulting in a proof being generated, which risks taking down the nodes
+
+It's possible to minimize both false detections to a point fuzzing is ok because by definition it gets fuzzed to a point its legal.
