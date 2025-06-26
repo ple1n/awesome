@@ -1006,6 +1006,236 @@ $
   E_0 = (V_0,M_0,V_p) -->_(M_n) E_n
 $
 
-Then we can use the previously illustrated ZK-state-machine anonymous reputation scheme. 
+Then we can use the previously illustrated ZK-state-machine anonymous reputation scheme.
 
 Such that we prove state change to the trust vector by applying permitted state changes.
+
+== Anonymity within one trust system
+
+Continuing the illustration of ZK-state-maching above, we demonstrate a generic anonymous trust system, that works with certain limits.
+
+I design this system because the underlying trust evaluation system tends to evolve over time, and the example EigenTrust; I am not satisfied with it.
+
+$
+  "Consider a trust system" Sigma := cases(
+    "initial state" e_0,
+    "transition function" sigma cases(
+      "authentication" := alpha,
+      "proposed change":=Delta
+    )
+  )
+$
+
+In the example of EigenTrust, $e_0=v_0$ which encodes default trust values for peers.
+
+The ZK is as follows
+
+$
+  "ZK_Argument"(e_1 -> e_2) \
+  "with private input" (alpha, Delta)
+$
+
+The ZK hides the private parameters and outputs a changed $v_1 in FF^n$ which is the vector of trust scores in EigenTrust.
+
+Now we consider the degree of anonymity in this system.
+
+$
+  "Equation": "Find" R=(alpha, Delta) "such that" e_1 ->_(sigma(alpha, delta)) e_2
+$
+
+For certain algorithms we can estimate the solution space of the equation, $R in RR$.
+
+The anonymity is $|RR|$ (assuming each solution is of equal plausibility for the attacker etc.)
+
+The system as a whole shares some similarity with _ZCash_, but instead of $x, -x => x + (-x)=0$ transfer of money, a system of trust has more nuanced change in scores.
+
+== Trust system at large
+
+In the civilization, unlike nuanced EigenTrust, the ranks of bureaucracy endow agents with power proportional to their depth in the hierarchy, which is $d in NN$. For simplicity we consider a dictatorship, where the dictator has massive power, for him $d=0$
+
+Trivially we can observe that for each $d$, the agents have fairly similar degree of power. From the perspective of the _state_, it's a graph centered around $d=0$, and there is a clear pattern how trust decreases as $d$ increases.
+
+Politically, it's reasonable the system works that way. Suppose an agent has agency beyond how much the state (think government) trusts him, he may manipulate the system to gain a higher rank. Eventually the system converges to the said state.
+
+== A simple trust system
+
+I want to ditch EigenTrust for the moment in favour of a more interpretable system.
+
+Eigentrust and similar systems ultimately reduce to graphs. They are just using the resultant linear algebra instead of operating on actual things.
+
+The system works around nodes, where a user may prove owneriship over nodes, in ZK.
+
+The system is a cyclic directed graph.
+
+The total amount of trust is $2^n$, sufficiently large depending on desired precision. Due to ZK we prefer using integer arithmetic.
+
+A node for the next depth is assigned $t_2 = (t_1 div ceil(k)_2) times beta$
+
+$
+  Sigma_x t_x <= 2_n "total amount of trust is finite"
+$
+
+Root nodes have depth $d=0$
+
+For a node $N in V$, there is a collection of *_acyclic_* paths leading up to roots.
+
+$
+  P = vec(p_1, p_2, ...) \
+  |p_1|<=|p_2|<= ...
+$
+
+$
+  forall ceil(k)_2 :="take closest even integer larger than" k
+$
+
+$P$ is a sorted list of paths, starting from the shortest.
+
+$
+  "the path starts with root" R_k \
+  "decay vector" arrow(beta) := vec(beta_1, beta_2, ...) "starting from root" \
+  beta_n = 1 / 2^y\
+  forall a->b_p, exists a->arrow(b) = vec(b_p, b_1, ..., b_k) "which is shown in the ZK proof" \
+  phi "is the trust function" \
+  forall a-> b_p and d := d_a => phi(b_p) := (phi(a) times beta_d) / ceil(k)_2 \
+$
+
+Maximal trust score for $n$ is the sum of all possible paths leading to $n$, ie. summing up all the scores of the nodes.
+
+Delay vector allows us to tune the curve of decay.
+
+I should try formalizing this thing in Agda. Lean4 is too verbose as a language. Too many keywords.
+
+I tried both Idris and Lean. Ditched for terrible user experience (installation, hinting, etc.)
+
+Fstar looks good, dependently typed and supports extraction.
+
+Since zkvms target riscv. Consider using Rust linked to, Fstar compiled to C/Ocaml.
+
+Install fstar with `opam install fstar=2025.06.20`
+
+So far the only problem is it produces unrelated misleading error messages, too much syntax but a bit better than Lean4.
+
+== Trust model, Iter 2
+
+Requirements for a good trust model, computation-wise
+
++ Discriminatory power. The model should maximally discriminate more/less trustworthy agents.
++ Total provenance. No overflows or any errors should happen.
++ Anti-manipulation. The model shouldn't have bugs that can be gamed.
++ Maximal inclusion. As many people as possible should be included in the decision system. This, however is contradictory to (3) and security in general.
+
+$
+  G "is a cylic graph with 'roots'" arrow(R) subset G \
+  "The target nodes we want to prove reputation about, is" arrow(P) \
+  "Denote the set of all non cyclic paths from" arrow(R) "to" arrow(P) "as" arrow(R) -> arrow(P) \
+  "Define depth to be the number of nodes walked from roots, where roots have depth"=0 \
+$
+
+Example1, we can aggregate the nodes from paths $arrow(R) -> arrow(P)$ into $arrow(v)$, which represents a function $v:d->n$, ie. number of nodes at each depth.
+
+At depth $n$, an attacker can easily spam infinitely many nodes to break the system.
+
+Call any trust function to be $T$
+
+If we make it $forall T(d+1)<=T(d) | T(arrow(P)) = sum_n (T(d=n))$, the system can be broken by infinitely extending the depth.
+
+Then, we make it $forall T(d+1)<=T(d) | T(arrow(P)) = T(d=d_max)$, which is also what I considered years ago, and probably also the most common solution.
+
+$
+  "0 and 1 represent any two depths" \
+  forall n_0 -> n_1, ..., n_k \
+  t_1 = floor(t_0 / k) \
+  T(d=1)= sum_(n <=k) t_n \
+  "simply we take" T(d=d_max)
+$
+
+We prove that $forall T(d+1)<=T(d)$ in this system
+
+$
+  T(d+1) = sum k sum t_(d+1) \
+  forall t_(d) = k times t_(d+1) + r_"emainder" \
+  T(d) = sum k sum t_(d+1) + sum r
+$
+
+What if the attacker uses a node from depth $n$ which is relatively small/trusted and maximizes trust by adding a lot of child nodes.
+
+Simple method is to have $sum T(n.C_"hildren") <=T(n)$, which holds for the above method, but this goes against _maximal inclusion_.
+
+The above algorithm only limits the $T$ if they are not repeatedly added. It can't handle muiltple paths going through one node. But in this model, leaves' trust will not exceed its parent. An attacker can infinitely add bots to one node he controls and not gain any more trust. 
+
+Additionally, we add a rule that, in the set of paths being proved, $arrow(P)$, no path should be a sub path of another path. Otherwise it can be exploited, due to repeated counting of trust. (owning a parent = owning all the leaves)
+
+The system maintains a conservation of total trust. 
+
+#highlight([The argument to use the graph and recursive functions is that, the linear algebra methods like EigenTrust ultimately are working on graphs indirectly,]) while this method is more interpretable.
+
+Consider, assuming a node $n_1$ is as trustworthy as $n_0$, it would be counter productive to have $t_1 = floor(t_0 / k)$. The better way is to have $t_1 = t_0$, because BY ASSUMPTION we know this node is trustworthy.
+
+We can notice the core conflict here.
+
+Taken to a larger perspective, what should numbers in this system even represent.
+
+If each layer can not have greater scores than previous depth, this is a delegated vote of root nodes. 
+
+Let's introduce an assumption, say, $H subset G$ are represented by non-bots/sybils. Should the set of humans have equal votes? Not really, because they are not necessarily _aligned_
+
+Should humans at least have more voting power than bots? Maybe. But why, because they are more likely to be aligned?
+
+Ultimately, should this system adjust voting power based on information? Or It's not its duty at all?
+
+If we can establish the fact that its not this system's duty, we can consider it complete, already.
+
+$
+  T(d_max) = sum (R_n / (k_0 times k_1 times ... k_m))
+$
+
+We find that the final calculation takes this shape. A sum of fractions (that evaluate to integers).
+
+$
+  T(d_max) = sum (R_n times k_0 times ... k_b) / (k_0 + ... + k_m)
+$
+
+(This equation omits the $floor(x)$ step)
+
+In the precise approach to the trust score calculation, the final score can be represented as a fraction.
+
+I'd call this model, _FluidTrust_
+
+== On evaluating a trust system
+
+There is really no end to this open problem. A hypothetical perfect trust system will integrate every possible information in reality.
+
+Here we define it with a more exotic kind of logic other than standard math. It still conforms to classical logic however.
+
+A trust system conforms to a will, which, itself could change as the trust system evolves.
+
++ Good agents performing good actions in the system, should gain higher trust scores.
++ Agents performing bad actions, ie, against the will, should lose trust scores.
++ It's easier to lose trust, thus promoting long term cooperation
+
+In reality, the will can be exemplified by a dictator, or just a normal government.
+
+Parallels can be drawn from the currency system. The global financial system has a will of the will of largest shareholders. The will, however, is not obvious, and might be unconscious, such that it is just a collection of the will of shareholders.
+
+EigenTrust does NOT necessarily fulfill this specification.
+
+
+== Investigation: How floating point operations are handled in ZKVMs
+
+https://blog.icme.io/a-review-on-floating-points-in-zero-knowledge-proof-systems/
+
+https://github.com/zkonduit/ezkl
+
+Floating point operations are slow, probalematic in general. So I designed the trust system to use integers in the first place.
+
+== The curse of collective free will
+
+When you want to swap for some crypto money, you try to find trustworthy familiar people. You can't find any, you resort to online strangers. You both run into a predicament.
+
+The traders wish there be a force that ensures fair exchange of coins.
+
+And the lack of it, is effectively how the establishment extinguishes cooperation that is not endorsed by the government. Cooperation in a state of anarchy is costly due to the mutual suspicion.
+
+The force that ensures cooperation can sure do more than what participants expect, which they then call corruption.
+
+The ideal force that does such work, should charge zero fees.
