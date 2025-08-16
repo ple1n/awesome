@@ -164,3 +164,70 @@ Selection criterion
 
 - Prover can be run in browser, or outside browser but easily installed
 - Verifyer is preferably in Rust, compiled to WASM and easily integrated in freenet2 contracts.
+
+## Architectural choice on network routing
+
+The contemplation should deliver an answer to, where do we start coding. 
+
+In the typical P2P softwares development you would use a Kademlia library and add custom logic and thats it. 
+
+Alternatively, you can use Libp2p's stack and join a larger DHT network, which may offer more service availabiltiy if your network would be small. Libp2p also provides many services like pubsub network. You benefit by joining a larger network, ie. amortized load.
+
+The freenet2 thing is, it decouples netwrok transport from business logic. The line is drawn by a concept called state-machine-model. Specifically a state machine that doesn't have blockchain-like consensus. 
+
+If you develop apps based on this model, the app can be easily ported to any platform, freenet2 forks, any such transport that adopts the wasm runtime. And all of them will be inter-operable, by definition, by design. If freenet2 is currently non functional, it's trivial to make a federated platform based on the runtime.
+
+The model puts constraints on what you can do in the code, and in turn offers logical implications. The machine itself, is hermetic that you can not access resources out of this state machine. This means if you put a chat room inside a contract you can not have it moderate messages based on source IP. 
+
+### Why should we adhere to this model
+
+I don't expect future apps, however fancy, to deviate much from this model. If this model is to stay, it means lower transports will have to adhere to this model too. 
+
+I believe the limits the model chooses are well founded, necessary.
+
+### Integration with AI assistant
+
+> a whim but I should note this down
+
+This is mainly a motivation that I want to stress. There is high value in language-tutoring in live environments.
+
+## Anonymous Isomorphism
+
+Hereby I introduce a construct. people perform activity _X_, which often leak their identities. 
+
+What I want to illustrate here is that _X_ matters when its, hiring, businesss cooperation, covert political operations.
+
+For most activities _X_, people can not conceal their identities, except censors themselves. 
+
+The construct of _Anonymous Isomorphism_ is that in this thought experiment, we do _everything_ anonymously.
+
+The property of anonymity annihilates power.
+
+Example:
+
+- You contact an online person who scores high as to your ideological alignment
+        - The process by which you find this person leaks your intentions, which means it's difficult to find him without risking yourself in the first place.
+        - You have to know a lot about him, which makes you valuable to interrogators, but in fact the minimum requirement for you to hire him, is the score.
+- You are an HR, or have some connections.
+- You give him favor.
+
+From the perspective of censors, let's analyse the case of mixnets.
+
+- You connect with servers and cooperate
+- The activity sponsors criminial activity with 1% probability.
+- Punishment is impossible due to the dilution. 
+
+Then we go back to the hiring case
+
+- The person shows an ZKP proof of set membership where he is one of `A+B` where `A` is normal citizens and `B` is a violent group of criminals that you support.
+- You hire him.
+
+We can infer that when this act is done on a massive scale, it will change things,
+
+## The state and its credentials
+
+The state, or in other words, the _apparatus_ by which a group of people rule over others, relies extensively on credentials. One single person can have a lot of connections, knowing them personally, but the state is too big to not rely on, abstract credentials of power that have the details removed. 
+
+In a corporation you may fear a person because he is an HR, but in the largest the scale of society, it's money. Money is the _credential of power_, with _least information possible_, ever. I do not say this for the usual case of money where transactions are monitored. It's only as such in the most idealized case. There are implementations of it like ZCash.
+
+Society evolved to use abstractions. The point is we in turn utilize such abstractions to confer anonymity on us. 
