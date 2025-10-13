@@ -107,3 +107,66 @@ The majority deserve their treatment. The outliers are their own breed.
 - The exact means to such socialism is left to readers. 
 
 The socialism of last century was Kafkaesque. The next one shouldnt be. 
+
+# Dialectics and classical logic
+
+I've my own way of estimating my worth of thoughts. I value it when a new idea of mine challenges, or contradicts most mainstream thoughts. Such contradiction is based on ample contemplation of existing arguments, thus, a dialectical development. 
+
+I had been having a very rich dialectical experience unaware, due to my posession of an internal monologue, which I found to be non existent for many people, later. The intuitive experience is like bumping back and forth across views, and each past view is a _dialectical step_, or _dialectic intermediate_. The term doesn't matter. On a tangent, I love expressing my thoughts with new terms each time, to show off that I actually understand them unlike many organic LLMs that live on the internet, and in my city.
+
+This view, a temporal, longitudinal view of progression of ideas, such as your own understanding of some particular thing, casts a shadow on every moment of my thinking, because I know they are dialectic intermediates, incomplete, imperfect. 
+
+This may sound like truism. I agreed so too, until I became very explicitly aware of such a process. The depiction of it as a truism, is also drawn as parallel to a thought that was traditional in Chinese culture. [Lu Xun](https://en.wikipedia.org/wiki/Lu_Xun) called it 中庸的，调和的 which shares great similarity to the laymen interpretation of dialectics. The dialectics taught in Chinese universities is false too. 
+
+> Every thought is a bit right, and every thought is a bit wrong. Truism, platitude?
+
+There is no useful knowledge that can be drawn from this sentence, without knowing the full theory of dialectics. It may serve some useless skepticism and as a weapon in bad-faith debates, though. 
+
+I used the state-machine model a lot. The benefit of drawing compsci concepts is that they are easy to communicate, and usually non ambiguous.
+
+Dialectic logic is like the whole state machine, with the axis of time included, while classical logic, deals with every snapshot, ie, every state. 
+
+To understand classical logic, I recommend a tour through the tutorials of [Lean4](https://github.com/leanprover/lean4). Don't be scared of theorem provers like I was. They are really just, theorem, provers.
+
+Lean4 captures the entirety of classical logic, with its powerful type system.
+
+1. Classical logic does not care what the terms mean
+2. Classical logic is a language
+3. Classical logic is closed, hermetic, and does not care about its 'external world'
+
+This is my definition of classical logic, or, if it differs from mainstream definition, this is what I believe it should mean. 
+
+When you reason through classical logic, the system is based off a fixed set of axioms, and all conclusions, facts drawn are enclosed within this system. All terms are well-defined to be a fixed place within the system. You can even feed the whole system into a machine to check for correctness of a proof, which does not understand the terms like a human. 
+
+1. Terms do not need to have a semantic meaning
+2. Terms have fixed, non ambiguous meanings within the system, for this definition of _meaning_.
+3. Temrs do not need to correspond to reality. ie, it does not need to deal the problems implicated in _corrspondance theory of truth_
+
+The entire modern STEM is based on classical logic. 
+
+When you reason through, alone or with an interlocutor, using dialectics, the terms are refined, changed, throughout the discourse. That does not mean we can not have stable definitions of terms. It is rather what we want through such a discourse, to gain a better understanding, attached to symbols. 
+
+Definitions are absolutely stable regarding numbers, for example, _within the system of calculus_. You might argue against saying how much thoughts appear when you think of numbers and new thoughts arise etc, but, well, I am specifically referring the idea of numbers, _within its system of calculus_.  `Idea(numbers as a general idea) ∩ Idea(the number's calculus)`
+
+
+# The dialectic imperative
+
+There are notable ideas that can be drawn from dialectics. 
+
+Such as that I can define reason to be a continual dialectical progression. 
+
+A moral duty to dialectically progress one's thought. 
+
+Civil covenants based on dialectics instead of simply 'free speech', and fixed contracts of 'private property'. 
+
+In light of Kafka's thought, I think dialectics is the perfect response. Each possible Kafkaesque situation is a thought awaiting to be integrated into the dialectic machine. The estrangement is exactly what happens when the rest of society do not try to consider the bizarre situation someone is going through.
+
+The _correct_ worldview should maximally integrate thoughts into the dialectic-state-machine where each of them meaningfully push the whole understanding forward, intuitively, a greater picture. By thoughts I mean all the possible future scenarios, all the possible past scenarios, no matter how bizarre; all possible ideas, no matter how forbidden they are, how much they upset you, how counter intuitive they seem.
+
+# Algebraic theory of politics
+
+To algebra, means to abstract out details. That's not all. It's the matter of building a theory based on a foundation of abstractions, which is typically seen in abstract algebra. 
+
+To build a good algebraic theory, it needs a good pick of fundamental elements. And to justify such algebraic theories, I refer to the above elaboration about how both classical logic and dialectics coexist and stay true. 
+
+An algebraic theory is based on a set of abstract elements, which correspond to axioms in classical logic. That is to say, an algebraic theory is hermetic, closed, and perpetual. An algebraic theory should avoid referencing things in real world without explicit awareness, such that the theory forms a coherent language that does not need to deal with language-reality correspondence. 
