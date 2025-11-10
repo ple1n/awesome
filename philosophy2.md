@@ -45,6 +45,27 @@ I live in the fear of implied beliefs. They could drive major decisions and what
 
 > Tribute to Kafka.
 
+- The overwhelming policies based on overacrhing conceptions, generalizations.
+- The lack of nuance in institutions
+- The attack of institutions themselves
+- The laziness of institutions, their voter base, the masses
+- The ubiquity of outliers
+- The violence against outliers
+- The outliers are the minority of minority. 
+- The outliers upset the status quo. 
+- The outliers wreck apart the common morality with their bizarre experiences in life. 
+- The outliers are not vocal. They are, Kafkaesque. 
+- The minority is vocal. The minority is drama.
+- The outliers are neverending. For any bold claim about a generalization you want to make, the outliers exist, and they are defiant. They wreck your logic apart.  
+- The hypocrisy of all of that.
+- The minority gains recognition, and become the norm itself. They enjoy the privilege, become entitled, and get utterly surprised when a pushback happens. The outliers, however, are never ending. 
+- The outliers are a manifest of dialectic itself, and humans shall, reason, and accept the process. 
+- The one person who betrayed his own race
+- The one person who betrayed his own gender
+- The one person who betrayed his own 'queer community'
+- The outlier continues.  
+- I am affiliated with nothing. 
+
 There has always been a strange feeling in countless encounters in my life, the moment I was misunderstood, the moment when I was left alone, estranged. The feeling stayed through my life until I gradually started to put it into words. There is not a single instance of such feeling, or situation that is worth noting down here. Nor is it worth sharing with others, because they are doomed to be not understood, *Kafkaesque*. I always believed, however, the true answer to human compassion is through reason, not emotions, with the all-encompassing sweeping generalizations. 
 
 The concept of pain was a good one, capturing a huge range of negative feelings. Then, here comes the *estrangement*, or being an outlier, which I use due to its mathematical undertone. The *estrangement* is perhaps even worse than pain, which is perhaps just dull and bland. 
@@ -55,17 +76,11 @@ The communists have tried. They established a new dictatorship. They executed th
 
 Praise the outlier. The one Chinese who goes against his own race with critique hasher than outsiders. The one man who is different from the norm of his gender. And most importantly how he then goes agaisnt the norm of "the queer community" he used to, or you think he would, belong to.
 
-The outliers may become regonized, occasionally, rising to the status of "the minority". They stopped being outliers the moment that happens. Yet, the outliers continue to exist. You become the outlier when you disagree with "the minority". There is never any recognition of the outlier in the current way the society think about things, because the minority is recognized due to their political status, not as an inherent element of thought.
+The outliers may become regonized, occasionally, rising to the status of "the minority". They stopped being outliers the moment that happens. Yet, the outliers continue to exist. You become the outlier when you disagree with "the minority". There is never any recognition of the outlier in the current way the society think about things, because the minority is recognized due to their political status, not as an inherent element of thought. 
 
-The dialectic is almost shaped by a constant _betrayals_ of communities. 
+Outliers have no homeland. Nor are outliers affilated with anything. Just as how absurd and crudely rational the modern conception of nation-states and borders are. 
 
-- I betrayed my own race or nation, marked by the sharp criticism which many of the nationals see me as dissident.
-- I betrayed various online communities such as those who shared my same criticism of the nation and race, due to differing views.
-- I betrayed 'queer communities' or things of this kind that I do not want to name more. 
-
-The outliers shall not fear betraying communities. They stand with nothing but the dialectic motion itself, whom I consider a physical embodiment of the dialectics. The problem with many current problems in politics is the problem of minority. The current social-dynamics can not handle a constant movement of thought process, or in other words, the consensus moves too slowly to follow the dialectic. Despite that I find the idea of 'minority' and 'legistlating laws to protect them or such regular legal process' an orthogonal solution to the very problem. People are often educated to recognize the minority, but not the constant existence of different kinds of outliers.  
-
-Outliers have no homeland. Nor are outliers affilated with anything. Just as how absurd and crudely rational the modern conception of nation-states and borders are. The mechanism of market is not that different from the institutions of state, regarding to its treatment of outliers.
+The iron law of markets penalize the outliers, 
 
 ## The masses adapt their morals when the outliers are in power
 
@@ -74,10 +89,6 @@ Outliers have no homeland. Nor are outliers affilated with anything. Just as how
 - The history is shaped by outliers. (not workers) 
 - The masses always want to shame the outliers because they don't obey a norm, yet the rich oppress them.
 - The masses preach property laws yet the outliers rig the markets. They see it as just. 
-
-There is always exception to rules which the masses constantly follow and many genuinely believe in the justness that they are forced to follow the rules. Rules however, always come with exceptions, the regulators themselves, and the rich. The masses turn a blind eye to such facts. I have met some communists online and they seem to believe in a revolution by the masses, for which I later found some excellent rebuttals. 
-
-Identify the causally important elements towards a causal goal, effect or consequence. The history is always shaped by outliers. If there are mass movements, it's usually initiated by a few people, or sparks of thoughts from a few people. It would be massively fallacious to attribute the change to the masses. Innovators are, by tautology, outliers.  
 
 ## The majority deserve the treatment
 
@@ -96,10 +107,6 @@ The majority deserve their treatment. The outliers are their own breed.
 - The exact means to such socialism is left to readers. 
 
 The socialism of last century was Kafkaesque. The next one shouldnt be. 
-
-It's then imperative to think what should this whole theory of Kafkaism land in. The various ideologies of past century have been dealing with class struggle, production, races, various aspirations. Imminent development in the future can drastically change the goals we want to pursue. I'd want to anchor the thought onto something that will probably, persist into foreseeable future for a quite a long time. That the very goal of next socialism should target the problem of _Kafkaesque predicatement_ of individuals itself. 
-
-Is socialism just about bread, or the production of material goods, or the triumph of a society maybe of some specific race? All of them will eventually fall into some sort of Kafkaesque dystopia in various corners unseen in the official propaganda. Think this idea as a pointer that points far into future, rather a specific prescription of the blueprint of a future socialism.
 
 # Dialectics and classical logic
 
@@ -163,25 +170,3 @@ To algebra, means to abstract out details. That's not all. It's the matter of bu
 To build a good algebraic theory, it needs a good pick of fundamental elements. And to justify such algebraic theories, I refer to the above elaboration about how both classical logic and dialectics coexist and stay true. 
 
 An algebraic theory is based on a set of abstract elements, which correspond to axioms in classical logic. That is to say, an algebraic theory is hermetic, closed, and perpetual. An algebraic theory should avoid referencing things in real world without explicit awareness, such that the theory forms a coherent language that does not need to deal with language-reality correspondence. 
-
-# Null hypothesis on the nature of conscious identtiy 
-
-There is a stance that I have been having that is analogous to the null hypothesis, but applied in the realm of _personal philosophy_, as in the philosphy of dealing with one's own outlook on life and personal identity. 
-
-The null stance simply states that, nothing other than the consciouness itself is assumed to be part of the self, yourself, or myself. That none of the surroundings, be it my race, the assignment the parents I got, my nation, is assumed, is taken for granted. It's simply absurd to me to assume that the things are a part of myself for no apparent reason, which underpins a vast array of modern ideologies. They assume too much about their identity, yet most elements about their identity is arbitrary, randomly chosen at birth. 
-
-I only found out the need to write this down because it turned out this is not an idea that many share with me, as opposed to what I previously assumed.
-
-# Wisdom and intellect
-
-I take a computer science approach to explain the difference between wisdom, and intellect. 
-
-Consider a function `Sha256(x)=y`, wisdom is the knowledge of `x`, while intellect, is the ability to reverse the function. 
-
-Apparently in this case it's computationally impossible. This is more on the side of immediate knowledge or information, so, extrapolate `x` to be a some specific way of thinking, specific habits of dealing with things, specific configuration of assumptions (mindset) before any more information is available, a specific worldview. 
-
-It's therefore possible for a computationally inferior agent to _outwit_ a more computationally powerful agent through the _wisdom_, which in the above case, is taken to extreme. Substitute _outwit_ with _outcompete_ in other aspects such as achieving certain noble goals if you need.
-
-Getting substantially more intellect is generally impossible for a human being, but wisdom is not bounded. 
-
-In the causal path to truth-seeking, there are the only two elements, information and compute. Saying that also implies there is a substantial element of information, which enables low-compute agents to massively outpace superior agents with the help of good information. Good information can be, knowledge of a better algorithm, which may reduce complexity from `O(n^2)` to `O(logn)`, while compute is close to average for most human beings by tautology.
