@@ -164,6 +164,20 @@ To build a good algebraic theory, it needs a good pick of fundamental elements. 
 
 An algebraic theory is based on a set of abstract elements, which correspond to axioms in classical logic. That is to say, an algebraic theory is hermetic, closed, and perpetual. An algebraic theory should avoid referencing things in real world without explicit awareness, such that the theory forms a coherent language that does not need to deal with language-reality correspondence. 
 
+## Intentionality and mechanisms
+
+There are only 2 elements that participate in a political system, the intentionality, and the mechanisms that follow various sources of intentionality due to their subservient nature. This forms the basis of my radically different view on politics.
+
+Market is defined by a vector of wealth over all individuals, where the ranks of power are determined by their relative wealth, which is simplest among all systems, in isolation. In comparison to this view of politics, the various political ideologies are somewhat obfuscating the nature of political dynamics. There is, for example, no inherently evil market because market is subservient to the combination of legal regulation and the investors the customers, both are sources of intentionality, which can be directly derived from this theory. This is therefore the 1st point that can be derived to refute a common view that market is inherently evil or some simply call it capitalistic, or phrased in more vague ways.
+
+This framework can be very useful in analyzing immediate problems that exist today, at least. Consider all the systems that may be designed, it's logically inevitable within each one there are sources of intentionality and a massive amount of mechanisms where people have to follow a certain pattern of behavior. Then, it's only relevant to have better sources of intentionality in these systems. 
+
+Do sources of intentionality have anything to do with particular mechanisms such as markets or planning? They don't. 
+
+> I will call sources of intentionality as intention origins from now on
+
+Consider an existing system with bad intention origins, how do you expect good behaving (such as morally good) intention origins to arise? The corrupt people in power would prevent that, _by tautology_. It's therefore a prerequisite that a system have benign intention origins, rather than what most current political theoriests try to do, ie, endlessly analyzing mechanisms and consider politics to be a science of mechanisms, ignoring the persistance, and precedence, the causal importance of intention origins. 
+
 # Null hypothesis on the nature of conscious identtiy 
 
 There is a stance that I have been having that is analogous to the null hypothesis, but applied in the realm of _personal philosophy_, as in the philosphy of dealing with one's own outlook on life and personal identity. 
@@ -185,3 +199,11 @@ It's therefore possible for a computationally inferior agent to _outwit_ a more 
 Getting substantially more intellect is generally impossible for a human being, but wisdom is not bounded. 
 
 In the causal path to truth-seeking, there are the only two elements, information and compute. Saying that also implies there is a substantial element of information, which enables low-compute agents to massively outpace superior agents with the help of good information. Good information can be, knowledge of a better algorithm, which may reduce complexity from `O(n^2)` to `O(logn)`, while compute is close to average for most human beings by tautology.
+
+# Pareto front, multi variate, multi objective optimization
+
+I have to name this method of thought, as in, it as a gadget that I often pick up to frame my ideas, to analyze things, the notion of Pareto front, a recurring theme throughout my recent stream of thought.
+
+Then going meta again, it's sometimes more preferable to write down _gadgets of thoughts_, rather than try to come up with gigantic, systematic theoretical works.
+
+Many problems of real world are often over-simplified, such as the concern on privacy, the advocate of privacy. Many would want a single piece of software that is specialized in protecting the user's privacy, yet the problem itself is actually a multi-objective optimization over _actual usability_ and _privacy_. Speaking of usability, I would, as usual, ground it in very immediate phenomena, that the user actually makes friends through a privacy-enhanced device, or software, or platform, that the solution in question is actually increasing the rate of the usability, which is the _phenonemal account of usability_. This can be said for many other problems that most of them are multi-objective optimization, instead of what they seem to be single-objective which many assume so.
