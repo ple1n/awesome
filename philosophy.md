@@ -178,6 +178,34 @@ Do sources of intentionality have anything to do with particular mechanisms such
 
 Consider an existing system with bad intention origins, how do you expect good behaving (such as morally good) intention origins to arise? The corrupt people in power would prevent that, _by tautology_. It's therefore a prerequisite that a system have benign intention origins, rather than what most current political theoriests try to do, ie, endlessly analyzing mechanisms and consider politics to be a science of mechanisms, ignoring the persistance, and precedence, the causal importance of intention origins. 
 
+## Abstract algebra of power
+
+> Politics and economy
+
+Following the method of abstract algebra, lets define some axiomatic elements of the algebra
+
+- Absolute Money, as a form of power that has no strings attached.
+- Will, any kind of intention that is powerless without money.
+    - There is conflict, between wills.
+- Absolute violence is conceptualized as an extreme form of power where the outcome of event _A_ is forcefully made by some will against other will. 
+    - The violence can come from nature, state, or regular people.
+    - Money is a stateful construct upon this notion, which faciliates the theory.
+- Willed Money. Role powers in institutions, legal powers, academic, corporate credentials, status. The acquirement of such money and exercising their power requires conformity to a specific will. 
+    - Legal money, which is a common form of willed money, close enough to absolute money, but mainly subject to taxation and various fees.
+    - Property is what a free will can dispose of, with total sovereignty.
+        - Asset is a form of property that generates money, where in its purest form, pure asset. Pure asset generates money without the owner conforming to any other will such as in the way of labouring.
+        - Inalienable property, those things that are tied to free will, for all practical purposes, such as looks and intellect, which can not be directly traded yet.
+- Gains, defined as a function over a particular will. Absolute money produces equal, net gains for every free will, by tautology. This gives absolute money a special conceptual status of _pure utility_
+- Loss is defined as negative gains. 
+
+The willed money, is hence, a 'linear combination' of the former two algebraic constructs. 
+
+Under this framework, only the net profit of a corporate, or disposable income of a person can count as 'legal money', as the rest of money is subject to will of clients, not of their own, having strings attached.
+
+The modern system has a vast collection of willed money, each serving a different goal. 
+
+Out of all kinds of willed money, legal money, aka currency, is most liquid, easily tradeded due to their structural simplicity. Different kinds of money are interexchanged which is enabled by a matter of configuration of current reality.
+
 # Null hypothesis on the nature of conscious identtiy 
 
 There is a stance that I have been having that is analogous to the null hypothesis, but applied in the realm of _personal philosophy_, as in the philosphy of dealing with one's own outlook on life and personal identity. 
@@ -200,6 +228,8 @@ Getting substantially more intellect is generally impossible for a human being, 
 
 In the causal path to truth-seeking, there are the only two elements, information and compute. Saying that also implies there is a substantial element of information, which enables low-compute agents to massively outpace superior agents with the help of good information. Good information can be, knowledge of a better algorithm, which may reduce complexity from `O(n^2)` to `O(logn)`, while compute is close to average for most human beings by tautology.
 
+This is also, how the right prompt can make LLMs 'much smarter' because we are giving it some 'knowledge' that is on a very high metacognitive level. In an analogy, the AI was running on a `O(n)` algorithm and the prompt we gave them is some sort of `O(logn)` method of thought.
+
 # Pareto front, multi variate, multi objective optimization
 
 I have to name this method of thought, as in, it as a gadget that I often pick up to frame my ideas, to analyze things, the notion of Pareto front, a recurring theme throughout my recent stream of thought.
@@ -207,3 +237,68 @@ I have to name this method of thought, as in, it as a gadget that I often pick u
 Then going meta again, it's sometimes more preferable to write down _gadgets of thoughts_, rather than try to come up with gigantic, systematic theoretical works.
 
 Many problems of real world are often over-simplified, such as the concern on privacy, the advocate of privacy. Many would want a single piece of software that is specialized in protecting the user's privacy, yet the problem itself is actually a multi-objective optimization over _actual usability_ and _privacy_. Speaking of usability, I would, as usual, ground it in very immediate phenomena, that the user actually makes friends through a privacy-enhanced device, or software, or platform, that the solution in question is actually increasing the rate of the usability, which is the _phenonemal account of usability_. This can be said for many other problems that most of them are multi-objective optimization, instead of what they seem to be single-objective which many assume so.
+
+# Dialectical freedom, as opposed to constitutional free speech or paradox of tolerance
+
+There is a practical and dire need for a better idea that is drafted to substitute for constitutional free speech or paradox of tolerance, be it a mode of moderation in a small community, or society at large. Not like I really count on this to be implemented, but it's the idea I would propose if there needs to be one, at all. 
+
+The "or" in the section title does not imply a parallelism. Speaking of their parallelism, it lies in the fact that they are both being pushed, thus constituting my use of "or".
+
+On a tangent, there are infinitely many ideas being pushed. For each one of the idea, I suggest a dichotomal split, as a starting point of thought, that an idea is not just an idea in public, but the _idea de jure_ and the _idea in effect_. It would be utterly fallacious to just treat the idea as they are pushed, much as I do not just take what a person says, I observe what he does.
+
+The idea of free speech always falls short when it gets implemented in online communities, because there is an infinitude of nuance that is not captured in a simple code of 'free speech'. The particularities remain non-rationalized and people mostly only focus on that simple _code_ or _covenant_ of free speech.
+
+The matter is to treat politics and social system as a whole, as a conversation, a dialogue, a rational process. 
+
+Analogously to free speech, we can forbid what blocks the dialectical progress, and intentionally promote what drives the dialectic forward. In practicse this is very similar to what 'code of free speech' will effect in. 
+
+- Spam (valid under free speech, invalid under dialectical freedom as it blocks reasoning)
+- Slurs (valid under free speech, invalid under certain code of tolerance, valid under dialectical freedom as long as its not spam)
+- Violence (blocks dialectical progress)
+- Property (blocks dialectical progress as it blocks the liberty of people who can effect change)
+
+# Retrospective chronological view on life
+
+I have tried to rationalize my past which does provided me with useful insights, including, personality development analyzed from the whole trajectory of life.
+
+Here is another thing first. Life can be generally seen as a series of steps of a backtracking solver. This is, a specific observation over a pattern that is visible in my own life. That is to say, and that I believe, it might not apply to other people as directly. 
+
+The steps mainly consist of super goals and going into sub goals. When sub goals fail or are postponed I retract to super goals, which, at this very moment, triggers a very existential process of _goal revaluation_. And I would like you to focus on this motion. This picture as I am positing here, is not useless, which for myself I would try to remind myself of that too to be aware of this general process to not be carried away by sub goals. When it gets retracted all the way back to origin, it's called an existential crisis. Here, this forms a very substantial definition of the elusive idea.
+
+# You should gain confidence by recognizing the finitude of your time and reasoning power
+
+Two ways can it go
+
+- I am lay person who has finite time and reasoning effort, so I must follow textbooks and governments
+- I am lay person who is rationally bounded, so I should favor my _pet theories_ despite their possible unsoundness, because they are trustworthy. 
+
+It is only after I realized my finitude in time that I can not read all books over philosophy that I developed more confidence in my own theories. 
+
+And, ontologically, all theories are fundamentally pet theories. There is no valid distinction when the logical framework can be arbitrary.
+
+Let me call it _transcendental humility_
+
+# The most valuable thoughts are those that have never been put into words
+
+> https://en.wikipedia.org/wiki/Phenomenology_(philosophy) relevant
+
+I find it utterly absurd that a huge number of people would read books (most prominently marxist books and christian scriptures), who comprosise a large portion of the modern political debate, and adhere to them strictly, and shun others for not knowing the said books. They barely think themselves. 
+
+The most valuable thoughts are those that have never been put into words. The whim you get after some internal expedition, which surprised you so much that you immediately know that you have never felt this before, a brilliant new idea not present in the common vocabulary of the discourse at large or your own vocabulary. 
+
+The real philosopher pulls theories out of thin void, utter void. The salesmen digest it and rebrand them for their own gains. 
+
+On the dialectic side of justification, language gets gradually refined, aka, modified, adapated as the discourse goes, which is considered progress. Such radical ideas are logically a greater kind of dialectical progress.
+
+# Guide to newborns
+
+Prospective chronology suitable for reading by newborns.
+
+- You are born in a random country, random family, given a name that you never chose yourself. 
+- You are compelled to accept this body, the race, the culture that comes associated with it, the legal and social contracts of the country you live in. 
+- You are forced into a prison-like education system. 0.1% of people did not make it. They killed themselves. 
+- You are born into an abusive, poor family. 1% of people didn't make it.
+- You are met with an accident, 40% people in similar conditions did not make it.
+- Your unluck pile together, 70% of people in similar situations did not make it. 
+- You have entered the Kafka territory, where the pain can not be communicated and all the feelings have to be pocketed, merely due to the sheer absurdity of the situation itself.
+    Your ideas lead to ridicule, or even persecution if you try to express them. 
