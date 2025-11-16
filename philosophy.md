@@ -302,3 +302,8 @@ Prospective chronology suitable for reading by newborns.
 - Your unluck pile together, 70% of people in similar situations did not make it. 
 - You have entered the Kafka territory, where the pain can not be communicated and all the feelings have to be pocketed, merely due to the sheer absurdity of the situation itself.
     Your ideas lead to ridicule, or even persecution if you try to express them. 
+
+# The war against institutions 
+
+I hereby declare a war aginst institutions, from which real liberty begins.
+
