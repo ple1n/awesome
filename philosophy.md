@@ -290,6 +290,12 @@ The real philosopher pulls theories out of thin void, utter void. The salesmen d
 
 On the dialectic side of justification, language gets gradually refined, aka, modified, adapated as the discourse goes, which is considered progress. Such radical ideas are logically a greater kind of dialectical progress.
 
+## Paradox of competence
+
+It's fairly safe to assume that the 'famous philosophers' are mainly characterized by their own thoughts and theories. Their knowledge about other philosophies are an addition mentioned in the support of their own philosophy. There isn't a gross negligence of past literature but the focus _is on_ their own ideas. A lot of people expect you to heavily cite past philosophical dicourse despite not demanding that aloud. The paradox is that, such criterion deems those with more original thoughts, incompetent, which includes those famouse philosophers. Originality is valued by people unless it comes to online discourse it seems.
+
+We can probably also agree that, truth value is independent from reputation, popularity, authority. I claim X to be true with or without citing the source from which I derived the idea, which, often is European enlightenment. The claim should not appear more true or less true to you whether the source is revealed or not. 
+
 # Guide to newborns
 
 Prospective chronology suitable for reading by newborns.
