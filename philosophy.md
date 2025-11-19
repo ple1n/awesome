@@ -313,3 +313,23 @@ Prospective chronology suitable for reading by newborns.
 
 I hereby declare a war aginst institutions, from which real liberty begins.
 
+# On the holography between Dialectics and State Machine
+
+I found a potentially very inspiring similarity between the structures of dialectics and state machine, as in finite state transducer which I am more familiar with. I think the structural similiarity itself is worth noting down.
+
+State machines are a recurring pattern throughout reality, which is the same for dialectics. 
+
+To begin, a person's opinion can be modelled as a state machine, where every piece of information may push for the state change, or not. We call the pieces of information, deltas. Each delta may be modelled with classical logic, which conists of axioms and other data. Each delta is therefore on its own, perpetual, self consistent, and independent of external world. Each delta is a closed system of language that does not deal with correspondence with external world such as phenomena. 
+
+Some deltas do not push for state change, ie, opinion change. We can regard them as useless information. This is how, meaningful dialectical progress may be defined over.
+
+# Reductionism and where it works around
+
+Reductionism is the method of choice in modern rationality. I noticed that we should work around, or that good theories work around the following
+
+- Free will, irreducible, mainly in political theories
+- State itself, in computer science related and whatever I mentioned, irreducible.
+- End in itself, whenever we talk about means to end, we may reach a point of _end in itself_
+- Ontology, irreducible. Thats why we mostly only care about phenomena. 
+
+In retrospect, my algebraic theory of politics follows these rules, as it works around free will, goals of 'the particular system we may want'. They are treated as irreducible _atoms_ in the theoretical framework. And I pursued the productive path of analyzing everything other than the atoms. The theory may be roughly visualized as a graph connecting the irreducible atoms of 'free will' where the ontology of free will does not matter either.
