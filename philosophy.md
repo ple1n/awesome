@@ -348,4 +348,4 @@ They are irreducible for a variety of reasons, maybe because the information is 
 
 It often seems as if the market has reach optimality where you can not change anything but to follow the rules. That every piece of valuable work can be reduced to mere capital, organization and talent that is simply interchangable with money. This is the market perspective, where goods, are in fact the singularities, left out not dealt with. The theory about the mechanisms isn't wrong, but we just noticed the singularities. 
 
-That means we can work on them to "beat the market", better internal organization when it's a company, more ideas when it's an individual, etc. 
+That means we can work on them to "beat the market", better internal organization when it's a company or a state, more ideas when it's an individual, etc. 
