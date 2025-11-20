@@ -178,7 +178,7 @@ Do sources of intentionality have anything to do with particular mechanisms such
 
 Consider an existing system with bad intention origins, how do you expect good behaving (such as morally good) intention origins to arise? The corrupt people in power would prevent that, _by tautology_. It's therefore a prerequisite that a system have benign intention origins, rather than what most current political theoriests try to do, ie, endlessly analyzing mechanisms and consider politics to be a science of mechanisms, ignoring the persistance, and precedence, the causal importance of intention origins. 
 
-## Abstract algebra of power
+## Abstract algebra of power, politics
 
 > Politics and economy
 
@@ -206,7 +206,11 @@ The modern system has a vast collection of willed money, each serving a differen
 
 Out of all kinds of willed money, legal money, aka currency, is most liquid, easily tradeded due to their structural simplicity. Different kinds of money are interexchanged which is enabled by a matter of configuration of current reality.
 
-# Null hypothesis on the nature of conscious identtiy 
+Being algebraic abstracts out specific details, which makes it last longer regarding the rapidly shifting landscape, as a good political theory should deal with. The theory should last into future despite rapid development in AI. Most other political theories of current time focus on specifics of morality, methods of social organization, production or rebellion. 
+
+The algebraic method in general also tries to capture the whole of reality, as in phenomena, top-down, which is total rationalization in best effort, as in, not missing any part in the theory. 
+
+# Null hypothesis on the nature of conscious identity 
 
 There is a stance that I have been having that is analogous to the null hypothesis, but applied in the realm of _personal philosophy_, as in the philosphy of dealing with one's own outlook on life and personal identity. 
 
@@ -333,3 +337,15 @@ Reductionism is the method of choice in modern rationality. I noticed that we sh
 - Ontology, irreducible. Thats why we mostly only care about phenomena. 
 
 In retrospect, my algebraic theory of politics follows these rules, as it works around free will, goals of 'the particular system we may want'. They are treated as irreducible _atoms_ in the theoretical framework. And I pursued the productive path of analyzing everything other than the atoms. The theory may be roughly visualized as a graph connecting the irreducible atoms of 'free will' where the ontology of free will does not matter either.
+
+I may call the atoms, ie, irreducible parts when rationalizing in a reductionist framework, _singularities_ in the chapters to come.
+
+They are irreducible for a variety of reasons, maybe because the information is not yet available.
+
+# Fear of market optimality
+
+> Modern capitalism is as efficient as it can get. Your labour is so clearly priced. Stop overestimating yourself. 
+
+It often seems as if the market has reach optimality where you can not change anything but to follow the rules. That every piece of valuable work can be reduced to mere capital, organization and talent that is simply interchangable with money. This is the market perspective, where goods, are in fact the singularities, left out not dealt with. The theory about the mechanisms isn't wrong, but we just noticed the singularities. 
+
+That means we can work on them to "beat the market", better internal organization when it's a company, more ideas when it's an individual, etc. 
