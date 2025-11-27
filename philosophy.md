@@ -1,3 +1,5 @@
+Contact me at https://matrix.to/#/@plein:tilde.horse and this essay comes with a non-public version. 
+
 # "Against" Marxism, the pinnacle of academic obscurantism
 
 There is not a journal dedicated to how you, specifically, you, your personal being, should live your life. There is no formal (academic) school of philosophy that really deals with this topic. Instead, you see all the manosphere, or feminist, or parentally preached content. There is a dire need for everyone that lives, a need that is immediate, a need that begins when he ever starts thinking about his life. Admit it, just admit it. The academia is impenetrable to the commoners, especially the wageslaves (or will-bes), the people who can not afford time. This void, is then filled with various cultists, such as the nationalists, the religious preachers, the parents, the mass media, which serve as an excellent proof that the void exists, that the need is so dire. 
@@ -388,4 +390,39 @@ The system is said to move faster than reason because it has the incentive gradi
 
 Game theoretic wise, capitalism is bad performing because every deal is cursed by a game of chicken, such that perhaps half of useful cooperation is not realized due to the competitiveness itself. I don't consider the competitiveness productive, as it is making everyone worse off. In manifest, many people are using broken products because it is a conflict between the totality of producers of a product and the consumers. They could not reach a deal where everyone is using optimal, non broken products (which is easily attainable by today's productivity). The situation is only sustained to keep consumers to properly fund the industry, which is not absolutely necessary but only product necessitated by a particular configuration of reality, laws, circumstances. 
 
-Sometimes an invention is more of a discovery like what people do in cosmoslogy, rather an invention like some craftsman's product. Capitalism is one of the inventions that are actually, more of a discovery that people _may work in this particular way_. 
+Sometimes an invention is more of a discovery like what people do in cosmoslogy, rather an invention like some craftsman's product. Capitalism is one of the inventions that are actually, more of a discovery that people _may work in this particular way_. I see AGI in the same way. 
+
+## Continuation, every system of power as a composition of two
+
+I theorize that every incentived, or forced action in the society, consists of a component of intetionality by one agent, and a component of pure power. Capitalism is a system that works with, almost pure power. Wealth itself, in the purest form, is not conditioned upon any particular terms. Cooperative production is a product of conditioned wealth transfer, where the cooperation is faciliated by a product of power transfer and intetionality that is synthesized by a judicial system.
+
+Wealth is such a weird thing as it exists today in the system. It is a form of power that can not be more pure. You can imagine that it can faciliate any trade that is possible, in the dark markets etc, because it's a form of power that is not pre-conditioned towards any particular goals.
+
+The cooperation in dark markets is also cursed by how _free_, more precisely, _unconditioned_ wealth is. It's so free that it haunts cooperation. That's why normal markets have a powerful judicial system that exerts intentionality, which is better for human collaboration.
+
+The more pure form of intentional system exists in more rigid hierarchies, such as miltiary systems. Individuals are assigend to do tasks by immediate decrees. Actions are mediated by a two component system where intentionality dominates and 'wealth' barely changes. Or, is it? We notice the ranks as a form of wealth in this system, although less liquid like normal capitalism. 
+
+The core system of capitalism mainly deals with the condution of wealth, transfer, and what not. The counter-part is the condution of intentionality. In normal judicial system, conduction of intentionality is exerted through violence and threat of violence. The judicial system also creates a gradient of incentives despite being less pervasive than capitalism because evidently many scenarios are legally uncertain, until the judges announce a decision.
+
+In purest forms, there exist intentional violence and unintentional pure wealth. The former is when one person forces an outcome upon another person. The latter is when one person owning more things while doing nothing to another person. Neither can exist without the existence of the others. In the first case, the one person that can exert violence clearly has more wealth, by definition. In the second case, the status quo itself that can not be disturbed is a form of intentioal violence. 
+
+Ranks themselves, are pure power, despite titles and various descriptions being frequently associated with them. It is only in a regulated system of wealth where intentions are frequently exerted the system gradually gets recognized as a system of ranks for a particular set of goals. We consider an agent to be in a list of groups where each group has ranks and frequently associated goals.
+
+The system of money is the largest group where all kinds of intentions are allowed such that the rank itself seems unconditioned and free. In some systems we construct it such that the ranks are only promoted with more specific goals.
+
+Property system as to wealth, reputation system as to intentionality. Can we design such a system that is as powerful as the current property system? Wealth can often be reduced to each other, as in, people considering them equi-valuable. Are intentionalities often reducible to each other? The pervasive reductive nature of wealth makes a currency system possible, which in the simplest case reduces wealth to a scalar.
+
+# Language, graphs and logic
+
+# Systems design, open problem, iterative maxima
+
+What is a good solution to systems design, or some open problem?
+
+The solution that defies further iterative development, simplification, reduction. 
+
+A worse solution gets refactored, simplified, reduced to simpler parts and reconstructed. 
+
+A good solution defies such changes because it is already at an _iterative maximum_. 
+
+- Solutions that are needlessly specific, get generalized, which is a reduction to a general solution + specific parameters.
+- Solutions that under-estimate the number of variables are outcompeted by alternatives that do consider more variables. Many problems are Pareto optimization problems involving the human factor, UX, such as design of programming languages.
