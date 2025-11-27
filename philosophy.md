@@ -349,3 +349,21 @@ They are irreducible for a variety of reasons, maybe because the information is 
 It often seems as if the market has reach optimality where you can not change anything but to follow the rules. That every piece of valuable work can be reduced to mere capital, organization and talent that is simply interchangable with money. This is the market perspective, where goods, are in fact the singularities, left out not dealt with. The theory about the mechanisms isn't wrong, but we just noticed the singularities. 
 
 That means we can work on them to "beat the market", better internal organization when it's a company or a state, more ideas when it's an individual, etc. 
+
+# Dialectic maximization as a truth seeking algorithm
+
+I have always been living by a method of _dialectical maximization_, specifically, I maximize the amount of change in personality through whatever life experience I can get. 
+
+It did work. As elaborated earlier there is an assumption that for a particular set of beliefs, you should be able to _feed in_ new arguments, opinions, and data, which through a reconsideration of everything combined should gradually drive towards a more correct view over time, approaching truth ultimately. 
+
+This method applied to life, is in practice applied to personality, which is the main causal component that determines the happening of your life, to a overwhelming degree.
+
+In general, I see dialectic maximization as a pratical method of truth seeking that one human being can adopt. 
+
+A person is in a naive blank tabula rasa state when born, and fed data through education system which are not very relevant in driving the development of personality overall. This starting point from a perspective of building a truth-seeking algorithm, is particular hard becuase there is very little true data, or beliefs that one can assume that one owns already, while the environment is full of adverse intentional or unintentional lies. How can such a person gradually obtain a set of beliefs that are _correct_, or ideal? In this case, the best method is through the _dialectic maximization_. Maximzie the amount of change and the rate of change (2nd order).
+
+The algorithm requires minimal amount of beliefs to be assumed to be true. 
+
+Truth seeking of a particular topic, is always inseparable from the truth seeking of a person's life as a whole. In other words, if you really tried your best to find truth in one topic, it will and should eventually change your personality. This is the profound contextuality, as in, how connected the things are.
+
+Personality is the informal term I use for the largest rational context of a person, by which every topic is examined and reasoned. 
