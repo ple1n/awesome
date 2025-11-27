@@ -218,6 +218,8 @@ The null stance simply states that, nothing other than the consciouness itself i
 
 I only found out the need to write this down because it turned out this is not an idea that many share with me, as opposed to what I previously assumed.
 
+This section should answer my view on race, nation, and identity _in totality_
+
 # Wisdom and intellect
 
 I take a computer science approach to explain the difference between wisdom, and intellect. 
@@ -367,3 +369,23 @@ The algorithm requires minimal amount of beliefs to be assumed to be true.
 Truth seeking of a particular topic, is always inseparable from the truth seeking of a person's life as a whole. In other words, if you really tried your best to find truth in one topic, it will and should eventually change your personality. This is the profound contextuality, as in, how connected the things are.
 
 Personality is the informal term I use for the largest rational context of a person, by which every topic is examined and reasoned. 
+
+I also have a particular way of finding things that maximize my prospect of change. Say, an information source that is rich in various news about arxiv papers. The source could maximize the unpredictability of my future course of actions. I try to get more such sources as much as possible. Let me term it, _dialectic sources_, by which you maxmize your own unpredictability.
+
+Then we can also derive _a particular definition of free will_, ie. free will as observed. Say we have a particular amount of data, where we can predict the prospect of N agents. We can obtain a matrix where each agent is assigned with a score of predictability. In this context we can consider the agent with maximal unpredictability as having most free will. No I am not talking about the nature, aka ontology of free will. Ontology is not discussed in depths at any moment by me. 
+
+# Exotic systems that move faster than reason
+
+The term capitalism is perhaps the most confusing and abused term in the discourse. In general, the term is approached from two opposite ends, the capitalism on paper, as desigend, as imagined, and the capitalism as observed, as reasoned from an external observer's perspective. Let me call them capitalism de jure and capitalism de facto, which should be talked about separatedly usually, but as a whole, it forms a very exotic system. 
+
+The core of capitalism, is a matrix of wealth and a gradient of incentives it casts. Forget about all ideologies on capitalism. Here I am, proposing a perspective based on pure math. The system can manifest in any forms, with any laws and ideologies, by changing itself. The system can have one law about refund policy and some other laws the other day. This is, apparently what makes it confusing. The wealth matrix consists of rows where each row represents the total wealth of an agent, where each column is one particular form of wealth. The gradient of incentives is created by the fact that each agent wants more of wealth at any given moment.
+
+I am not concerned with particular value judgement that it is good or evil but I admire the exoticness of such a system. This system does not exist by itself. It is created at some point. This is one example of engineering that involves very little effort (as in the amount data and complexity thereof that is needed in the blueprint) but massively profound impact. 
+
+The system will persist far into future, reshaping its own definition, but we will recognize it as the same thing that changed itself. How surprising. It will persist until reality hardly resembles what it is right now, such as by erasing the existence of boundaries of consciousness itself, or that ownership can not be created in any form at all.
+
+The system is said to move faster than reason because it has the incentive gradients that are desirable to a particular goal such as optimized production, despite the fact that no-one has laid down the particular plans of incentive gradients in a decree, which inevitably invovles reason, or, I call this a rational process, as in intentional command. The gradients exist before any theorist talks about capitalism, in almost any corner of reality. 
+
+Game theoretic wise, capitalism is bad performing because every deal is cursed by a game of chicken, such that perhaps half of useful cooperation is not realized due to the competitiveness itself. I don't consider the competitiveness productive, as it is making everyone worse off. In manifest, many people are using broken products because it is a conflict between the totality of producers of a product and the consumers. They could not reach a deal where everyone is using optimal, non broken products (which is easily attainable by today's productivity). The situation is only sustained to keep consumers to properly fund the industry, which is not absolutely necessary but only product necessitated by a particular configuration of reality, laws, circumstances. 
+
+Sometimes an invention is more of a discovery like what people do in cosmoslogy, rather an invention like some craftsman's product. Capitalism is one of the inventions that are actually, more of a discovery that people _may work in this particular way_. 
