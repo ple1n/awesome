@@ -414,6 +414,8 @@ Property system as to wealth, reputation system as to intentionality. Can we des
 
 # Language, graphs and logic
 
+tbd
+
 # Systems design, open problem, iterative maxima
 
 What is a good solution to systems design, or some open problem?
@@ -431,7 +433,7 @@ I may call this iterative maximum, or iteratively optimal.
 
 # Not all things are in total order
 
-Here I present a useful pieceful of thought that is fairly pervasively used in identifying reality.
+Here I present a useful pieceful of thought that is fairly pervasively used in identifying reality, coming from 
 
 **Many things are falsely assumed to be in a total order, such as looks, which profoundly shape the worldviews of many people**
 
@@ -441,3 +443,11 @@ The reality of a lot of things are [partially ordered](https://en.wikipedia.org/
 
 Looks is a partial order where there are a few prevailing standards of looks, where in each lane there exists relative level of preference. I am not proposing any specific holistic partial order of looks, because I do not want useless controsversy. Rather, I am conjecturing that the thought space conforms to such a structure.
 
+# Enligtened narcissism
+
+I have developed this very specific kind of narcissism, where I am fully aware of my flaws that are considered flaws under specific assumptions (axiomatic or not). I contrast it with,
+
+- Ignorant narcissism, the kind where people gain pride over their looks, nation-state, or money while not paying attention to the rest of reality. The nationalists can not accept criticisms. All of them can not accept what they do not have, do not own, including a lack of novelty in their personality.
+- Repressed narcissism. I expect most people of this kind to gain siginifcant personality change, say if they gain massive wealth, power, or looks. The fact that their personality and views can change at all is a proof that they are not at an _iteartive maximum_
+
+The awareness about my own flaws only strengthens my narcissism, because it is not longer predicated on a flawless fiction, a delusion of weak foundation.
