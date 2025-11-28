@@ -426,3 +426,18 @@ A good solution defies such changes because it is already at an _iterative maxim
 
 - Solutions that are needlessly specific, get generalized, which is a reduction to a general solution + specific parameters.
 - Solutions that under-estimate the number of variables are outcompeted by alternatives that do consider more variables. Many problems are Pareto optimization problems involving the human factor, UX, such as design of programming languages.
+
+I may call this iterative maximum, or iteratively optimal. 
+
+# Not all things are in total order
+
+Here I present a useful pieceful of thought that is fairly pervasively used in identifying reality.
+
+**Many things are falsely assumed to be in a total order, such as looks, which profoundly shape the worldviews of many people**
+
+In a [total order](https://en.wikipedia.org/wiki/Total_order), everything is comparable with any other thing, which forms a linear sequence. 
+
+The reality of a lot of things are [partially ordered](https://en.wikipedia.org/wiki/Partially_ordered_set#Partial_order). Notorious example being looks, where people either assume that the order does not exist, or that there exists a total order. People might not be aware that they are assuming the order, even, but they do it implicitly through their arguments.
+
+Looks is a partial order where there are a few prevailing standards of looks, where in each lane there exists relative level of preference. I am not proposing any specific holistic partial order of looks, because I do not want useless controsversy. Rather, I am conjecturing that the thought space conforms to such a structure.
+
