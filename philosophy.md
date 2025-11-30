@@ -451,3 +451,28 @@ I have developed this very specific kind of narcissism, where I am fully aware o
 - Repressed narcissism. I expect most people of this kind to gain siginifcant personality change, say if they gain massive wealth, power, or looks. The fact that their personality and views can change at all is a proof that they are not at an _iteartive maximum_
 
 The awareness about my own flaws only strengthens my narcissism, because it is not longer predicated on a flawless fiction, a delusion of weak foundation.
+
+# Reduction by calculus
+
+I suggest an application of calculus in the analysis of values, and philosophy in general. 
+
+If an outcome is noble, such as a utopia, the goals are justified as noble, and all the necessary steps leading up to the outcome are justified too. There is a nuance here that gets political very quick. What is necessary? Is the communist dictatorship necessary? Were the communist wars justified? I don't care about the answers since you can derive them, nor do I care enough to state my current views on politics, and the answers are trivial when compared to the thought process.  
+
+# Fraction and necessity of causality
+
+The working class of drivers as a whole are causally necessary in the functioning of society, but an individual thereof, is not necessary. The importance, and necessity of the individual, is fractioned over the whole of causal node that is as a whole necessary to a noble goal. An ordinary worker is often seen as trivial because the fraction might be `1/100000`. I'm not positing that he is trivial or not. Rather, the word _trivial_ is too simple to capture the totality of the meaning here. Or from another angle you can refine the triviality of such a worker through the understanding of this section. 
+
+An outcome that is valued treated as noble, usually has many many causal nodes that may lead up to it. The fractionation and elusive necessity is central to much of the existential contemplation.
+
+Reduction by calculus tracks causality from a perspective of a single temporal trajectory. This section, examines a single step in causality.
+
+# Prophetic logic and causality
+
+
+# Measurement of meaningful undestanding through dialectic delta
+
+I have a personal way of measuring whether I understand this piece of philosophical text, simply by the rate of change to my own views.
+
+If it's generic agreeable arguments, the change is minimal. I might be getting the correct interpretation, but it doesn't matter since I already have it in my own system.
+
+If it changes my own view in any way. It might not be the right understanding, but it's good anyway because dialectic change is good _in any case_.
