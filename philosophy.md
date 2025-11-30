@@ -458,6 +458,8 @@ I suggest an application of calculus in the analysis of values, and philosophy i
 
 If an outcome is noble, such as a utopia, the goals are justified as noble, and all the necessary steps leading up to the outcome are justified too. There is a nuance here that gets political very quick. What is necessary? Is the communist dictatorship necessary? Were the communist wars justified? I don't care about the answers since you can derive them, nor do I care enough to state my current views on politics, and the answers are trivial when compared to the thought process.  
 
+TODO, path integral.
+
 # Fraction and necessity of causality
 
 The working class of drivers as a whole are causally necessary in the functioning of society, but an individual thereof, is not necessary. The importance, and necessity of the individual, is fractioned over the whole of causal node that is as a whole necessary to a noble goal. An ordinary worker is often seen as trivial because the fraction might be `1/100000`. I'm not positing that he is trivial or not. Rather, the word _trivial_ is too simple to capture the totality of the meaning here. Or from another angle you can refine the triviality of such a worker through the understanding of this section. 
@@ -476,3 +478,5 @@ I have a personal way of measuring whether I understand this piece of philosophi
 If it's generic agreeable arguments, the change is minimal. I might be getting the correct interpretation, but it doesn't matter since I already have it in my own system.
 
 If it changes my own view in any way. It might not be the right understanding, but it's good anyway because dialectic change is good _in any case_.
+
+Following this methodology, on the 2nd order, I try to gain more sources that give me such change.
