@@ -458,11 +458,18 @@ I suggest an application of calculus in the analysis of values, and philosophy i
 
 If an outcome is noble, such as a utopia, the goals are justified as noble, and all the necessary steps leading up to the outcome are justified too. There is a nuance here that gets political very quick. What is necessary? Is the communist dictatorship necessary? Were the communist wars justified? I don't care about the answers since you can derive them, nor do I care enough to state my current views on politics, and the answers are trivial when compared to the thought process.  
 
-TODO, path integral.
+
+$$
+v_2 = \mathbf{r}(a) + \int_a^b \mathbf{r}'(t)\,dt
+$$
+
+The equation represents a path from $v_1 = r(a)$ to destination $v_2$
+
+Each $r'(t)$ represents a instant of free will where you make choices and the integral is a vector, which is also, a point in the 2D space. 
 
 # Fraction and necessity of causality
 
-The working class of drivers as a whole are causally necessary in the functioning of society, but an individual thereof, is not necessary. The importance, and necessity of the individual, is fractioned over the whole of causal node that is as a whole necessary to a noble goal. An ordinary worker is often seen as trivial because the fraction might be `1/100000`. I'm not positing that he is trivial or not. Rather, the word _trivial_ is too simple to capture the totality of the meaning here. Or from another angle you can refine the triviality of such a worker through the understanding of this section. 
+The working class of drivers as a whole are causally necessary in the functioning of society, but an individual thereof, is not necessary. The importance, and necessity of the individual, is fractioned over the whole of causal node that is as a whole necessary to a noble goal. An ordinary worker is often seen as trivial because the fraction might be $1/100000$. I'm not positing that he is trivial or not. Rather, the word _trivial_ is too simple to capture the totality of the meaning here. Or from another angle you can refine the triviality of such a worker through the understanding of this section. 
 
 An outcome that is valued treated as noble, usually has many many causal nodes that may lead up to it. The fractionation and elusive necessity is central to much of the existential contemplation.
 
