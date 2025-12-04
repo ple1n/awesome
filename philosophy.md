@@ -477,6 +477,8 @@ Reduction by calculus tracks causality from a perspective of a single temporal t
 
 # Prophetic logic and causality
 
+TBD
+
 # Contingent morality and the worhip of status quo
 
 It is praised when a richman donates money to a poor person to alleviate his pain, but, we are assuming way too much things here. 
@@ -523,6 +525,8 @@ Here I present a view on development of history that is related to previous elab
 
 Intellect is a computation power which derives answers given a computation process, while wisdom, is the answers themselves.
 
+TBD
+
 # Multiple perspectives can be true, simultaneously
 
 It's often viewed competitively that if you believe in one theory, you must reject another. Just a very powerful bias I noticed in myself recently. The great theories from academia can be true, and your own theories can be true too. There is no need to fear when others talk about the great theories. 
@@ -545,6 +549,8 @@ There are potentially many ways to formalize this, which I came to belief is the
 - Define 'reputation' as compliance towards a specific goal, such as not creating spam. 
     - If we try to create a system upon this goal, it's destined to be a narrow system, by tautology.
 
+TBD 
+
 ## Trust, and a prevalent phenomenon of isolation of invidiuals in the modern world
 
 This should derive some extra ideas that is adjacent to the above ideas on reputation systems. 
@@ -557,3 +563,35 @@ Trust is a highly profitable element. Examples that _profit off trust_ include
 - Corruption that can not work without secrecy
 - Employment. If an employer can trust another person to hold the capability of work without a degree, the total cost on both people get reduced drastically. The employer can pay less and the employee gets to not go to a university which, depending on the person, is a massive saving in time, and pain.
 - Business deals.
+
+TBD
+
+# Systmatic analysis over values
+
+Particular personal goals often change. It is therefore necessitated to survery the whole of possible values or goals one can have. 
+
+In this section we are not concerned with particular values that are justified by values in a larger context, where the particular values serve as means to the greater values, such as my effort in [nsproxy](https://github.com/ple1n/nsproxy) for enabling freedom, which is a means-to-end relationship.
+
+TBD
+
+# Dictatorship is bad?
+
+> An ontological investigation into the concept of _dictatorship_
+
+What do you mean by dictatorship? There are 7 billion people on the planet. Even if we consider the 7 billion only, there are 7 billion kinds of dictatorship. That means you are referring to 7 billion "dictatorships" where each one is different, each one serving as a possible and plausible definition of your _dictatorship_. 
+
+You are making a categorical mistake to dismiss the whole idea of dictatorship when you perceive a subset of possible dictatorships as bad. The old soviet-style states are dictatorships, and, democracy, private property are also dictatorships.
+
+Formally, I define dictatorship as an exclusive control over the future outcome of events, over a geographic region or any other abstract region such as internet spaces. 
+
+What does this imply? It means reality will _always_ be _inhabited_ by some form of _dictatorship_, such as apathy, randomness, arbitrariness. It is only when the control is enchanted with a free will from a free being, people call it a _dictatorship_. That is to say, _dictatorship_ is fundamentally unavoidable because we live in a world where the course of events follows a single trajectory. The coin either lands heads or tails. When the 'thing' that decides it is randomness, we usually don't call it a dictatorship. I call this _**dictatorship of randomness**_.
+
+> Ideas transcend terms. Did you notice that your definition get enriched and changed through the reading of the text. That's what I call dialectics. 
+
+The necessary consequence followed by the above reasoning, is to stop trying to eliminate _dictatorship_, figures of power of any kind. The current politics is insecure about such fact that they are inventing complex mechanisms, various councils, ineffective democracies, which end up empowering dictatorships elsewhere. They are so avoidant about apparent forms of _dictatorship_, while their fixes are elaborate processses that eventually result in a single resolution of deeds, or non-action where non-intervention itself is a _dictatorship_ which can result in suffering in cases where the cruelty of nature causes that.
+
+> Do I support _dictatorship_?
+
+I do not support _dictatorship_ as in the common definitions circulating on internet and offline. It's more accurately called authoritarianism, despite that they are frequently conflated.
+
+Speaking of my definition _dictatorship_, there is not 'support it' or not, because it's simply a feature of reality that can not be removed.
