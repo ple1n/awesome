@@ -1,4 +1,4 @@
-Contact me at https://matrix.to/#/@plein:tilde.horse and this essay comes with a non-public version. 
+Contact me at https://matrix.to/#/@plein:schizo.vip and this essay comes with a non-public version. 
 
 # "Against" Marxism, the pinnacle of academic obscurantism
 
@@ -477,6 +477,19 @@ Reduction by calculus tracks causality from a perspective of a single temporal t
 
 # Prophetic logic and causality
 
+# Contingent morality and the worhip of status quo
+
+It is praised when a richman donates money to a poor person to alleviate his pain, but, we are assuming way too much things here. 
+
+The praise is predicated on the fact that some people are impoverished, as a part of the greater whole of the status quo, which for brevity I refer to as _the real_.
+
+This is a particular definition of _the real_, as opposed _the possible_. Not the Kantian real or whatever other definitions, but the real as in the status quo.
+
+The real includes the fact that some people look pretty and some people look ugly, some people are rich, and that current processors typically have a maximal frequency of 5GHz.
+
+A lot of values of current humans, boil down to to the worship of _the real_. People do not care about _the possible_.
+
+Again, I rarely condemn people or praise anything. It's observation and facts that matter. That's all.
 
 # Measurement of meaningful undestanding through dialectic delta
 
@@ -487,3 +500,60 @@ If it's generic agreeable arguments, the change is minimal. I might be getting t
 If it changes my own view in any way. It might not be the right understanding, but it's good anyway because dialectic change is good _in any case_.
 
 Following this methodology, on the 2nd order, I try to gain more sources that give me such change.
+
+# Morality constructed on vector of intention and effect
+
+Usual theories of morality each treats the system as a system constructed on intention, or effect. The _de facto_ morality of human rights is of deontology, which is based on intention as in it says what people should do in what circumstances, and a morality based on deontology of the justice of contracts, especially private property. Another popular morality is utilitarianism, socialism, which emphasize systems constructed based on reasoning about effects, and anti-natalism which is popular on internet. 
+
+The precise definition of intention and effects can be seen from section _Reduction by calculus_.
+
+These systems, share a common feature that they revolve around a fundamental element of either intention, or effect. 
+
+What if nature of reality is more nuanced? Thats why advocate for a system of morality, on the fundamental level, based on a 2D vector of `(intention,effect)`, where `intention` and `effect` are not typical algebraic objects like real numbers. They represent immediate tendency of actions on the forementioned causal trajectory and consequences (effects, possible world) on the causal graph.
+
+It is often absurd to live a life when you have to reach noble goals through oftentimes, bad or evil means. The classical problem is how a utopia necessitates great wars, which is a common topic people litigate over in online discourse.
+
+A person might not have the traits you appreciate, but those very same traits give him a function, make him function as a person that achieve certain effects _that you appreciate_. This also implies a view of a split of a person as dual of his function in the world and his authentic self, haunting and pervasive.
+
+Having these concerns in mind, you get frustrated and start thinking how absurd all of the reality is, and slack off. Still, I hold the position that _absurdity is not real_ but a hint that might drive you into greater rationalization of the world, and eventually reach an impression of eureka in polar opposite to the impression of the absurd.
+
+# Compounding causality, a historical analysis and, on cognition
+
+Here I present a view on development of history that is related to previous elaboration on, _wisdom vs intellect_.
+
+Intellect is a computation power which derives answers given a computation process, while wisdom, is the answers themselves.
+
+# Multiple perspectives can be true, simultaneously
+
+It's often viewed competitively that if you believe in one theory, you must reject another. Just a very powerful bias I noticed in myself recently. The great theories from academia can be true, and your own theories can be true too. There is no need to fear when others talk about the great theories. 
+
+# Solving the old 'reputation system problem' from a metalogic perspective
+
+Reputation systems are increasingly prevalent in modern systems
+
+- Ranks of a nation-state
+- Capital, where the amount of capital in particular, currency, decides one's agency, the amount of power one has to direct production through legal means.
+- IP quality, as implied in the internals of Cloudflare and various IP blacklists
+- Risk control in online social media platforms
+- CA systems starting from CA root, a centralized PKI.
+- GPG public key infrastructure, as an example on establishing a PKI decentrally, which I do not consider, ideal.
+
+The 'reputation' isn't reputation _per se_, which in usual sense means fame or recognition by an audience. 
+
+There are potentially many ways to formalize this, which I came to belief is the core complexity of the said problem. Method wise, it's always ok to throw a random neural network to do the predictions. However, I want to do an analysis from the philosophical view point, to avoid the [explainability problem](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) and perhaps offer more profound insight towards the iterative maxima.
+
+- Define 'reputation' as compliance towards a specific goal, such as not creating spam. 
+    - If we try to create a system upon this goal, it's destined to be a narrow system, by tautology.
+
+## Trust, and a prevalent phenomenon of isolation of invidiuals in the modern world
+
+This should derive some extra ideas that is adjacent to the above ideas on reputation systems. 
+
+Most transactions of modern world tend to be clearly priced, mass saled, platformed products or labor, or transactions faciliated through institutions or legal formal processes. That's a fact. It's simply rare that two people get together and cooperate without a contract. And it's rare even though people can sign contracts. 
+
+Trust is a highly profitable element. Examples that _profit off trust_ include 
+
+- Gangs that involve drug sales or other illegal activities
+- Corruption that can not work without secrecy
+- Employment. If an employer can trust another person to hold the capability of work without a degree, the total cost on both people get reduced drastically. The employer can pay less and the employee gets to not go to a university which, depending on the person, is a massive saving in time, and pain.
+- Business deals.
