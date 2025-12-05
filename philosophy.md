@@ -519,13 +519,31 @@ A person might not have the traits you appreciate, but those very same traits gi
 
 Having these concerns in mind, you get frustrated and start thinking how absurd all of the reality is, and slack off. Still, I hold the position that _absurdity is not real_ but a hint that might drive you into greater rationalization of the world, and eventually reach an impression of eureka in polar opposite to the impression of the absurd.
 
-# Compounding causality, a historical analysis and, on cognition
+# Compounding causality, a historical analysis
 
 Here I present a view on development of history that is related to previous elaboration on, _wisdom vs intellect_.
 
 Intellect is a computation power which derives answers given a computation process, while wisdom, is the answers themselves.
 
-TBD
+I have developed this exotic view on history that history is unfolded on a compounding causality.
+
+From $t_1$ to $t_2$, the change that may happen is bounded by the computational power and the data that may be used available. The data part is the so-called wisdom as they can enable faster computation shortcuts. The computation may be done by anybody. We see it as a collective process. 
+
+The possible change is bounded by the computation; hence the wisdom. It's such weird that the possible change is continually increasing over time. Let's call it action space.
+
+Trivially, wisdom never decreases, because more data is always better, which _increases the action space perpetually_.
+
+I'm not concerned over production, or specific changes in organizational structures of society, because my theory does not care for these temporary and utterly specific things that change in a short time frame. The action space has been in constant and increasing rates of higher-order increase since the discovery of fire, the use of language and paper, the invention of general computers.
+
+## The ever increasing computable space
+
+It's also worth noting that some answers are not possible without particular data. That is to say for a particular process of computation in the time frame $t_1 \to t_2$, some answers are fundamentally non-computable without particular inputs of data. _More things are becoming computable over time._
+
+What makes this possible? Brute-force! The computability theory says some answers can not be arrived by a particular algorithm with available data, but it never said we can't just do a correct guess. It's always a guess, by tautology. Let me prove it. 
+
+If an answer is unreachable before $t_2$ through all computation methods and data we had before $t_2$, but we gained access to the answer after $t_2$. The only possibility is that we guessed it. Otherwise, it was either non-computable or we did not do the compute. Nothing prevents a heuristic algorithm to just spew out non-computable answwers because computability theory only applies to what it is defined over. 
+
+There is a true joke that, you can simply guess the correct preimage at the first time for a SHA256 hash with good enough luck, or any answer to some Turing-non-computable problem. 
 
 # Multiple perspectives can be true, simultaneously
 
@@ -546,10 +564,9 @@ The 'reputation' isn't reputation _per se_, which in usual sense means fame or r
 
 There are potentially many ways to formalize this, which I came to belief is the core complexity of the said problem. Method wise, it's always ok to throw a random neural network to do the predictions. However, I want to do an analysis from the philosophical view point, to avoid the [explainability problem](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) and perhaps offer more profound insight towards the iterative maxima.
 
-- Define 'reputation' as compliance towards a specific goal, such as not creating spam. 
+- Define 'reputation' as compliance towards a specific goal, such as not creating spam, successful trades.
     - If we try to create a system upon this goal, it's destined to be a narrow system, by tautology.
-
-TBD 
+- etc. not listing more
 
 ## Trust, and a prevalent phenomenon of isolation of invidiuals in the modern world
 
@@ -564,7 +581,45 @@ Trust is a highly profitable element. Examples that _profit off trust_ include
 - Employment. If an employer can trust another person to hold the capability of work without a degree, the total cost on both people get reduced drastically. The employer can pay less and the employee gets to not go to a university which, depending on the person, is a massive saving in time, and pain.
 - Business deals.
 
-TBD
+Here the metalogic should abstract as much things as possible, such as specific algorithms of evaluating trust. 
+
+In a simple model, let's say the goal is to risk control over spamming of users on a platform. It's irrelevant what algorithms are used here, because I will take an approach from the side of observer. For such a system, it is inevitably a decision making system. And such a system inevitably is a system that processes useful, reliable information into actionable results.
+
+We can already derive a theorem from the information part. 
+
+### Theorem, trust system is information-bounded
+
+Without information, it's impossible to make better decisions that are better than random draws.
+
+This is applicable to any form of trust system.
+
+### Theorem, trust system is truthiness-bounded
+
+Consider we have hardware sensors that are protected by police that identify if a user is a real person, which sends a signed message over the wire when an identification is made. We may also have other sources of information for such purpose. The system may adopt both sources and cross-analyze, but the total amount of truthiness is considered to be constant. (This is more like a definition rather than an assertion)
+
+The truthiness of that signed message, is a result of deliberate construction of such a physical system, as a particular configuration of matter of reality, such that it performs our intended goal of identifying a living human.
+
+Inevitably, a trust system will get political because it will create a gradient of incentives. Agents in the system will try to exploit for gains. The truthiness of input may gradually degrade as that happens. 
+
+From the chronological perspective, if the truthiness resists exploitation, we consider this trust system to be robust.
+
+Truthiness is formally defined as the degree that data points match the matter in reality. The political side that it causes people to be controlled, to act controlled, is merely a side effect. 
+
+It's also common that trust systems utilize rewards and punishment in society to optimize truthiness, but we should be clear about the notions here.
+
+### What we can do?
+
+The matter in this section does not really concern about getting more information, or more truthiness, because they are outside of the scope, while I believe they are the actual, urgent goals for better trust systems.
+
+If we limit our scope to a particular, isolated trust system, we can see it being deficient in information and truthiness. It could have integrated more information and truthiness into the decision-making process.
+
+A trust system is also inevitably computational, resembling human reason. Currrent state is that most trust systems are very dumb algorithms.
+
+- Increase the "intellect" of trust systems
+- Integrate more data sources by connecting other trust systems 
+    - Consider a trust system here to be, an individual program operated by a web site.
+    - Current systems are poorly interoped.
+- Integrate more truthiness sources
 
 # Systmatic analysis over values
 
@@ -572,7 +627,13 @@ Particular personal goals often change. It is therefore necessitated to survery 
 
 In this section we are not concerned with particular values that are justified by values in a larger context, where the particular values serve as means to the greater values, such as my effort in [nsproxy](https://github.com/ple1n/nsproxy) for enabling freedom, which is a means-to-end relationship.
 
-TBD
+Values in general, exist as a chain of justification, as observed in population. Why work? It benefits society, the nation, gets money which gets an person's his pleasures. The justification ends here because _pleasure_ is a singularity as defined above. It's a blackbox to rational reduction, almost impenetrable to reason.
+
+My survey over theories I have come across shows that most values often land the values in changes in reality. They value change. Since the disenchantment humans have gradually shifted all their values into change, and hedonism. Change represents the real in the future, and hedonism represents the real, as in status quo. In brief, _change, and reality_. A huge number of ideologies land the ultimate value of everything in creating a utopia, where no further justification is needed or given and everything else valuable points towards the utopia.
+
+Some people see the termination of the chain of justification as a proof of nihilism. It's plausible. Yet all theories of today are axiomatic in nature in the sense that they need assumptions.
+
+I see nihilism as an invalid philosophical position. It's a mere stimuli, as illusionary as the impression of the divine. That's my insight as a person with experience with frequent mood swings and as a psychonaunt. 
 
 # Dictatorship is bad?
 
