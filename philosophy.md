@@ -1,5 +1,11 @@
 Contact me at https://matrix.to/#/@plein:schizo.vip and this essay comes with a non-public version. 
 
+I have a repo for my blog on biohacking at https://github.com/ple1n/organic.
+
+An opsec tool for proxying at https://github.com/ple1n/nsproxy.
+
+Wayland native live pick-up instant fuzzt search dictionary at https://github.com/ple1n/hoverpanel
+
 # "Against" Marxism, the pinnacle of academic obscurantism
 
 There is not a journal dedicated to how you, specifically, you, your personal being, should live your life. There is no formal (academic) school of philosophy that really deals with this topic. Instead, you see all the manosphere, or feminist, or parentally preached content. There is a dire need for everyone that lives, a need that is immediate, a need that begins when he ever starts thinking about his life. Admit it, just admit it. The academia is impenetrable to the commoners, especially the wageslaves (or will-bes), the people who can not afford time. This void, is then filled with various cultists, such as the nationalists, the religious preachers, the parents, the mass media, which serve as an excellent proof that the void exists, that the need is so dire. 
