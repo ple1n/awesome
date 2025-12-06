@@ -679,3 +679,63 @@ I do not support _dictatorship_ as in the common definitions circulating on inte
 
 Speaking of my definition _dictatorship_, there is not 'support it' or not, because it's simply a feature of reality that can not be removed.
 
+# Psychonauntics and philosophy
+
+> It's impossible to be a philosopher without being a psychonaunt first. 
+
+There isn't a need to be philosopher for everyone. It's quite mentally draining actually, sometimes harmful, and deception may be good anyway.
+
+But under the assumption that you want to be a philosopher, it's imperative that you be a psychonaunt. 
+
+I've found that the immdiate perceptions, impressions, and impulses are some of the most powerful biases in the way of human reason. High sex drive blocks personality development.
+
+There isn't a way to get rid of these impressions, but mood changes can shuffle them. 
+
+If a simple flip in mood changes your views, it means your reasoning is dialectically incomplete anyway. We consider _the integration of more information is always correct_ a fundamental assumption, just as elaborated earlier in the dialectics section.
+
+Introspection has its bounds. Substances can help. Sometimes you enter this realm because you have to, you get prescribed anti-depressants.
+
+Disregard international standards. They don't matter. They are wrong. I compiled a list based on personal experience over the phenomena that are observable to me.
+
+Nobody needs these theories when you can access the phenomena unless the state blocks the access.
+
+- Hypomania
+    - Ego inflation
+    - Confidence
+    - Motivation
+- Depression. Taxonomy wise I consider there to be 3 sub-types of depression.
+    - Anhedonia, lack of motivation, feeling of meaninglessness
+        - sometimes manifesting in anorexia, but anorexia doesn't constitute anhedonic depression
+        - treatment, stimulants, or any drug with stimulating property.
+    - Dysphoria, general unease, unexplained discomfort
+        - everyone can experience this with a sufficient dose of antipsychotics, which was used as a torture [method](https://en.wikipedia.org/wiki/Pharmacological_torture#Soviet_Union). 
+        - note that _Haloperidol_ is associated with neurotoxic metabolites
+    - Melancholy, sadness
+        - I consider it a type of mood problem when I have sadness without any reason. It's simply logically absurd that I should be sad without any reason any change in circumstances, isn't it.
+        - treatment, serotonergic agents, such as Zolmitriptan.
+    - I generally consider stimulants a better treatment than SSRIs, because SSRIs cause long-term profound changes in neuronal weights and brain structure, sometimes causing a huge personality shift for better or worse.
+- Anxiety
+    - Rumination
+        - Repeated worries usually with internal dialogue
+        - Many people resort to Ethanol, which is a very terrible drug that has catastrophic metabolic consequences. Literally Butanol or other longer-chained alcohols are better if you like solvents that much.
+        - treatment, _Pregabalin_
+            - Pregabalin empties the mind 
+            - the drug is markedly safer than Ethanol for long-term consumption, for its lack of liver metabolism, activation of irrelevant receptors or inhibition of metabolic enzymes etc, although I do not endorse long-term consumption of psychotropics due to the risks.
+            - Benzodiazepines are not very effective
+    - Agitation
+        - Inability to focus
+        - No apparent reason or problems to ruminate or worry over
+        - Cardiovascular effects that can be felt
+        - treatment
+            - beta blockers especially _Propanolol_
+            - $\alpha_{2a}$ agonists such as [Guanfacine](https://en.wikipedia.org/wiki/Guanfacine) 
+                - they are fairly potent orthostatic hypotension agents, while beta blockers don't have a fraction of the effect, to my surprise.
+                - I don't endorse Guanfacine as optimal. It's just what I have tried so far.
+            - Atomoxetine
+                - It's fairly absurd that ADHD agents are put in this bucket, but I reasonably believe they act on the same neuronal pathway.
+            - Benzodiazepines
+                - Alprazolam is noted for its potent and rapid anti-depressant effects. They derived [Adinazolam](https://en.wikipedia.org/wiki/Adinazolam) following the inspiration.
+    - Social anxiety, shyness as a personality
+        - SSRIs for months
+            - I personally believe SSRIs permanently decreased my sex drive too
+        - This is a special one because it's a matter of neural structure and weights
