@@ -420,6 +420,18 @@ The system of money is the largest group where all kinds of intentions are allow
 
 Property system as to wealth, reputation system as to intentionality. Can we design such a system that is as powerful as the current property system? Wealth can often be reduced to each other, as in, people considering them equi-valuable. Are intentionalities often reducible to each other? The pervasive reductive nature of wealth makes a currency system possible, which in the simplest case reduces wealth to a scalar.
 
+## Cooperation has to happen before consensus can be reached
+
+It's a pipe dream to expect everyone to agree with you before all the work can be started. I would go as far to consider this a fairly common fundamental assumption of many leftist theories. They expect people to form a coalition where everyone is fully aware of their place in the production, what they do and why they deserve the treatment. 
+
+It's simply too hard. There is too much difference in levels of intellect and countless other factors. 
+
+Capitalism or such systems thrive because they do not demand a full consensus. The production directed through some level of violence. No it does not imply dirty-bloody violence, nor do I believe starvation is necessary in any way to enforce a particular leadership. Just some competent people taking the lead should change the entire dynamics where everyone else has to follow the trend.
+
+In particular, I believe a good leadership must be enforced while using minimal violence. Assuming we want to re-engineer current society as it is, many artificial scarcity in goods can be eliminated because they merely serve as a violence a deterrant a punishment to prevent miscompliance of the leadership which I consider unnecessary anyway.
+
+Such systems move faster than reason. On the other hand, it's a utopian dream where everyone can understand each other and everyone is literally religiously convinced of his fate in dying for a state as some sort of optimal configuration that necessitates his fate in case of defense.  
+
 # Language, graphs and logic
 
 tbd
@@ -664,3 +676,4 @@ The necessary consequence followed by the above reasoning, is to stop trying to 
 I do not support _dictatorship_ as in the common definitions circulating on internet and offline. It's more accurately called authoritarianism, despite that they are frequently conflated.
 
 Speaking of my definition _dictatorship_, there is not 'support it' or not, because it's simply a feature of reality that can not be removed.
+
