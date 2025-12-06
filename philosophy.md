@@ -699,13 +699,19 @@ Disregard international standards. They don't matter. They are wrong. I compiled
 
 Nobody needs these theories when you can access the phenomena unless the state blocks the access.
 
+I have substantial disagreement with DSM theories and taxomoy of mental disorders. They are utterly wrong.
+
 - Hypomania
-    - Ego inflation
-    - Confidence
+    - Confidence, ego inflation, grandiosity
     - Motivation
+    - Disinhibition
+    - Increased desires, appetite and enjoyment thereof
+    - I do not regard this as a mood disorder. Rather, I consider it the optimal state of being.
+    - [David Pearce](https://www.hedweb.com/hedethic/philosophyforum2021.html), too, advocates the state of hypomania.
 - Depression. Taxonomy wise I consider there to be 3 sub-types of depression.
-    - Anhedonia, lack of motivation, feeling of meaninglessness
+    - Anhedonia, lack of motivation, feeling of meaninglessness, feeling of nihilism.
         - sometimes manifesting in anorexia, but anorexia doesn't constitute anhedonic depression
+        - lack of enjoyment, fulfillment, reward from activities such as eating
         - treatment, stimulants, or any drug with stimulating property.
     - Dysphoria, general unease, unexplained discomfort
         - everyone can experience this with a sufficient dose of antipsychotics, which was used as a torture [method](https://en.wikipedia.org/wiki/Pharmacological_torture#Soviet_Union). 
