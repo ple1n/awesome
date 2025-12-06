@@ -432,6 +432,8 @@ In particular, I believe a good leadership must be enforced while using minimal 
 
 Such systems move faster than reason. On the other hand, it's a utopian dream where everyone can understand each other and everyone is literally religiously convinced of his fate in dying for a state as some sort of optimal configuration that necessitates his fate in case of defense.  
 
+The phrase 'has to' is more of an observation over the imperative that we must drive production including defense before a utopian consensus is reached, due to the adverse nature of current reality. There is the urgency necessitating such cooperation, from the constant arms race of violence and financial power as a result of current configuration of reality at least.
+
 # Language, graphs and logic
 
 tbd
