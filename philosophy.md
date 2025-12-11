@@ -220,6 +220,40 @@ Being algebraic abstracts out specific details, which makes it last longer regar
 
 The algebraic method in general also tries to capture the whole of reality, as in phenomena, top-down, which is total rationalization in best effort, as in, not missing any part in the theory. 
 
+## Origin of power
+
+> This section is getting bloated. TODO
+
+I was requested to clarify the concept of property. It would be a better way to put it from how power even originated. 
+
+In primordial times, around the time agentic consciousness began, we consider of the course of events to follow a trajectory of nature, which is often called arbitrary, random. Diving deeper into the notion it's really just a lack of some intelligent being exerting its control onto reality. The idea and the definition of 'arbitrariness of nature' is really, in this perspective a lack of conscious control by anybody.
+
+The origin of power starts from _property_. I don't mean property by what it means in the huge interlaced network of political fabrication of the time. _Property_ here means, when a person holds exclusive control over a land, perhaps thousands of years ago. Property does not refer to the land, _but_ the power to maintain an exclusive access, the power to shape the future course of trajectory of events happening on the land. Hence, the notion is tightly bound to the idea of causality itself, conferring generality.
+
+The algebraic part about the theory is that we begin conceptualization from this point of tether, building more complex notions up in the hierarchy gradually, while staying contained in the algebraic framework without introducing more fundamental concepts.
+
+_Legal property_ is a delegated form of property, where the power over property is exercised through a third-party, the state. We don't argue what really counts as the term 'property' either, because the term is just symbol that only has a meaning in a specific context, where the meaning itself is defined by its context for sake of reasoning.
+
+Labour is property, because it effectively reshapes the local reality over matters of material until it becomes some usable product. Using this definition, bureaucratic power itself is also property, trivially, stemming from state power. 
+
+The realm a property can cover is often narrow. State has power over beings, but the state itself does not have power over reality. It's a transaction where beings conform to the state in exchange of other matters of value. 
+
+The notion of currency is constructed due to the ubiquitous exchange of property. Property represents a stationary form of power exerted by beings over a narrow domain, and currency is a token that beings value.
+
+Humans can not morph their bodies arbitarily yet, even with the total effort of civilzation. Currency is a token within the state, therefore has its power bounded by the upper bound of what the state can do.
+
+> What does it mean when a being can get free currency without providing any labour?
+
+Wait, I don't speak words like 'exploitation' or such things at this point. I'm here only to examine the causal network of matter itself. 
+
+I call the totality of human control over reality _the state_, which as as an apparatus, a system, exerts its power through various governments and mechanisms of economy to have beings labour over reality.
+
+Having free currency without having one's own free will obstructed, by tautology, means to have pure power over reality, through the labour of others. It's still not a state of total free will because the state forbids any violation of property typically. Power nowadays are often measured by currencies. That might not accurately reflect the power in question.
+
+I re-read my the previous section. I was reasoning more about those things that serve as tokens that beings value, which diverges from this section. Valuing as a belief and an act. Power fundamentally is grounded in the trajectory of reality. There is no power without agents conforming to the tokens.
+
+I think the property system probably causes a bias in reasoning. Things get measured in matter of currency and people start using currency as a measure of value. I like my causality perspective on property. If you have ability to nudge the outcome of a specific event, you are said to have control, and the substance by which you exert control is called property. The substance can be money, others recognition of you as a relevant person in their connections, and your labour. 
+
 # Null hypothesis on the nature of conscious identity 
 
 There is a stance that I have been having that is analogous to the null hypothesis, but applied in the realm of _personal philosophy_, as in the philosphy of dealing with one's own outlook on life and personal identity. 
@@ -629,6 +663,17 @@ Truthiness is formally defined as the degree that data points match the matter i
 
 It's also common that trust systems utilize rewards and punishment in society to optimize truthiness, but we should be clear about the notions here.
 
+I divide reality into two compartments of realms.
+
+1. Realm of information, where data exist on its own
+2. Realm of physicality, the rest of reality.
+
+The realm of information is the data that a trust system, which is a computational process, can access. More specifically, a trust system is formally defined as a function $f: T_1 \to T_2$ that is computable within certain bounds, where $T_{1,2}$ are tensors for input data and output verdicts.
+
+Data is useless without a mapping onto physical reality, especially in this context. The degree the said data tethers onto reality is considered its _degree of truthiness_. 
+
+Usually the two realms are connected by sensors, human attestations, and in more complex setups, institutions, political structures where humans work in pre-designed ways producing predictable results.
+
 ### What we can do?
 
 The matter in this section does not really concern about getting more information, or more truthiness, because they are outside of the scope, while I believe they are the actual, urgent goals for better trust systems.
@@ -745,3 +790,43 @@ I have substantial disagreement with DSM theories and taxomoy of mental disorder
         - SSRIs for months
             - I personally believe SSRIs permanently decreased my sex drive too
         - This is a special one because it's a matter of neural structure and weights
+
+# Language politics
+
+Democracy, sales, and politics at its surface, are increasingly dominated by the mechanism of memetics. The discourse and reasoning of people are frequently affected by the biases inherent to language in the typical way people use it. Perhaps language is the largest institution overall. 
+
+I have hence been proposing a retreat from language. It's especially important for people who are new to reason and politics. 
+
+Various conflicts of modern day are pretty much a result of the institution of language, the conflicts over races, genders, nation-states. I see them as drama that only take place on social media and pamphlet of embassies that serve as nothing other than performative art.
+
+Systems that base on the institution of language, are somewhat bad I'd say. Examples being bureaucracy which needs laws regulations various processes intensely based on language, and democracy which needs endless litigations. Language tends to lag behind truly transformative ideas, especially if you want the a large audience to fully digest it. 
+
+# History as a result of free will
+
+Countless people believe in the these right-wing or left-wing theories about the grand theory on the development of history. The iron laws of capital exploitation, recurring patterns in development of civilization. Great historians have figured out all of it, a long time ago, isn't it. Just as what happened in the past, the future must be alike, and you should study more history!
+
+Fundamentally, I believe history is driven by free will and randomness, deliberate choices made by key people, those who are in power, those who had the chance to get their voices heard, those who have the wealth and transformative ideas. The modern day world is to a large degree a consequence of a ton of deliberate choices of key people during WW2 and a ton of coincidences on the key trajectory of events.
+
+There are certainly recurring patterns in society. Companies exploiting people in predictable ways, making profit off capital in predictable ways, countries going to war at each other in predictable patterns. They, however, do not matter, because we focus on change. What's the point on focusing on these repeated patterns? You are looking for disappointment, or confirmation if you like it. Those who look into the repeated patterns are just going into the confirmation bias to make their theories seem useful. Their theories have zero predictive power for all the changes that happened.
+
+Change is fundamentally driven by outliers. Patterns persist until they are changed. I base my predictive power on a clear tether on the theorization on causality. A rich man has more causal relevance than a minimal wage worker, typically. That's the difference in causal relevance that we must acknowledge. To a given outcome, there are causal factors that dominate, and the factors that are trivial. That's the Pareto stance. 
+
+History is a matter of creation. There is not a determined future. There is no guarantee in any good or bad ending. 
+
+I expect a future much more bizarre, unanticipated for the years to come, perhaps in a good way. 
+
+# It's sound to refute a point by providing a seemingly irrelevant argument
+
+> Sound as in logically valid. 
+
+I found this to be a fairly interesting phenomenon in debates and reasoning in general. 
+
+In some cases it's indeed going off-topic, but in other cases, this can serve a true rebuttal. 
+
+You can say the capitalism as its current state, is causing poverty and crime and go about your whole ideology and propose a lot of solutions. I won't disagree with you on that, but without my addendum, your point is invalid. Notice I am not, in anyway directly refuting your point.
+
+Politics of the time is locking up people with limited food (supply of currency) in a cage (private property and state power where _many things you need are not even for sale_ such as custom medicine). Some people go about justifying people doing crime and killing each other as a result of circumstances, and aspirations of weath equality of various kinds. 
+
+I propose the aspiration that some people take the lead and break the cage instead. It's not like the person talking to me didn't want to break the cage. It's rather him not focusing on how the cage is broken, which makes his reasoning partial. The arguments seem to not relate to each other directly, but they are addressing the same thing of reality. 
+
+Providing addendum is a sound way to refutation as long as it changes _the thought of a person_ to any dialectic delta.
