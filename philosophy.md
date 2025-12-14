@@ -830,3 +830,74 @@ Politics of the time is locking up people with limited food (supply of currency)
 I propose the aspiration that some people take the lead and break the cage instead. It's not like the person talking to me didn't want to break the cage. It's rather him not focusing on how the cage is broken, which makes his reasoning partial. The arguments seem to not relate to each other directly, but they are addressing the same thing of reality. 
 
 Providing addendum is a sound way to refutation as long as it changes _the thought of a person_ to any dialectic delta.
+
+
+# Refactoring of philosophy, a tradition brought from computer science
+
+I have found it better to refactor philosophy and recompile the source code myself. It's common in fields of engineering to rebuild things but most people are hesitant to rebuild their worldview, methods of reason. 
+
+# Discrete mathematics as the only relevant ontology
+
+- Causality, language $\to$ Graphs
+- Concepts, identities, [impressions](https://en.wikipedia.org/wiki/David_Hume#Impressions_and_ideas), objects $\to$ Tensors
+- [Emergence](https://plato.stanford.edu/entries/properties-emergent/) $\to$ Integral
+
+I've so far used discrete mathematics extensively to build my system of ontology. I see debates over overly speculative nature of things as futile and will not produce meaningful gains. Plus, there are many many ways to examine the same object of reality. There is not a need to obsess with any specific way of philosophy such as going into those speculative dead ends.
+
+# Non-predictable factors and predictable factors
+
+In the continual flow of reality as it develops, would you not consider some people to be fairly passive and predictable where other people act like blackboxes, acting as a source of change that drive such predictable sequences. There isn't a bound on the perspectives you can create. It simply makes more sense to create a perspective where some people are considered the causes of change. 
+
+Some people always argue that anyone can be regarded a source of change. This is not wrong in the way that you can create a perspective where they are treated as source of change and begin an analysis, but such perspectives are inherently less efficient and lack explanatory power in comparison to, said better perspectives.
+
+# Cooperation between enemies
+
+I found this as a trait of capitalism. Two nations would have gone to war without an international system of capitalism where the money is what I considered _unwilled money_, the purest form of wealth that does not have any strings attached. It's imaginable in such a situation the conflict can be settled by financial means. 
+
+Such a system can even enable cooperation between enemies, between mutually disagreeing parties on morality, while in the end, forming a supply chain which may serve some noble goals that we value. This does not happen in a usual leftist rationally-designed system where the system expects people to hold a common worldview.
+
+# Empirical study of capitalism
+
+- Short-lasting contracts, settlement. Lack of viable long-term cooperation and accountability. 
+    - Price of justice might be a rate-limiting factor
+- Delegation (sometimes into authority) as a form of cost saving which could be detrimental
+- Too much conflict during price negotation, the game of chicken.
+    - A lot of deals are not made because the game is fierce, which result in losses of both sides. Either potential profits are not made, or the manufacturer end up re-implementing some existing technologies.
+    - Socialism should address this conflict. 
+- Dimensionality reduction into prices is inherently suboptimal, if the system is to be seen as product of intentional design.
+    - The system can be seen as an optimization process towards an optimal price, yet deals in reality require much, more than just price information. Authorities, certifications, various systems got invented over time to undo the "dimensionality reduction"
+- Rational descent as a viable strategy of revolution in the era of capitalism
+    - It is a rational descent when both producers and consumers optimize towards their goal of cost-saving and gain-maxing.
+    - It is a rational descent when all people start adopting a more free currency, such as cryptocurrency, globally but not coordinated. 
+- Capitalism as a game of bounty hunter.
+- Capitalism as a framework structure where more complex political systems can be layered upon.
+- Capitalism as a pervasive incentive structure that leads to the full causal chain from production to consumption where every contract is incentived fiscally, until the last, sales contract.
+- Flat pricing dominates most deals and has consequences
+- Capitalism inherently produces a system of privileges, which is needless.
+    - Products that produce more satisfactory are priced higher
+    - Flat pricing is usually unavoidable, such that we can not discriminate consumers
+    - The two lead to an inevitable result that, to keep the richer consumers pay for better services, better products are more expensive. Otherwise they would not pay. 
+    - On the other hand, intentionally worsend products are produced to maximize total realized profit / deals made, as long as the downsized products do not affect the sales of premium products.
+    - This phenomenon is so ubitquitous
+
+## How do we expect a system to make correct decisions
+
+Say we can put a cabel of people in control, or set up a system, there is a measurable load on the system that it has to make certain amount of decisions, where some decisions turn out in our favor and some do not. The decisions, in turn, also changes the system itself, in a self catalysed loop.
+
+I think the more decisions the system is designed to handle, the faster it fails. In a state machine model, I would consider the state of failure a terminal state that can hardly go back, such as a state of oligarchy, authoritarianism, centralization of various kinds which prevent further change into other states.
+
+Modern capitalism amplifies the correct decisions it believes in through a series of amplification mechanisms. 
+
+Supreme court $\to$ Lower courts (incorrect decisions get overriden) $\to$ Financial institutions (incorrect decisions lead to profit loss) $\to$  Producers
+
+In each step there involves a combination of threat of violence from a more powerful party, self-policing by a prediction over profit or punishment. 
+
+# Morality, by Hume
+
+I tried to distance my self from moral judgement in my essay whenever possible. I do not believe in any grand theory of morality that can be explained in simple words, like 'workers deserve fair pay'. I believe in a morality that is extremely nuanced, sometimes absurd and contrived.
+
+If the average workers actually get fair pay, they will spend it on useless products, and prop up huge industries for momentary hedonism. It's a fact that the rich have so much money they don't know where to spend and the poor of the time can't even get a place to live. Inevitably they will blow the money on anime figurines, various copes that serve as nothing but a futile attempt at more of momentary hedonism.
+
+To begin contemplation on morality, it must start from ground state, _the Humean stance_. Hume has a strong [emphasis](https://en.wikipedia.org/wiki/Is–ought_problem) that the theories on 'ought' reside in a different realm than theories of 'is'.
+
+I enjoy moral _hypotheticals_. It would be a good hypothetical when an entrepreneur _deceived_ normies, _extracted_ their wages to invest in the making of truly transformative development. You get fascinated by the results not knowing the full causal details that led up to it. This is the absurd.
