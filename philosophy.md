@@ -901,3 +901,9 @@ If the average workers actually get fair pay, they will spend it on useless prod
 To begin contemplation on morality, it must start from ground state, _the Humean stance_. Hume has a strong [emphasis](https://en.wikipedia.org/wiki/Is–ought_problem) that the theories on 'ought' reside in a different realm than theories of 'is'.
 
 I enjoy moral _hypotheticals_. It would be a good hypothetical when an entrepreneur _deceived_ normies, _extracted_ their wages to invest in the making of truly transformative development. You get fascinated by the results not knowing the full causal details that led up to it. This is the absurd.
+
+# If optimization is the state of society, it is usually under-optimized.
+
+People tend to have fears when they want to do something, start a business, because they think the society is _optimized_. Propaganda have done a great job preaching market as a mechanism.
+
+It is true that it is a perpetually optimizing system, yet people tend to assume it is _optimized_, without much evidence whatsoever. It is actually _underoptimized_ in most cases.
