@@ -907,3 +907,15 @@ I enjoy moral _hypotheticals_. It would be a good hypothetical when an entrepren
 People tend to have fears when they want to do something, start a business, because they think the society is _optimized_. Propaganda have done a great job preaching market as a mechanism.
 
 It is true that it is a perpetually optimizing system, yet people tend to assume it is _optimized_, without much evidence whatsoever. It is actually _underoptimized_ in most cases.
+
+# Ethics that is not conditioned on labour
+
+I have always been cautious when it comes to 'ought' problems. 
+
+History of recent decades have been in a gradual shift of labour. In the past pretty much everyone can participate in menial, blue-collar physical labour. 
+
+Consequentially, the right-wingers claim _those who work deserve cash_, the left-wingers claim _those who work deserve food_. The development gradually shifted the demands. The vast majority of laborers do not produce even a fraction of value, produced by one single engineer in algorithms, or an AI scientist. Fundamentally, those are work ethics. 
+
+By their very same ethics, the vast majority deserve nothing? I'm sure they would like this idea.
+
+I'm certain most jobs in most countries serve as nothing but nominal jobs that would have generated wages lower than what could sustain one's life. The system barely maintained the wages through the ubiquitous law of minimum wages and various policies that push for such coverage. They are just _masked welfare_. You think you are compensated for the efforts. In reality, you are getting relief checks in disguise.
