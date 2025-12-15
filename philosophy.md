@@ -801,6 +801,14 @@ Various conflicts of modern day are pretty much a result of the institution of l
 
 Systems that base on the institution of language, are somewhat bad I'd say. Examples being bureaucracy which needs laws regulations various processes intensely based on language, and democracy which needs endless litigations. Language tends to lag behind truly transformative ideas, especially if you want the a large audience to fully digest it. 
 
+I find it funny that people constantly argue, fight and die genuinely for these terms, labels of languages, including the symbols, flags, the fixed notions that they represent. Yet if we do not use language to protect some minories, assign labels to them and codify the protection into law, people will probably start bullying them as some sort of usual process, as if it is a part of human nature. 
+
+Races, nations are in particular a funny element in the theatre of modern politics. Such notions are elusive because they are partially real, yet fail and will never capture the whole of reality. Just as how I treat the self as a bundle of impressions, knowledge and various processes (I do not acknowledge the existence of the self), races are too a construct that captures the phenotype and behavior of majority. The label draws that much attention because the real part has real political, economical consequences. Most people are not aware that the real part and the fiction part are bundled into one label.
+
+It took humanity so much time to invent new 'symbols' that play a role in the threatre of history. Notably, _proletariat_ from the leftists. Yet most of them acted like swarm and fell for the same trap of language. 
+
+I intentionally coined the term _outliers_, in the hope that it serves as a living, anthropomorphic drive and instance on the way dialectics drives the world forward.
+
 # History as a result of free will
 
 Countless people believe in the these right-wing or left-wing theories about the grand theory on the development of history. The iron laws of capital exploitation, recurring patterns in development of civilization. Great historians have figured out all of it, a long time ago, isn't it. Just as what happened in the past, the future must be alike, and you should study more history!
