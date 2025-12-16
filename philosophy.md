@@ -927,3 +927,13 @@ Consequentially, the right-wingers claim _those who work deserve cash_, the left
 By their very same ethics, the vast majority deserve nothing? I'm sure they would like this idea.
 
 I'm certain most jobs in most countries serve as nothing but nominal jobs that would have generated wages lower than what could sustain one's life. The system barely maintained the wages through the ubiquitous law of minimum wages and various policies that push for such coverage. They are just _masked welfare_. You think you are compensated for the efforts. In reality, you are getting relief checks in disguise.
+
+# Egoless elitism
+
+I coined the phrase considering there would be people who consider my theory elitism, which is partial. The ego is never the point since I do not even acknowledge its existence. The greatest achievements in history are just those _sparks of ingenuity_ that were followed by masses who try to adopt and appropriate the fruits for their own profits. Ideas just come to me. I would not consider myself entitled because the fact that ideas came to me.
+
+Out of all perspectives, only the view that all events began through a spark of singularity that sometimes resides in a person's mind followed by a sequence of much more predictable outcomes, makes most sense and holds most explanatary power compared to all other views.
+
+There is no point in debating whether free will exists, nor am I interested in its litigation of ontology beyond what serves productive goals of this post. Free will, is only conisdered as it appears, the apparent fact that you can make decisions and nothing beyond it, the apparent fact that it serves as an instrument in the happening of causality.
+
+Historicism is partial because it can not account for the pervasive existence of free will. And it's a theory for the masses anyway because it teachs people to expect things to happen spontaneously. Either way, it's not going to hold any predictive power.
