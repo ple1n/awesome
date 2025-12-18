@@ -729,7 +729,6 @@ Speaking of my definition _dictatorship_, there is not 'support it' or not, beca
 > It's impossible to be a philosopher without being a psychonaunt first. 
 
 There isn't a need to be philosopher for everyone. It's quite mentally draining actually, sometimes harmful, and deception may be good anyway.
-
 But under the assumption that you want to be a philosopher, it's imperative that you be a psychonaunt. 
 
 I've found that the immdiate perceptions, impressions, and impulses are some of the most powerful biases in the way of human reason. High sex drive blocks personality development.
@@ -910,9 +909,9 @@ To begin contemplation on morality, it must start from ground state, _the Humean
 
 I enjoy moral _hypotheticals_. It would be a good hypothetical when an entrepreneur _deceived_ normies, _extracted_ their wages to invest in the making of truly transformative development. You get fascinated by the results not knowing the full causal details that led up to it. This is the absurd.
 
-# If optimization is the state of society, it is usually under-optimized.
+# If optimizing is the state of society, it is usually under-optimized.
 
-People tend to have fears when they want to do something, start a business, because they think the society is _optimized_. Propaganda have done a great job preaching market as a mechanism.
+People tend to have fears when they want to do something out of the ordinary, start a business, because they think the society is _optimized_ and everything is saturated. No new things need to be written and companies already doing the best. Propaganda have done a great job preaching market as a mechanism.
 
 It is true that it is a perpetually optimizing system, yet people tend to assume it is _optimized_, without much evidence whatsoever. It is actually _underoptimized_ in most cases.
 
@@ -937,3 +936,13 @@ Out of all perspectives, only the view that all events began through a spark of 
 There is no point in debating whether free will exists, nor am I interested in its litigation of ontology beyond what serves productive goals of this post. Free will, is only conisdered as it appears, the apparent fact that you can make decisions and nothing beyond it, the apparent fact that it serves as an instrument in the happening of causality.
 
 Historicism is partial because it can not account for the pervasive existence of free will. And it's a theory for the masses anyway because it teachs people to expect things to happen spontaneously. Either way, it's not going to hold any predictive power.
+
+# Equality to be assumed until further justification
+
+I do not hold the view of equality simple as it seems, but rather I consider it a stance to be held without further evidence or need to change the view, as a starting point of thought. I hold the accusation why you would set up such an arbitary view or privileges instead of this _null stance_.
+
+It is the void of reason that I call equality, not that I want to sweep things such that they appear equal.
+
+I also have a disregard, or disdain for the status quo. Reason knows no temporal bounds. People get irritated over borders that get disputed that get moved a little bit, not knowing how much different it was in the past.  It's a very common fallacy to reason in the way relative the status quo. Reason should be, absolute, relative to the origin point of null stance.
+
+People call it a crime when a rich person gets his wealth reduced a bit, because its a reasoning with the status quo as a reference point. The correct method is to at least track it further back in time where nobody is much more wealthy, or the null stance where nobody is wealthier or less. 
