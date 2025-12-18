@@ -32,6 +32,11 @@ The worst thing about a *leap of faith*, is that it's often impossible for the o
 
 Here, I used another tactic, the separation of a theory and its effect/usage/feasibility. I argue that a theory that urges people to do anything, must not be separated from its effect. The blame it receives when it fails to work, is equally applicable to the theory itself. 
 
+
+### Addendum: I was writing this section in opposite
+
+I gained awareness about my trait of excessive thinking, almost compulsively, which was in fact not typical among most of population. I also had the repeated recall of _authenticity_ that is a result of my immersion in european tradition of philosophy. I value authenticity as a good attitude on life, but acknowledging the sheer complexity of reality and its effects on morality and everything is also a major part of my philosophy.
+
 ## Live in a world of higher narrative framework
 
 I see emotions, pains, happiness, as a form of violence. I have tried to conceptualize them again and again. I worked around them. Only their effects can be conceptualized.
