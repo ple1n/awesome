@@ -951,3 +951,15 @@ It is the void of reason that I call equality, not that I want to sweep things s
 I also have a disregard, or disdain for the status quo. Reason knows no temporal bounds. People get irritated over borders that get disputed that get moved a little bit, not knowing how much different it was in the past.  It's a very common fallacy to reason in the way relative the status quo. Reason should be, absolute, relative to the origin point of null stance.
 
 People call it a crime when a rich person gets his wealth reduced a bit, because its a reasoning with the status quo as a reference point. The correct method is to at least track it further back in time where nobody is much more wealthy, or the null stance where nobody is wealthier or less. 
+
+# Opposite of transactional life and relationships? Entanglement.
+
+People complain a lot about work, life, relationships being transactional, but I have not heard what is supposed to be the opposite. 
+
+The fundamental cause of 'feeling transactional' is due to the simplicity. That is, things are so simple it can be explained with a few words summed up as a transaction. That is to say reason easily captures your life.
+
+An entangled life defies reason, because new things are happening, which defies human reason that currently prevails which includes the popular ideas, langauge, and narratives.
+
+Some people may have a lengthy life, but it can be summed up briefly, if words are to be saved. 
+
+Creation is the opposite of analysis, because good creation defies analysis.
