@@ -962,4 +962,11 @@ An entangled life defies reason, because new things are happening, which defies 
 
 Some people may have a lengthy life, but it can be summed up briefly, if words are to be saved. 
 
-Creation is the opposite of analysis, because good creation defies analysis.
+Creation is the opposite of analysis, because good creation defies analysis. Life is creation, whether you like it or not, it's going.
+
+Consumerism is, too, what people complain about the transactional feeling, with a sense of nihilism and doom. It's the lack of involvement in the production of goods that led to the impression. On the other hand, politics stripped off people's access to production. 
+
+For all I've observed, capitalism does not cause alienation. It's always people that alienated themselves. When they do business they have to imagine themselves as businessmen who have to bargain for maximal profit. Normies are constantly taking various roles whenever they be a partner, a worker, a businessman or a student. There is nothing that forces them to comply with the expectation of norms of roles to 100%. 
+
+They can't even free their own minds.
+
