@@ -970,3 +970,25 @@ For all I've observed, capitalism does not cause alienation. It's always people 
 
 They can't even free their own minds.
 
+# Human experience as a graph, not islands of individuals.
+
+Many people hold the bias to see the human experience as a matter of individual islands, each as a collection of experiences unique to a person, a nation, or some other categories. Fundamentally, I see it as a flattened structure where each person, devoid of any labels, occupies and lives on such a _graph of human experience_. The conceptual order matters. 
+
+You get in school, you feel isolated, and lonely, and perhaps stressed. You catch a cold, you feel feverish and suffer. These are the experiences which are modelled as nodes that follow higher probability connected from other nodes, upon conditions _catching a cold_, or _entering school_. If you get unlucky, you get in some truly rare nodes on the graph, such as rare illnesses or those unspeakable horrors, which I term outliers.
+
+Shared human experiences are _first-class citizens_, as opposed to arbitary man-made labels such as nationalities, races. 
+
+1. Bundle of human experiences $\to$ Individuals
+2. Nations $\to$ Experiences, trauma, stories unqiue to the nations, considered incomparable $\to$ Individuals 
+
+(2) comes with an extra category, where in (1), everyone is equal in front of life, the totality of experiences that life brings you. Substitute the `nation` with another other kind of bucket if needed.
+
+Specifically, I consider it a state-transition graph, where nodes can represent human experience, impressions, states of consciousness, the set of beliefs one may have at one given moment, where the transition represents conditions, the luck, the unluck, the circumstances.
+
+As the blueprint gets laid down, it gets obvious that overwhelming majority of experiences are universally shared. It's no longer a secret to guard. The urge to preserve your wealth when you get your first bucket of money, the moment you have your first crush, the torment of silencing oppression, the joy of unspoken privileges, the sensation and urges of narcissism, the feeling of doom and self-hate, the resentment against arbitary pain imposed by reality and the endless expression of irony, the warm and fuzzy. Each of them has been experienced, _examined_, liked or hated by countless people.
+
+It's no longer a convenient perspective to see them as isolated stories to each person his own. Better turn the order of categories back. 
+
+It matters to acknowledge the _finitude_ of one's own lived experience, either imposed by himself or circumstances outside of his control, especially when we want to seek the answer to the question, what humanity is. As one acknowledges the finitude, he frees himself from the pain of isolation; he also loses the bias and privilege of particularity. (On narcissism, existentialism, etc. All of them tackled at once)
+
+I value works of art especially those involving plot and, melodies that follow that encode the exquisite emotions present, in their merit of conveying and archiving lived or imagined human experience, such that they are greatly shared, and persist into infinitude.
