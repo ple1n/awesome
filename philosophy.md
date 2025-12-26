@@ -992,3 +992,21 @@ It's no longer a convenient perspective to see them as isolated stories to each 
 It matters to acknowledge the _finitude_ of one's own lived experience, either imposed by himself or circumstances outside of his control, especially when we want to seek the answer to the question, what humanity is. As one acknowledges the finitude, he frees himself from the pain of isolation; he also loses the bias and privilege of particularity. (On narcissism, existentialism, etc. All of them tackled at once)
 
 I value works of art especially those involving plot and, melodies that follow that encode the exquisite emotions present, in their merit of conveying and archiving lived or imagined human experience, such that they are greatly shared, and persist into infinitude.
+
+# Parallel hypotheticals
+
+I've progressed my internal mode of belief through 3 stages.
+
+1. I believe X to be true. 
+2. I believe X to be true, under the condition Y. (Y tends to be axiomatic assumption of some kind)
+3. I believe X to be true, under the condition Y. I believe M to be true, under the condition N. etc.
+
+The merit is that most people aren't even aware that their thought happens in these forms. This form is what I believe to be the most genereal form of belief system, where both science and religions can be treated as a 'subset' of the said system.
+
+Outside of the system, it's the void. There is nothing meaningful outside this system.
+
+There isn't any need to state doubt against any assumptions made, be it Y, N. Simply being aware that the modes of belief exists, is enough to qualify as proper skepticism to me.
+
+The classical atheism would argue over that, _Y is wrong_, or _Y lacks proof_, or _some people need to prove Y_, or _N is more plausible_, where specically N is obviously to be the assumptions that science makes, or _truthiness of X must be proported to Y_, or _It's possible that D is true where D is some absurd thing_ (Russell's teapot).
+
+I would simply present the picture of such 3 modes of belief.
