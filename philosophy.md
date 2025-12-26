@@ -1009,4 +1009,4 @@ There isn't any need to state doubt against any assumptions made, be it Y, N. Si
 
 The classical atheism would argue over that, _Y is wrong_, or _Y lacks proof_, or _some people need to prove Y_, or _N is more plausible_, where specically N is obviously to be the assumptions that science makes, or _truthiness of X must be proported to Y_, or _It's possible that D is true where D is some absurd thing_ (Russell's teapot).
 
-I would simply present the picture of such 3 modes of belief.
+I would simply present the picture of such 3 modes of belief. The failure is that a lot of people people can not think  and act in a way that deviates from 1, or 2. Perhaps rigorous training is needed.
