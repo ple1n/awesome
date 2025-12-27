@@ -1010,3 +1010,23 @@ There isn't any need to state doubt against any assumptions made, be it Y, N. Si
 The classical atheism would argue over that, _Y is wrong_, or _Y lacks proof_, or _some people need to prove Y_, or _N is more plausible_, where specically N is obviously to be the assumptions that science makes, or _truthiness of X must be proported to Y_, or _It's possible that D is true where D is some absurd thing_ (Russell's teapot).
 
 I would simply present the picture of such 3 modes of belief. The failure is that a lot of people people can not think  and act in a way that deviates from 1, or 2. Perhaps rigorous training is needed.
+
+# Liberating humanness from assigned bodies
+
+Modern politics pushes for acceptance of the body one is born with, yet this is exactly against the individual freedom to deny an essence that the assigned body and phenotype forces onto the being. The prevailing ideology, is reactive to an adverse reality. It sees whatever body you get as fair and perfect, as long as this mindset pushes for positive attitude for the sake of positivity. The philosophical tradition, is to treat reality and life authentically, to acknolwedge nothing else other than existence itself (existentialism) as a fundamental starting point of contemplation.
+
+When dignity and humanness is no longer tied to specific assigned physical bodies, it's finally fine to judge them as they appear. At the end of the day, the inhabitant will have to deal with the body knowing the fact that he can never leave it, perhaps much later in life when the awareness comes to him.
+
+# Psychological denial, a barrier to particular thought paths
+
+Here I characterize internal contemplation, be it explicit or more implicit, a graph where an idea leads to another idea, an argument leads to another argument.
+
+- There is no way I consider my nation-state to be flawed or any criticism
+- There is no way I consider possibiltiy of myself being ugly
+- There is no way I might be non-binary, and that I might enjoy it more when I present myself or look different.
+- There is no way I am inferior in reasoning
+- There is no way rich people live better lives and are not as evil as I thought
+
+The disease of modern reason and discourse, is rooted in psychological denial. The denial is so profound in effects because it blocks _a whole cascade_ of internal dialogue and personality development perhaps spanning over decades of one's life. Denial is when someone is mentally physically incapable of considering certain ideas, certain possibilities. Denial is the instinctual aversion to specific directions of dialogue.
+
+It does not matter what someone says. The fact is deduced from behavior because usually the person himself isn't aware of such denial. Denial results in defects in personality development.
