@@ -1065,4 +1065,5 @@ I've been adhering to a method which I now term, common sense lifting. The notio
 
 I frequently adopt words from common English, terms from science, and gradually build theories and subtly refine the meanings to a point, perhaps completely changing it. 
 
-In addition to common English words and notions represented thereby, I also include phenomena that everyone experiences.
+In addition to common English words and notions represented thereby, I also include phenomena that everyone experiences as part of _common sense_.
+
