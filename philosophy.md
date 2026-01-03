@@ -1030,3 +1030,39 @@ Here I characterize internal contemplation, be it explicit or more implicit, a g
 The disease of modern reason and discourse, is rooted in psychological denial. The denial is so profound in effects because it blocks _a whole cascade_ of internal dialogue and personality development perhaps spanning over decades of one's life. Denial is when someone is mentally physically incapable of considering certain ideas, certain possibilities. Denial is the instinctual aversion to specific directions of dialogue.
 
 It does not matter what someone says. The fact is deduced from behavior because usually the person himself isn't aware of such denial. Denial results in defects in personality development.
+
+# Absurd actions as a sound reaction to the absurd world
+
+> _sound_ means logically valid
+
+The world has been characterized as absurd which is popularly known. It is however an unfinished idea, lacking a sequel. I sometimes find it fun to react to the absurd world through equally absurd actions, not as in useless and purposefully performative, but as in absurd actions that properly produce gains for me. This is a largely unpopular idea because most people live in the bliss of rationalized world, where no absurdity is really expected to take place. 
+
+It's a process that I have lived through many times. Such absurd actions include extreme measures, extreme discipline, an overwhelming control that suppresses my own fear, shame and deliberately dismissing my own mental states such as depression and feelings/fear of being misunderstood. 
+
+Perhaps absurdity is an inherent property of the causal structure of reality. So it has to be acknowledged in both ways, in what is observed and what is to be done next.
+
+# Asymmetry of luck
+
+_Luck can not be forced, but the statistical distribution can be engineered._
+
+I observed an asymmetry in the pursuit of success that, it is often case that some things may happen to you and some things may certainly not happen to you. To build the premise for success in computer science, you gotta have a decent grasp of English.
+
+There are many things that may be done to build a premise, yet luck can not be built. Learn a new language, move to a new place, enter a field and just barely enter it, meet new people. Such asymmetry is the cause of the 'connection effect' where people complain about others having connections, manifested at a large scale. 
+
+The connection effect is not deliberate corruption in most cases. It's the flip side of the luck asymmetry phenomenon. To sample success, the outcomes must be possible at all first. To hire a person, the person must be known first.
+
+## Causal synthesis
+
+The other insight is from a view from the causal graph. I mentioned causally important factors earlier. The part that can be engineered, is the synthesis of various causal factors. Modern coporations, especially the innovative ones are all successful causal synthesis of labour, capital, ingenuity. 
+
+I don't see it as mere cooperation. It's rather an aggreation of existing causally important, alive, driving factors. Seeing it as a cooperation is a less general perspective.
+
+Change is mediated through sophisticated synthesis of powerful, tangible, intuitive, factors.
+
+# Common sense lifting
+
+I've been adhering to a method which I now term, common sense lifting. The notions embedded in daily English language and the corpus of engineering and science have very intuitive, strong impressions, which serve as a good starting point for further theorizing.
+
+I frequently adopt words from common English, terms from science, and gradually build theories and subtly refine the meanings to a point, perhaps completely changing it. 
+
+In addition to common English words and the represented notions, I also include phenomena that everyone experiences.
