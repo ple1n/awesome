@@ -1067,3 +1067,44 @@ I frequently adopt words from common English, terms from science, and gradually 
 
 In addition to common English words and notions represented thereby, I also include phenomena that everyone experiences as part of _common sense_.
 
+# Correspondent information and computation
+
+AI inference is a process of computation. Training is function approximation which is also computation.
+
+Computation is a very exotic existence because the process itself can be competely captured by a system of language, while the medium of computation is always mediated through physical phenomena, be it classical or quantum phenomena. Language is a collection of symbols, the ways they are manipulated (aka. algebra), a definition of consistency which we call logic. This is an algebraic triple.
+
+The symbols represent nothing to humans unless the meanings are assigned. The symbols can represent reality at any level by design. Here, by having symbols in a langauge defined to have no meaning at all unless assigned, we can consider the language to exist physically. That is, mathematics exist physically as long as the meanings are stripped.
+
+The symbols are computed on a chip until perhaps the chip works completely unexpectedly, failing the computation. Up until that, we consider the _algebra_ to exist physically. 
+
+The prompt you give AI that contains business secrets, is _correspondent information_, which is a fragment of language that tethers to reality closely, which perhaps take thousands of hours of inference for the AI to produce... Hereby I call it _correspondent shortcut_
+
+Correspondent information is defined to be a statement consisting of symbols in a langauge that adhere to reality closely, as in having strong causal predictive power. Computation is the manipulation of symbols to produce other symbols that have causal predictive power.
+
+I believe the dichotomy is a fundamental part of reality.
+
+Take this to a bit further, we can denote publicly available information to be $\Sigma$
+
+If it takes $n$ hours of inference for state-of-art AI to produce a statement $T$, its a piece of truth, worth $\Sigma n$
+
+# Information theoretic approach to nature vs nurture
+
+- Human brain has 100 trillion synapses, about 90TiB at INT8
+- LLM has 400 billion parameters (roughly correspond to synapses), about 372GiB at INT8
+- Genes have 3.1 billion base-pairs, about 762MiB
+
+Brain has enough state-space to accomodate that many possible _states of configuration_. To the point that the input data, senses seem to be a smaller state space.
+
+# I do not answer yes or no to most questions. 
+
+You don't need to pick a side. And you need to constantly tell yourself this. 
+
+That's a very common bias. Most questions aren't reducible to a zero-rank tensor. 
+
+Thinking can be trained behaviorally. I believe it's a very common thing to feel urged to answer questions specifically events of news with yes or no, perhaps of social influence. Another line I constantly tell myself is, _It is what it is_, especially in times of frustration, defeat, embrassment, estrangement. The line seems to contain no information but it moves your attention from temporary, one-sided representations of reality (aka. perception) back to what is the more fundamental reality.
+
+# Causal apathy, the flip side of Humean split
+
+Causality does not _care_ what humans believe in or feel.
+
+todo.
