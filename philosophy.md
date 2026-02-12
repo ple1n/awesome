@@ -10,7 +10,7 @@ The sections are a chronological log of my thoughts. More recent ones are at the
 
 # "Against" Marxism, the pinnacle of academic obscurantism
 
-There is not a journal dedicated to how you, specifically, you, your personal being, should live your life. There is no formal (academic) school of philosophy that really deals with this topic. Instead, you see all the manosphere, or feminist, or parentally preached content. There is a dire need for everyone that lives, a need that is immediate, a need that begins when he ever starts thinking about his life. Admit it, just admit it. The academia is impenetrable to the commoners, especially the wageslaves (or will-bes), the people who can not afford time. This void, is then filled with various cultists, such as the nationalists, the religious preachers, the parents, the mass media, which serve as an excellent proof that the void exists, that the need is so dire. 
+There is not a journal dedicated to how you, specifically, you, your personal being, should live your life. There is no formal (academic) school of philosophy that really deals with this topic. Instead, you see all the manosphere, or feminist, or parentally preached content. There is a dire need for everyone that lives, a need that is immediate, a need that begins when he ever starts thinking about his life. Admit it, just admit it. Academia is impenetrable to the commoners, especially the wageslaves (or will-bes), the people who can not afford time. This void, is then filled with various cultists, such as the nationalists, the religious preachers, the parents, the mass media, which serve as an excellent proof that the void exists, that the need is so dire. 
 
 Am I against Marxism? This is off-topic. 
 
@@ -1108,3 +1108,166 @@ Thinking can be trained behaviorally. I believe it's a very common thing to feel
 Causality does not _care_ what humans believe in or feel.
 
 todo.
+
+# Introducing _substance_, a measure of usefulness of philosophical theories 
+
+Some common theories that have little to no substance.
+
+- The world is one, unified whole. There is no distinction between self, and otherness. The best thing to do is to do nothing. (Taoism, buddhism, etc)
+- There is no meaning to anything
+- The world is in constant change and we must adapt as it changes. (Marxism as seen in many types of propaganda, and as regurgitated by a lot of people)
+- Everythng is directed by God, caused by God, and God is the ultimate good. (monotheism)
+
+These theories tend to be apparently correct, aka. truism, yet they don't confer any predictive power whatsoever. People apparently agree with these theories with others due to social influence and in the back they are utterly confused by life. Life demands an answer, yet truisms can offer nothing; the gap is to be filled with substance.
+
+I evaluate theories of metaphysics and physics as equal citizens when it comes to substance. It turned out theories in science gradually obtained more substance than theories in philosophy. Recent research in high-dimensional tensor spaces have offered more substance than relevant philosophies can do.
+
+Substance is the fundamental cause of progress. Endless litigation in philosophy never produced anything. Through this clarification, it's palpable what substance means.
+
+For any theory, any figment of thought, I judge it through 3 metrics, or axes
+
+- Consistency. The theroy must be internally consistent according to any kind of logic. 
+- Correspondence. The theory must correspond to reality in a sane way, to have any use. It must be grounded in solving problems of real life.
+- Substance. Theory with more substance is denser and confers greater prediction power
+
+# Temporal superiority
+
+From years of my biohacking experience, the best biohacking is done early.
+
+Current technology can at most prevent disease or adverse phenotype (such as a puberty one does not want) from happening, and its very nice if done right. Your toolkit shall mostly consist of nuclear receptor modulators such as hormones, targeted therapy drugs (originally designed for cancer) if you need; psychotropics are in its nascent stage but they can be greatly helpful in _very_ times. Do not ever expect biohacking (non-surgical) to program a new phenotype; it's impossible and delusional, but never miss a chance to prevent an outcome.
+
+Temporay sueperiority is the divergent subtrees starting from a node on the causal graph.
+
+# Novel tactics of reasoning
+
+- Phenomenal extraction
+    - The poetic approach. Observe phenomena yourself and write down a theory all by yourself, preferably using language never used by others, as in coining new phrases to depict a radically new perspective. 
+    - This is greatly underrated. Academia is mostly a circlejerk of dead philosophers.
+- Algebraic analysis
+    - Denote parts that are resistant to analysis as atoms, or variables. 
+- Zoom-out
+    - Instead of trying to work within a certain system, try to draw more things outside the system into analysis. The zoom-out is a dialectic experience where a new dimension is added to analysis so it feels like 'getting a greater picture' where no former observation is trivially negated. 
+    - This includes framing a monovariate problem as a multivariate optimzation problem, reframing an engineering problem as a greater problem that involves social dynamics. 
+- Assumption mining
+    - To discover as much assumed premises as possible
+    - This when applied to personality or daily life as a whole, can change a lot.
+- Chaotic sources
+    - Some sources may be mined to have more ideas to come to you. There is no value in playing rough. Exposure to sources that are as chaotic as possible may give you surprises. 
+    - This came as a major accelerator in my reasoning trajectory. Such sources may include close contact with an eccentric person, and niche forums.
+- Agentic inverse
+    - Dothing things that contradict the agentic pattern of human life
+
+
+## Humans are pathetically agentic
+
+- You can not fully concentrate on a next task without finishing the task at hand
+- You have an internal recognized state of life that directs your current plans
+- Life goes linearly, sequentially, like ticking things off a list
+- You do not try to think in the place of an alternative, a life that does not currently belong to you
+- Older people often have to be constantly reminded to get some things done
+- You follow a schedule perhaps made by a university, a company
+
+I made some major progress over my goals by unintentional direct contradiction of the agentic nature, 'abnormally' shifting focus on things that I planned to do much later even beyond my own expectation. Thinking about things that a depressed (or whatever state I was in) person shouldn't be thinking. 
+
+Humans are comfortable when one's thoughts and acts align the internal agentic awareness of oneself. They can not comfortably think like a God in an alternative context like an LLM.
+
+# What is existentialism, nihilism? 
+
+The two are perhaps the most confusing terms on internet. Most people don't understand them. 
+
+Internet, and people in general are just constantly marketing their own ideas in the names of philosophers, since nobody can check them anyway.
+
+Existentialism and nihilism are closely related, two clusters of ideas. 
+
+They aren't exactly like theories, but in essence, immediate attitudes on life that you can hold at any given moment.
+
+- Existentialism is a deep reconsideration against one's existence itself, through that you cease the tasks at hand, you give up your past and pre-held ideas, prejudice, beliefs, such that you are fully immersed in the contemplation, where you are radically aware of yourself and not external things. 
+- Existentialism is a rejection of a determined future, a struggle against prophecy imposed by yourself and others.
+- Existentialism is the acceptance of an apparent lack of meaning of life or universe in general, where one is aware of his freedom and ability to create. (acceptance, awareness)
+
+Nihilism is interesting, because there are many circulating concepts equally labelled as 'nihilism'.
+
+- The notion that 'love does not exist because it's all neurochemistry, chemicals' 
+    - It's a sort of 'apples to oranges' fallacy.
+    - I don't need to expand on this because readers can derive an answer based on the essay.
+- Nobody cares about anything. It's all just money. 
+    - This one is cynicism mislablled as nihilism.
+- Probably many more misnomers.....
+- That life is wireheading with extra steps. The universe is a question that looks for answer which better off not exist in the first place.
+    - This one is legitimate
+- That my life is deeply troubled, repetitive, unfulfilling, going nowhere.
+    - I regard this as 'personal nihilism' as a reaction to the personal predicament. It's very heavily leaning towards dealing with the problem of one's own life instead of some general statement about the universe.
+
+To really dissect nihilism, we have to consider the exact mental states. 
+
+Emotive nihilist state (anhedonia, depression, withdrawals) $\to$ Formation of an opinion, an argument
+
+The 'emotive nihilism' is very prevalent but there is probably nothing to analyze in that because it's just a mental state. Take some stimulants and it will be gone. The emotive nihilist state can, indeed be a source of inspiration, despite being tormenting at times. Sometimes I get new ideas in that. 
+
+# The ability to tell that you actually do have novel ideas, is a sign of maturity
+
+The so-called maturity is hereby defined in the context of non-neurotypical person. I used to get a lot of whims over everything and I thought everyone else got it too. It took me many years to realize that most don't.
+
+# Certain philosophilical perspectives lead to dead ends
+
+There is always a choice on the set of primitives to start with when beginning to analyze a problem. You can theorize about free will and it will be some sort of litigation around the nature of free will. You can also choose to build a theory upon a primitive adjacent to 'free will', such as a person's apparent ability to choose among a set of possible courses of action. 
+
+This is what I consider to be the 'algebraic method', algebraic as in abstract algebra. There is a particular set of primitives chosen and your theory unfolds to analyze the relationships of the primitives. A bad primitive set can lead to dead end. There is no reasonable theory to build on 'consciousness', 'desire' in itself, because its impenetrable, resistant to analysis, for example.
+
+Math is spectacular because the entire field works on good algebraic primitives, readily corresponding to real world phenomena.
+
+Abstract algebra is also not concerned with whether group, ring, or field exists because they are all figments of language anyway. Hence, when building theories I am also not very concerned with the existence of my primitives either. They just need to plausibly exist such that the theory has use. ie. Existential claims are irrelevant.
+
+# Can philosophy be learned?
+
+I heavily contest the idea that philosophy can be learned through traditional way of reading. A model for such learning can be that, the essays serve as computational shortcuts of thinking where each essay saves $n$ amount of time, where the thinking aims to produce a truthful, coherent body of thought.
+
+Philosophy tends to build a greater picture due to the metacognitive nature, which is very hard through mere words. 
+
+The main problem is on the writers. I disdain philosophers as much as I disdain mathematicians. Abstract algebra can be perfectly captured with Haskell (or FStar which is better) and is _extremely simple_, but they choose to express things in such an ugly way.
+
+Rebuilding things is never a shame. Rebuilding entails a complete audit, which is great for a high-stake project like building one's worldview in a deeply adversarial environment. In many cases, faster than finding proper text and reading it.
+
+# The immediate
+
+The immediate is what I call the instantaneous emotions, feelings, volition, urges, everything that is felt, experienced at any given moment. The immediate seems highly irrational. 
+
+If you compile your past down to a short summary, it's easily described, and analyzed into a coherent narrative, thereby giving a semblance of rationality.
+
+I gave a rationalization of the immdiate through the combination of causality and reduction by calculus, as above. That is, the past is causally, inevitably an integral over the immediate.
+
+# The curse of success
+
+... is that a sucesss more or less justifies the absurd, the evil, the pain in the past leading up to it, including the things you hated most.
+
+I never said it does justifies all of the past; otherwise it turnes into pseudo-rational pseudo-poetic rambling. 
+
+It's perhaps worth mentioning that some people internalize their past, as in, accepting pain as an integral part of their life and identity. Whether or not a specific thing in the past is jusfitied with regards to a certain current success, is subject to argumentation which you know how it would be dealt with. 
+
+# Modern recruiting is akin to dating on dating apps, while universities act as whore certifiers
+
+Everyone hates dating apps, social media, and various modern things seen as degenerate. The same people ignored work.
+
+They long for an 'organic life' which is how most people put it, but only personally. Personl issues are however much less important than, _production_.
+
+They feel there is something upsetting about social media and. not work? 
+
+There is no market, no power, no money, but stories that go on. Everything except the stories are spooks, invented by cowards.
+
+It's your very personal thing to make your story great. 
+
+# Cognitive architectures are the new racism
+
+The superficial resemblance of humans have casted a great bias that we must think alike. At most distinctions are made at race-level, such that people only really differntiate each other through appearance, and a couple figments of culture which in modern day nobody really cares. Yet, the greatest distinction among humans, and of greatest importance is the fundamental architecture of cognition, which no-one talks about, not races, not appearance, not sexual organs, not wealth. Thereby I am setting politics right.  
+
+Thus, the ideologies like racism are false ideas that mis-prioritizes the factors if any tribalism is to be formed at all. This is not a psychology study of mental illness, not about ADHD, not about autism. Completely disregard these labels. Psychology shall not tresspass into the field of philosophy, ie, they have no right to say. This is a discourse over the mode of substrate of mentality of healthy human beings that is ultimately grounded in verifiable neuronal behavior.
+
+I am not talking about temporary worldviews or modes of thought, but the biological foundation of how a person's mind works, persistent urges fears and mode of reasoning. It seems to me so far human cognitive architectures can fall into a few groups. 
+
+My mind for example, is hyper associative and divergent. Random and meta ideas come into my mind unprompted. I have barely observed this trait in other people. 
+
+Speaking of urges, here I emphasize more reason-relevant urges, which shape reasoning and worldview, such a tendency to deny ideas because of emotive fears, ego, and other reasons, a tendency to draw meta-ideas and reflect on the trajectory of thought itself, a tendency to follow a tribe or conform, the ability to disregard external influences other people's opinions during an internal course of reason with a heart of iron, what ruminates in your mind, some phrases going on repeat, in case of a depressive episode or a serious emergency, a strong urge to follow one's internal discourse of thought instead of being led by others, a tendency to be crushed by emotions and carry out acts that one later regrets.
+
+Secondly I emphasize the urges that shape personality.
+
+And, let me clarify what this racism is, the current system oppresses the divergent kind of cognitive architecture. Based on this differentiation, people do in fact form tribes and oppress each other, despite not declaring it in public or even being aware, although the tribal behavior is usually preceded by racial and other buckets first.
