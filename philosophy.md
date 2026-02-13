@@ -1271,3 +1271,7 @@ Speaking of urges, here I emphasize more reason-relevant urges, which shape reas
 Secondly I emphasize the urges that shape personality.
 
 And, let me clarify what this racism is, the current system oppresses the divergent kind of cognitive architecture. Based on this differentiation, people do in fact form tribes and oppress each other, despite not declaring it in public or even being aware, although the tribal behavior is usually preceded by racial and other buckets first.
+
+# Cost of communication
+
+If you tell somebody something, it's most likely he's gonna take it by literal meaning that is mostly commonly accepted, but in a lot of cases what I want to convey is a thing that is much more nuanced, which can visualize as a latent vector that is somewhere slightly deviant from the literal meanings. The vector can not be directly communicated through language because language is a subspace that follows a logic and some sequence of derivation that eventually falls back into the subspace. ie, _language is algebraicly closed, specifically formal lanugage and languages as communicated_. Here, it takes immense cost to derive such a deviant vector, which is done through a dialectic motion, where the new vector is derived at the orthogonality of two known vectors of a known language system.
