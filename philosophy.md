@@ -1142,6 +1142,10 @@ Theories, even in the 'meta space' such as philosophy, should reflect the inhere
 
 Complexity is a fundamental property of reality, which hereby I ground in Kolmogorov complexity, which connects to computation.
 
+The latest scientific method is not testing, experimentation, but full in-silico simulation, such as https://openworm.org/ which figured out some hidden parameters, not possible with good old scientific methods. 
+
+The problem of mind-body duality haunted humans for thousands of years until recent advances in LLM that partly solves the problem through sheer complexity. (complexity not as in hard-to-understand)
+
 # Temporal superiority
 
 From years of my biohacking experience, the best biohacking is done early.
