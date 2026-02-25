@@ -1130,6 +1130,18 @@ For any theory, any figment of thought, I judge it through 3 metrics, or axes
 - Correspondence. The theory must correspond to reality in a sane way, to have any use. It must be grounded in solving problems of real life.
 - Substance. Theory with more substance is denser and confers greater prediction power
 
+## Kolmogorov complexity is positively correlated with 'substance'
+
+Kolmogorov complexity measures how compressible a string is. A good theory is by definition hard to summarize. The theories listed above are easily compressed into one idea.
+
+This goes against Occam's razor because if we are going for simplicity, reducing everything to God is the simplest theory.
+
+Theories, even in the 'meta space' such as philosophy, should reflect the inherent complexity of reality. 
+
+> It's considered meta because philosophy is the idea about ideas, how ideas should be conducted, etc. self-referential
+
+Complexity is a fundamental property of reality, which hereby I ground in Kolmogorov complexity, which connects to computation.
+
 # Temporal superiority
 
 From years of my biohacking experience, the best biohacking is done early.
@@ -1228,22 +1240,6 @@ The main problem is on the writers. I disdain philosophers as much as I disdain 
 
 Rebuilding things is never a shame. Rebuilding entails a complete audit, which is great for a high-stake project like building one's worldview in a deeply adversarial environment. In many cases, faster than finding proper text and reading it.
 
-# The immediate
-
-The immediate is what I call the instantaneous emotions, feelings, volition, urges, everything that is felt, experienced at any given moment. The immediate seems highly irrational. 
-
-If you compile your past down to a short summary, it's easily described, and analyzed into a coherent narrative, thereby giving a semblance of rationality.
-
-I gave a rationalization of the immdiate through the combination of causality and reduction by calculus, as above. That is, the past is causally, inevitably an integral over the immediate.
-
-# The curse of success
-
-... is that a sucesss more or less justifies the absurd, the evil, the pain in the past leading up to it, including the things you hated most.
-
-I never said it does justifies all of the past; otherwise it turnes into pseudo-rational pseudo-poetic rambling. 
-
-It's perhaps worth mentioning that some people internalize their past, as in, accepting pain as an integral part of their life and identity. Whether or not a specific thing in the past is jusfitied with regards to a certain current success, is subject to argumentation which you know how it would be dealt with. 
-
 # Modern recruiting is akin to dating on dating apps, while universities act as whore certifiers
 
 Everyone hates dating apps, social media, and various modern things seen as degenerate. The same people ignored work.
@@ -1275,3 +1271,17 @@ And, let me clarify what this racism is, the current system oppresses the diverg
 # Cost of communication
 
 If you tell somebody something, it's most likely he's gonna take it by literal meaning that is mostly commonly accepted, but in a lot of cases what I want to convey is a thing that is much more nuanced, which can visualize as a latent vector that is somewhere slightly deviant from the literal meanings. The vector can not be directly communicated through language because language is a subspace that follows a logic and some sequence of derivation that eventually falls back into the subspace. ie, _language is algebraicly closed, specifically formal lanugage and languages as communicated_. Here, it takes immense cost to derive such a deviant vector, which is done through a dialectic motion, where the new vector is derived at the orthogonality of two known vectors of a known language system.
+
+# Non-linear nature of causality and activation function as an inherent part of reality
+
+I previously view reality as a graph of causality, where inputs drive a specific outcome visualized on a graph. 
+
+- Whether an outcome happens, is a non-linear sum of multiple causes, gated by an activation function such as a sigmoidal function. 
+- Pareto principle is explained by the fact that (1) some outlier, exotic causes may drive an outcome to a very 'unfair' degree, when connected to an intended outcome, (2) additional input at the active region of an activation function is 'unfairly' decisive.
+- The sigmoidal effect is pervasive in nature, such as IC50 of pharmacology. Most drugs have optimal effect in the active region, saturating at the end, negligible effect at the beginning.
+- Diminishing returns is explaind by the either end of the activation function, where further input does not create more gains.
+
+The landscape of causlity is increasingly similar to artifical neural networks, which I think is some kind of homomorphism (as in abstract algebra, structure resemblance)
+
+The pareto principle is defined to be that 20% of causes dominate/cause 80% of outcomes, which can manifest as that 20% of people change 80% of the world, and account for the status quo that 20% of people own 80% of the wealth and much more.
+
