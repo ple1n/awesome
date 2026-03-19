@@ -1289,3 +1289,55 @@ The landscape of causlity is increasingly similar to artifical neural networks, 
 
 The pareto principle is defined to be that 20% of causes dominate/cause 80% of outcomes, which can manifest as that 20% of people change 80% of the world, and account for the status quo that 20% of people own 80% of the wealth and much more.
 
+## Metaphysical questions can never be answered directly, but approximated infinitely from other directions
+
+The question of existence of God has never been directly addressed in rebuttal, but the advances in science and other fields, have gradually discredited the weight of theological arguments.
+
+This upsets a lot of people. They say _you can't refute a metphysical argument from arguments of physics_, as they are disconnected territories.
+
+A person's worldview is a whole that demands logical closure, so there isn't anything that is disconnected.
+
+> By logical closure, I refer to, internal consistency of a worldview by any definition or standard.
+
+### Envy
+
+I'm also not addressing whether envy is good or bad like typical moral lecturers. I however found an interesting conjecture.
+
+The envy for a real life person that you have seen or heard, is not different from envy for a fictional character. 
+
+# Bottleneck of consensus
+
+If a system has to operate on consensus, it's capped by the weakest link.
+
+# Race to the bottom
+
+[Hobbesian trap](https://en.wikipedia.org/wiki/Hobbesian_trap) describes the typical gang violence scenes, and I see [race to the bottom](https://en.wikipedia.org/wiki/Race_to_the_bottom) as a weakened version of it as society it currently is.
+
+- I suspect that he will take my life; there is no way to prevent him from doing that other than killing him (lawless place); therefore I must kill him first.
+- I suspect my competing businesses will cut down their costs in unethical ways (It's possible); there is no way to prevent them from doing that; therefore I must do that too _sooner or later_, or I will eventually be outcompeted and bankrupt; or otherwise not having enough money to bribe the very same politicians. 
+
+In a world of gang violence, a person kills another. Nobody is wrong. It's a causal necessity of their survival. 
+
+Yet, it's possible that one person, out of all the options in life, decides to not play the game of violence, but proceeds to change the rules.
+
+It's called civilization when enough people have done that.
+
+# Price reduction isn't the only thing that matters
+
+The classical view of capitalism ingrained in a lot people's minds considers prices falling, cost reduction as the central sign of progress.
+
+This is false, a dimensional reduction of the plural reality into a single metric.
+
+Price reduction is at most a tactic by which firms rise to power. A new product can not be reduced to a single metric of price. Reality is multi-dimensional. Is the product opensource, does the product respect you, and many other dimensions.
+
+## Market tends to favor one winner
+
+Some would argue that price signal isn't a problem when it compresses information, because when user values 'opensource', the prices would reflect it and keep the firm afloat.
+
+The market however, is often cannibalizing. Usually only the largest firms survive and make a profit, set standards. Many things only turn profitable at scale. The market forces a single decision.
+
+This is how dimensionality reduction of price signals do evil.
+
+Heard of _Economic Calculation Problem_; here is the _Economic Dimensionality Problem_
+
+_Capitalism has an information problem. It can not integrate information properly_ 
