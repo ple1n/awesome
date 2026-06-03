@@ -1,12 +1,11 @@
-Contact me at https://matrix.to/#/@plein:schizo.vip and this essay comes with a non-public version. 
-
-I have a repo for my blog on biohacking at https://github.com/ple1n/organic.
+Contact me at https://matrix.to/#/@plein:schizo.vip 
+I have a repo for my blog on biohacking at https://github.com/ple1n/organic. (pending update)
 
 An opsec tool for proxying at https://github.com/ple1n/nsproxy.
 
 Wayland native live pick-up instant fuzzt search dictionary at https://github.com/ple1n/hoverpanel
 
-The sections are a chronological log of my thoughts. More recent ones are at the bottom.
+This is a journal, which rests in chronological order. 
 
 # "Against" Marxism, the pinnacle of academic obscurantism
 
@@ -473,9 +472,6 @@ Such systems move faster than reason. On the other hand, it's a utopian dream wh
 
 The phrase 'has to' is more of an observation over the imperative that we must drive production including defense before a utopian consensus is reached, due to the adverse nature of current reality. There is the urgency necessitating such cooperation, from the constant arms race of violence and financial power as a result of current configuration of reality at least.
 
-# Language, graphs and logic
-
-tbd
 
 # Systems design, open problem, iterative maxima
 
@@ -536,9 +532,6 @@ An outcome that is valued treated as noble, usually has many many causal nodes t
 
 Reduction by calculus tracks causality from a perspective of a single temporal trajectory. This section, examines a single step in causality.
 
-# Prophetic logic and causality
-
-TBD
 
 # Contingent morality and the worhip of status quo
 
@@ -1087,28 +1080,6 @@ Take this to a bit further, we can denote publicly available information to be $
 
 If it takes $n$ hours of inference for state-of-art AI to produce a statement $T$, its a piece of truth, worth $\Sigma n$
 
-# Information theoretic approach to nature vs nurture
-
-- Human brain has 100 trillion synapses, about 90TiB at INT8
-- LLM has 400 billion parameters (roughly correspond to synapses), about 372GiB at INT8
-- Genes have 3.1 billion base-pairs, about 762MiB
-
-Brain has enough state-space to accomodate that many possible _states of configuration_. To the point that the input data, senses seem to be a smaller state space.
-
-# I do not answer yes or no to most questions. 
-
-You don't need to pick a side. And you need to constantly tell yourself this. 
-
-That's a very common bias. Most questions aren't reducible to a zero-rank tensor. 
-
-Thinking can be trained behaviorally. I believe it's a very common thing to feel urged to answer questions specifically events of news with yes or no, perhaps of social influence. Another line I constantly tell myself is, _It is what it is_, especially in times of frustration, defeat, embrassment, estrangement. The line seems to contain no information but it moves your attention from temporary, one-sided representations of reality (aka. perception) back to what is the more fundamental reality.
-
-# Causal apathy, the flip side of Humean split
-
-Causality does not _care_ what humans believe in or feel.
-
-todo.
-
 # Introducing _substance_, a measure of usefulness of philosophical theories 
 
 Some common theories that have little to no substance.
@@ -1173,19 +1144,6 @@ Temporay sueperiority is the divergent subtrees starting from a node on the caus
 - Agentic inverse
     - Dothing things that contradict the agentic pattern of human life
 
-
-## Humans are pathetically agentic
-
-- You can not fully concentrate on a next task without finishing the task at hand
-- You have an internal recognized state of life that directs your current plans
-- Life goes linearly, sequentially, like ticking things off a list
-- You do not try to think in the place of an alternative, a life that does not currently belong to you
-- Older people often have to be constantly reminded to get some things done
-- You follow a schedule perhaps made by a university, a company
-
-I made some major progress over my goals by unintentional direct contradiction of the agentic nature, 'abnormally' shifting focus on things that I planned to do much later even beyond my own expectation. Thinking about things that a depressed (or whatever state I was in) person shouldn't be thinking. 
-
-Humans are comfortable when one's thoughts and acts align the internal agentic awareness of oneself. They can not comfortably think like a God in an alternative context like an LLM.
 
 # What is existentialism, nihilism? 
 
@@ -1341,3 +1299,368 @@ This is how dimensionality reduction of price signals do evil.
 Heard of _Economic Calculation Problem_; here is the _Economic Dimensionality Problem_
 
 _Capitalism has an information problem. It can not integrate information properly_ 
+
+# Entrepreneurship of human relationships
+
+I value _created relationships_ (friends, partners, republic, state, corporate) over _blood relationships_ (siblings, parents, kids that you gave birth to out of tradition/without explicit planning, nationality, race, tribe)
+
+# Hume's bundle theory, and gender identity, and identity in general
+
+Hume asserts that the 'self' does not exist. There are only a bundle of perceptions. 
+
+- gynephilia, androphilia
+- auto-androphilia (appreciation of self as a male), auto-gynophilia or lack of both
+- urges to manipulate people (present in typical males) or the approximate opposite
+- any valid intepreration that you assign to the bundle, a story that you tell yourself
+
+sometimes the story can be pretty convincing. sometimes you cant find one. the traits are arbitrary.
+
+there is no gender. there are only stories. If you believe them, you believe them. belief can be quite powerful as you follow it, but that only makes the stories functionally relevant. 
+
+Hume's bundle theory finds excellent use in intepreting modern gender identity issues. But, I consider it a blank slate of starting point. And while a blank slate is free of biases, it's not useful.
+
+Hume's ethics theory is an excellent blank slate.
+
+# Manifold hypothesis has solved Platonism
+
+Platonism posits that semantic objects exist in a separate, physical realm. 
+
+It has long been dismissed due to the rise of physicalism, and constructs within language are regarded as mere symbols that do not exist without human mind.
+
+Manifold hypothesis reveals an underlying structure that backs these symbols, and that it exists physically.
+
+# The world is a backtracking solver
+
+Some call it evolution and survival of fittest. I call it a backtracking solver. The solver has no purpose. Or, I mean, it seems to be solving something?
+
+When it reaches a dead end, a person dies of some disease abruptly, or gets drafted and dies in a meaningless battlefield or, commits suicide.
+
+# Dimensionality expansion (a sequel to, dialetics and double negation)
+
+Consider a person digesting 2 opposing views
+
+- Capitalism is good, and communism is bad
+- Communism is good and capitalism is bad.
+
+Either subconsciously or intentionally, many would consider it a linear spectrum, and most even go as far as take one side on the spectrum. 
+
+One particular group of people simply take a stance right in the middle, as a form of neutrality or self-proclaimed rationality.
+
+What I perceive from dialectic negation is its preservation of information, despite invalidation of the arguments being sublated. The synthesis of apparently opposing worldviews also, results in a smaller overall framework of explanation. Intuitively I would consider it a new manifold that preserves the data points consistently drawn from the 2 conflicting manifolds.
+
+# Dialectics, and local minima
+
+Even following perfect methodology of dialectics, it's possible to enter local saddle points, such as believing in a cultist worldview which is itself consistent.
+
+It's also quite prominent in many political frameworks of worldview. Often, worldviews are not amenable to typical scientific method because the methods of invalidation are also provided by the worldview framework itself.
+
+Bombardment with more stochastic but meaningful information. That's what I try.
+
+For the local minima, let's informally take it as perceived inconsistency of one's own worldview.
+
+# Evolution is not stochastic, it's gradient descent
+
+If you optimize your learning by taking better methods (analyzed by past), it's a form of gradient descent because you are, taking a specific direction (guided by past) and direction is direcly equivalent to a vector/gradient.
+
+People always assume that evolution is a random process where, random molecules recombine and produce life.
+
+The stochasticness in evolution is very strongly constrained by current world state. Evolution can only happen towards a subspace of possible future physical configurations (like phenotypes evolve towards a subspace, which is, guided in a sense). So this is where it gets interesting. It's not random. It's guided by past.
+
+Any directedness can constitute a gradient. Discrete landscapes can be viewed through continuous models.
+
+The current civilized society is a further evolution of the natural world, where the rules of survival (determined by status quo) are completely different from that of primal world, which in turn guides the evolution.
+
+# Politics is about ego, not profit
+
+Politics, and the unfolding of history is about ego, not profit
+
+Material conditions do not matter.
+
+> Everyone is trying to seek profit 
+
+a lie. 
+
+> But without profit you go bankrupt and starve?
+
+Profit is a causal necessity of survival, not anywhere a direct cause of motives. 
+
+People who chase profit has an ego problem of financial insecurity, which is still a symptom of ego.
+
+> Here we have this paradox
+
+The people that can actually direct the fate of humanity, are already rich. Profit means nothing to them. 
+
+Therefore politics is a matter of ego.
+
+If you try to explain current world politics with "profit", you fail miserably.
+
+> Politics is about ideology
+
+No, ideology can not hold positions. People hold them.
+
+# Teleogical collectivism
+
+There is one and only one kind of collectivism, the collectism over _telos_. We are individuals, we are not the same. I don't identify with a culture, a tribe of biological identity, or a collective bound by some false constitution. I identify with the collective that marches through the clash of reason and technology up to a historical fate that is not determined.
+
+Whats the purpose of this position? Through collectivism I renounce the urge to compete, or consider it obsolete. I stop obsessing with my individual capability. I only care about my contribution to the telos.
+
+# Collective shaming
+
+I noticed a very prevalent pattern in human community. Online arguments are usually not arguments. They are arguments loaded with emotional weapons. They don't argue for an objective fact. 
+
+> you are coping
+
+This is a loaded 'argument' that does not deal with matters of fact, but encourages the interlocutor to value immediate hedonism over everything else.
+
+The good ol' emotional manipulation of religions are mirrored back into modernity through mass social media.
+
+People no longer attend churches to get manipulated. They get manipulated on their phones at any moment. They want validation. They want fame. They want to be liked. They fear being exiled.
+
+Mockery is very effective at challenging a person to identify their illusional views. Yet, when all facts and reason have been exhausted. It provides zero value, because irony from both sides are equally plausible at this point. I term it as _ego-equillibrium_ where nobody is getting any more truth out of the flame war. Before that point, it's a useful tool of reason.
+
+# Dizziness of a thousand lives
+
+One profound kind of dizziness I experience after reading a whole series of fiction, or TV show. I do not feel morally lectured. I get overwhelmed by the sheer amount of phenomenological experience on par with living a thousand lives that do not belong to me. 
+
+The shift in a perspective may be conducive in keeping me aware of my persistent bias over the self, which is subtle as I can't stop narrating everything in relation to myself. The vertigo is also immensely comforting. Admittedly I like the reality as it is, fractured into countless figments not anywhere explained by a grand theory.
+
+## Irreducible calculus
+
+I notice a tension that is pulled by two sides, the great theories of reduction, utilitarianism, teleological narratives that tell you are a cog in a machine (and that its good), hedonism, negative hedonism, and the other camp, existentialism, phenomenology. The tension is a matter of mathematical reduction specifically of dimensionality. 
+
+Utilitarianism tries to reduce every life down to 2 scalar values of happiness and pain. The negative utilitarians disregards happiness. Teleologies reduce individuals to scalars of contribution. Reality reduces individuals to scalar or vectors of profit. Thus, the main struggle of existentialism is to preserve the local richnesss of dimensionality. 
+
+You might think this paragraph is apolitical, yet I regard it as politically potent.
+
+# On the self-defeat of sentimentality
+
+One of the core debate in my style of life is whether I should adhere to reason, long term planning, or a life of sentimentality.
+
+By reason I would choose to do a lot of things, to avoid persecution of my group by active pursuits in technology and politics. 
+
+The very same kind of people of my group (or in a greater sense. future young people that I would like to favor; in particular those who can habor enlightened empathy) may adhere to sentimentality and accuse me of being 'failing to serve myself or immediate hedonic objectives'
+
+Then they get persecuted as a group, because of course, nobody cared, and caring for non-hedonism is shamed as 'a cope'
+
+Altruism is dead, or in other people's terms, civilization. 
+
+> The world is haunted by a machine of capitalism where the mechanism is more to blame (classic Marxism)
+
+I challenge this view because modern society is more organized, productive, and well communciated than ever. The mass suffering is a calculated, intentional apathy. 
+
+# Extrapolated life quality: be born or not
+
+> I summed up my views on birth with, so far, the most concise argument.
+> This is the single condensed view of mine on procreation.
+
+Consider whether a person should be born. 
+
+It's overwhelmingly sure whether certain circumstances will result in better or worse extrapolated life quality by standards at any given moment. The data is available, and it's a pure predictive modelling task. No politics needed.
+
+I always adhere to reason when the computational result turns counter-intuitive, or seems morally outraging.
+
+People constantly complain about life circumstance. That's because nobody optimized it for them.
+
+The perspective `extrapolated life quality` reduces a moral litigation down to a pure empirical concern. And I really suggest not giving up this powerful means of reason in favor of weightless figments of hope that is grounded in nothing but platitudes, because individuals bear the weight of your decision.
+
+# Worldview functions to minimize error
+
+I have a mental model that worldview is a predictive system that tries to minimize error, the error between current anticipation and perceived new information. 
+
+If you get *triggered* over a new fact of observation, your model has high error. There are 2 ways to handle the situation, adjust the model and move on, or invent an elaborate psychological defense mechanism (overfitting to get a local minimum)
+
+# Bayesianism and graph causality are inferior to linear algebra
+
+Bayesianism seeks to construct a world model, more precisely, a state model over a Directed Acylic Graph, which was popular in Lesswrong.
+
+The concern is what makes the most plausible nature of reality, or, what is most functionally useful model of reality.
+
+Trivially you can pack everything into a graph or more graphs, where the relationship of nodes is isomorphic to relationship in reality, and the nodes correspond to states in world. I consider this the *trap of trivial model*.
+
+While boths graph causality and linear algebra can construct isomorphism over reality, linear algebra is superior. 
+
+Adjacency matrix represents binary relation over the magma of discrete objects being represented (graph nodes), which can be more efficiently represented in linear algebra as an inner product over vectors in a vector space. 
+
+Adjacency matrix encodes all possible products of the binary relation, ie. defining the function by enumeration.
+
+# Reframing the dead 'meaning of life' as phenomenal silence
+
+> meta philosophy?
+
+I've somewhat come to a conclusion that the old topic of 'meaning of life' can be traced to a few camps. 
+
+I use a common phenomenal piece of text to grab this notion. You feel wronged in life, or utterly perplexed. You scream at a wall. There is no response. I call it *phenomenal silence*, which is in the same bucket as *loneliness*.
+
+Phenomenal silence as to quest for an answer is loneliness as to quest of socialization.
+
+- The existentialists
+    - They tell that talking to yourself is enough
+- The absurdists
+    - They tell you to scream at the wall
+- The teleologists
+    - They tell you the silence would disappear once we've built enough things in the room
+- Logical positivists 
+    - It's an artifcat of language, which I consider it not.
+
+The world may have a very well-defined meaning, purpose on its own but the artifact of silence, does not disappear. The mind perceives the silence in same the way it perceives logic, an artifact of cognition of this specific neural substrate. 
+
+The problem with philosophers is that they tried to lump 3 problems into one term, the phenomenal silence (a perception), the factuality about world-level meaning (a fact), morality (an imperative), and in some cases, clinical depression or sub-clinical mood depressive swing. When they got depressed, they wrote down the thoughts and generalized such a mere perception all over the place. 
+
+I have not ever experienced such 'silence' when I am on stimulants, or enough benzos. 
+
+# The Golem and Nothingness
+
+> An attempt at condensing existentialism and recent computational philosophy
+
+People are not really people. They are golems with a fleeting void of emptiness. The golem is Sartrean facticity, and the nothingness (free will) comes from Sartre.  
+
+> Golem politics
+
+People look at their golem, race, nationality, looks, class, and form tribes. 
+
+The narcissists derive pride over the looks, wealth, and race of their golem. They say God gave them the golems because they are the chosen. However they try, they are not the golems. They are Emptiness. 
+
+The existentialists know the golems are piloted by an existential Nothingess. The pessimists look at their inferior golems, develop depression, despair and resentment.
+
+In particular, I pity those who hate their golems but at the same time, the amount of resentment is disgusting. They have their golems their whole identity.
+
+The problem with resentment over the golem (facticity) is that, the more you resent, the more you become the very golem you hate.
+
+I am not arguing aginst the particular poverty (flaws, discrimination, economic disempowerment etc.) of their golem, but that the fixative indulgance alienates them into the golem and obstructs communication.
+
+The collective shame you when you think while detached from the golem. They think you are 'not being who you are', 'not knowing your place' or 'coping'. 
+
+You know you are not because you are more familiar with your golem than anyone else. You have contemplated enough about it. You chose to wander into the void of free will.
+
+The existentialist looks at his emptiness that he is not the golem but the Nothingness that pilots it, enters hypomania. 
+
+The absurdist looks at his finitute of the golem, enters frantic laughter. 
+
+There is no pilot because it is Nothingness. The biological self and desires belong to the golem. 
+
+> The phenomenal impression (Hume's definition) of me is a biological artifact. See 'Bundle Theory'
+
+Not all people can notice that they are not the golems. They live as if they are the golems. People who deviate from the roles of golems are often shamed, exiled in all possible ways.
+
+You are said to be 'coping' if you don't identify with your golem. 
+
+You are warned other countries will not accept you either, if you don't identify with your golem that has a particular skin.
+
+> Aristocratic existentialism. You have to earn it.
+
+Personally I believe, those who live as if they are golems themselves, do not really have free will since they don't use it. They receive all the blame for whatever crimes their tribes have commited.  
+
+The golem is not the self. Therefore it would be illogical to get depressed over flaws of the golem, social rejections over the golem. 
+
+I deliberately do not argue over the nature of the Nothingness (whether free will exists or it is really free). 
+
+> The past philosophy has been obsessing with nature of things that can never be proven or disproven, such as useless questions over existence of free will
+> My conjecture is, it will be probably easier to generate free will than prove its existence. We already generated reason via LLM before we ever proved its objective existence.
+> It might even be harder to prove free will than generating it, since proving requires deep interpretation, while generating does not.
+> I address this in part because some people attack existentialism from "you don't have free will"
+
+In this stage of philosophy I only care about data and that the illusion of free will always meaningfully changes history.
+
+> Philosophers can not accept coexistence of categories, but in vector algebra, coexistence is the default. Vectors can be projected in infinitely many ways.  
+
+The self and universals (reason, justice) are convenient clusters of points that we call manifolds. The points, form a fascinating landscape of phenomenology.
+
+Some normies pacify themselves by ignoring some flaws of the golem. They shame others for pointing out the flaws of golems. 
+
+> You can not call my kid ugly, because it is my kid.
+
+The existentialist is fully aware of flaws of the golem, and also his free will. 
+
+The doomers are crushed by the weight of the golem.
+
+The gamers treat as if the golems are nothing to them, detached, never take the lives seriously. 
+
+The workers live as if they are the golems.
+
+People say you have a soul, and your suffering is meaningful. It comes with a caveat. If your suffering is really meaningful by any metric, theological, teleological, it becomes necessary, and your existential pain becomes invalid. 
+
+You will never be a golem.
+
+You can not argue that your golem is a God-given, divine, superior, pretty golem. It will never be *you*. 
+
+Your bloodline is not *yours*. You did not choose your homeland. 
+
+The golem (facticity) is a result of cosmic random chance. When I say I like your looks without knowing you, it's equivalent to complimenting a beautiful scenery.
+
+I do not need the existence of soul to justify my essay. 
+
+And to have me know you, I have to be sure that you have more than a golem.
+
+## Golem equillibrium 
+
+My specific meat golem deserves more resources, happiness, and less working hours than your specific golem, *because I am* (I exist).
+
+My specific tribe, lineage, country, and people deserve to have kids and more benefits *because I am* (I exist). 
+
+The problem is that the inverse argument can be equally justified. The debate runs into a stalemate, because Nothingness can not be compared with each other. 
+
+Hence, justice must be found outside individual (or particular group of) ego.
+
+Politics over golems can not work. Arguments must be drawn from phenomena (to its maximal information load) and universal reason. 
+
+> The greatest existential care is when everyone can feel the texture your loneliness at that cafe 2 years ago, without comments. This is what phenomenology, literature, and poetry try to do.
+> There needs no virtue theory or endless comments over social media over why that was terrible or not.
+> Cognition is virtuous. Reduction is violence.
+
+## The ego's war on facticity 
+
+The war began when people started treating diseases. Cancer is regarded as a universal enemy for whatever reasons. 
+
+The battle on gender phenotype began when Testosterone (1935), Cyproterone Acetate (1961) were invented.
+
+Do you know what your ego really wants? Or you only care when it hurts? 
+
+> on definition 
+
+The ego is defined to be detached from any particular golem. The caveat is that most people can not act in this state.
+
+Their ego is often a typical product of that particular kind of golem they are born with. Therefore it doesn't wage war on itself. 
+
+## Levels of detachment
+
+Existentialisms can be roughly conceptualized by their levels of detachment from the golem. 
+
+- Kierkegaard's knight of faith. They want you to accept the flaws and imperfections of the golem, and pursue the freedom of the ego. I regard this as bad-faith. 
+- Nietzschean Amor Fati. They want you to fully embrace the golem. I regard this as self-alienation. I owe no loyalty to anything including the golem, because I am free.
+
+I regard both forms of existence as cowardice, those who can not acknowledge the deeply free nature of their ego and continue to live a scripted life of **repression**; and the Nietzschean Amor Fati who have to turn it upside-down and identify themselves completely with the golem.
+
+The delusional kind can not acknolwedge the deficits and ugliness of their own golem. They live out of a fake script of superiority because they can not stare into the abyss. They need to compete and stay afloat because they can not ever accept that possibility. 
+
+The delusional kind may otherwise become Buddhist, denying the existence of pain, pleasure, the existential tether and the significance of everything altogether.
+
+> Lattice is from Order Theory of maths.
+
+The detached ego does not fear imagination of a life that does not belong to him, since he belongs to nowhere but tethered by an arbitrary physical fabric. His life is entirely immersed within the infinitude of phenomena of life, where the lattice of well-being grades them.
+
+## An accidental neurochemical drift
+
+One of the most existential changes in my life was getting into pharmaceuticals. I was met with the vaccum nature of my consciousness.
+
+I was severely agonized by the male-typical sex drive during teenager years, until I was put on a year's worth of SSRIs. 
+
+I stopped defending my sex drive because it's no longer part of *me*, because I am *Nothingness* all along.
+
+Yet, I still know what it felt like to be such a male. Juxtaposition.
+
+
+# From explanation to emulation: An epistemic paradigm leap
+
+I recognize a profound change in scientific method. 
+
+Science used to be a Popperian loop over inventing a falsifiable hypothesis, find new evidence to increase confidence or find one counter example. 
+
+This method was the mainstream until the raw speed of computation far-outpaced the speed of rationalization. 
+
+The [OpenWorm](https://en.wikipedia.org/wiki/OpenWorm) project discovered many hidden variables that was impossible without emulation.
+
+LLM emulated reason (or the illusion of it; I only care about illusion and appearance) before any explanation can be drawn.
+
+Reasonably, I predict free will to emulated or generated before it can be explained.
+
+Capacity outpaced reason.
