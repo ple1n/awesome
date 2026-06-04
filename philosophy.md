@@ -1618,6 +1618,8 @@ Yet, I still know what it felt like to be such a male.
 
 > Why do I write this? I don't like your attitude. Existentialism is about attitude.
 > The goal of philosophy is to guide the 'right now'
+>
+> *Juxtaposition, Antinomy, 二律背反*, irreducible paradox
 
 The teleologists cope with individual's lack of power with grand picture of goals and fate. 
 
@@ -1661,9 +1663,24 @@ The juxtaposed nobody dares envisioning what he would do if he was the president
 
 Juxtaposition is, the absurd manifested in the phenomenal reality. Reason can only work backwards. 
 
-Juxtaposition is a state of nature. You can not avoid it. You can have a well-managed life and a broken family. 
+Juxtaposition is a state of nature. You can not avoid it. You can have a well-managed personal life and a broken family. 
+
+Juxtaposition is not a matter for the business of causality, logic or epistemology. The world does not care whatever juxtaposition exists or how it torments you. It just happens. The world does not demand a lesson to be learned or a synthesis to be offered. There is no meaning in the absurd fact. 
+
+
+Young people in their prime years get drafted to meaningless war. Excellent juxtaposition. Does it imply a synthesis of peace will be developed? It won't. The world follows causality not reason. It will happen over and over unless some people stop it.
 
 > Here comes the meta-juxtaposition, this essay is a cope of mine, **and** truth.
+
+You hate juxtaposition. It's devastating.
+
+You love juxtaposition frantically. It's a local spike of the *absurd*.
+
+You know universal reason as it currently is accepted breaks down here. Nobody understands you and your motives. They can not name you as a typical case of loser, because you defy their categories. They can not seduce you into a nihilsitic surrender. The absurd resists totalizing reason. 
+
+**This is where true confidence, freedom and unparalleled madness _grounded in reason_ begins.**
+
+You did not abandon reason. You are at the frontier.
 
 # From explanation to emulation: An epistemic paradigm leap
 
