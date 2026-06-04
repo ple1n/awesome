@@ -319,53 +319,17 @@ Here is another thing first. Life can be generally seen as a series of steps of 
 
 The steps mainly consist of super goals and going into sub goals. When sub goals fail or are postponed I retract to super goals, which, at this very moment, triggers a very existential process of _goal revaluation_. And I would like you to focus on this motion. This picture as I am positing here, is not useless, which for myself I would try to remind myself of that too to be aware of this general process to not be carried away by sub goals. When it gets retracted all the way back to origin, it's called an existential crisis. Here, this forms a very substantial definition of the elusive idea.
 
-# You should gain confidence by recognizing the finitude of your time and reasoning power
-
-Two ways can it go
-
-- I am lay person who has finite time and reasoning effort, so I must follow textbooks and governments
-- I am lay person who is rationally bounded, so I should favor my _pet theories_ despite their possible unsoundness, because they are trustworthy. 
-
-It is only after I realized my finitude in time that I can not read all books over philosophy that I developed more confidence in my own theories. 
-
-And, ontologically, all theories are fundamentally pet theories. There is no valid distinction when the logical framework can be arbitrary.
-
-Let me call it _transcendental humility_
-
 # The most valuable thoughts are those that have never been put into words
 
-> https://en.wikipedia.org/wiki/Phenomenology_(philosophy) relevant
+https://iep.utm.edu/gilles-deleuze/
 
-I find it utterly absurd that a huge number of people would read books (most prominently marxist books and christian scriptures), who comprosise a large portion of the modern political debate, and adhere to them strictly, and shun others for not knowing the said books. They barely think themselves. 
+> philosophy is the art of forming, inventing, and fabricating concepts
 
-The most valuable thoughts are those that have never been put into words. The whim you get after some internal expedition, which surprised you so much that you immediately know that you have never felt this before, a brilliant new idea not present in the common vocabulary of the discourse at large or your own vocabulary. 
+I've seen too many people indulging in books (comments from decades ago), and can not express ideas in their own terms.
 
-The real philosopher pulls theories out of thin void, utter void. The salesmen digest it and rebrand them for their own gains. 
+Especially the communists and christians, they like to cite books for every argument they wanna present.
 
-On the dialectic side of justification, language gets gradually refined, aka, modified, adapated as the discourse goes, which is considered progress. Such radical ideas are logically a greater kind of dialectical progress.
-
-## Paradox of competence
-
-It's fairly safe to assume that the 'famous philosophers' are mainly characterized by their own thoughts and theories. Their knowledge about other philosophies are an addition mentioned in the support of their own philosophy. There isn't a gross negligence of past literature but the focus _is on_ their own ideas. A lot of people expect you to heavily cite past philosophical dicourse despite not demanding that aloud. The paradox is that, such criterion deems those with more original thoughts, incompetent, which includes those famouse philosophers. Originality is valued by people unless it comes to online discourse it seems.
-
-We can probably also agree that, truth value is independent from reputation, popularity, authority. I claim X to be true with or without citing the source from which I derived the idea, which, often is European enlightenment. The claim should not appear more true or less true to you whether the source is revealed or not. 
-
-# Guide to newborns
-
-Prospective chronology suitable for reading by newborns.
-
-- You are born in a random country, random family, given a name that you never chose yourself. 
-- You are compelled to accept this body, the race, the culture that comes associated with it, the legal and social contracts of the country you live in. 
-- You are forced into a prison-like education system. 0.1% of people did not make it. They killed themselves. 
-- You are born into an abusive, poor family. 1% of people didn't make it.
-- You are met with an accident, 40% people in similar conditions did not make it.
-- Your unluck pile together, 70% of people in similar situations did not make it. 
-- You have entered the Kafka territory, where the pain can not be communicated and all the feelings have to be pocketed, merely due to the sheer absurdity of the situation itself.
-    Your ideas lead to ridicule, or even persecution if you try to express them. 
-
-# The war against institutions 
-
-I hereby declare a war aginst institutions, from which real liberty begins.
+The true philosopher pulls concepts from the undfferentiated whole of raw phenomena without guidance. 
 
 # On the holography between Dialectics and State Machine
 
@@ -1581,6 +1545,8 @@ People say you have a soul, and your suffering is meaningful. It comes with a ca
 
 You will never be a golem.
 
+You should be ashamed for not acknowledging your freedom.
+
 You can not argue that your golem is a God-given, divine, superior, pretty golem. It will never be *you*. 
 
 Your bloodline is not *yours*. You did not choose your homeland. 
@@ -1646,8 +1612,58 @@ I was severely agonized by the male-typical sex drive during teenager years, unt
 
 I stopped defending my sex drive because it's no longer part of *me*, because I am *Nothingness* all along.
 
-Yet, I still know what it felt like to be such a male. Juxtaposition.
+Yet, I still know what it felt like to be such a male.
 
+# The Juxtaposed Outlier
+
+> Why do I write this? I don't like your attitude. Existentialism is about attitude.
+> The goal of philosophy is to guide the 'right now'
+
+The teleologists cope with individual's lack of power with grand picture of goals and fate. 
+
+They stare into the future but deep down they feel baseless, and the *absurd* may rip through their veils at any time, when the *telos* fail, the state faces an economic setback, or the nation degrades into a dictatorship.
+
+They outsourced their ego in exchange of security, stability and hope, yet the angst comes back unsolicited once in a while because they can not extinguish the fear, and humans can only really live in the moment.
+
+Hope is poisonous.
+
+Future is fundamentally a juxtaposed state over failure and triumph. Clinging onto hope makes you miserable; alienated if you believe in a kind of teleology; you stop being yourself, but a slave to the future self. You fear looking into the abyss of defeat. You refuse to imagine a future where you get drafted into a meaningless war that sentences you to an undigified death in the middle of nowhere. They assume a peaceful life. They go into panic the moment cancer hits them. 
+
+Retreating into fatalism is the avoidance of the bizarre nature of juxtaposition. They choose cowardice. They go for a peaceful, guaranteed life.
+
+They chose cowardice because they are shamed by the herd into dismissing the *statistically impossible*, over success or whatever goals.
+
+They have made a demonic trade, batering their infinitude of the ego for a sense of comfort. 
+
+On the perimeter of reason thrives juxtaposition. They ignore it, silence it, because they fear it. The juxtaposed people is what I call *outliers*. 
+
+They demand you renounce your juxtaposed past to join a collective. They demand assimilation and conformity. 
+
+They crave for coherence and harmony to manufacture peace. The outliers have no choice but to habour their juxtaposed past because the imperative of authencity demands it.
+
+Juxtaposition is irreducible by reason, despite great leaps in modern systematic reason. 
+
+They devolve into either doomers or narcissists because they opted for one side. They opted for life-long loyalty over one lifestyle where either they are fated to fail or succeed. 
+
+> I find it highly polarized that these days people are either hopeless incels or rabid narcissists. 
+
+The juxtaposed get raised in one culture, change mindset and immigrate to another country. They end up being rejected by both cultures. 
+
+Juxtaposition is, that one white supremascist on the news who is brown, the males who hate being male. 
+
+There is no way to resolve the juxtaposition, except by you. The system fails you, and the crowd hates you.
+
+The juxtaposed person suceeds; the media write stories about his greatness and how hard he tried to seize the success. 
+
+The juxtaposed person fails in silence. He's remembered as a weird nobody, and forgotten soon enough.
+
+The juxtaposed nobody dares envisioning what he would do if he was the president. The crowd dismiss it as unrealistic, cope, irrelevant and a waste of time for his life. 
+
+Juxtaposition is, the absurd manifested in the phenomenal reality. Reason can only work backwards. 
+
+Juxtaposition is a state of nature. You can not avoid it. You can have a well-managed life and a broken family. 
+
+> Here comes the meta-juxtaposition, this essay is a cope of mine, **and** truth.
 
 # From explanation to emulation: An epistemic paradigm leap
 
