@@ -1621,9 +1621,9 @@ Yet, I still know what it felt like to be such a male.
 >
 > *Juxtaposition, Antinomy, 二律背反*, irreducible paradox
 
-The teleologists cope with individual's lack of power with grand picture of goals and fate. 
+Teleologists cope with the individual's lack of power with a grand picture of goals and fate.
 
-They stare into the future but deep down they feel baseless, and the *absurd* may rip through their veils at any time, when the *telos* fail, the state faces an economic setback, or the nation degrades into a dictatorship.
+They stare into the future but deep down they feel baseless, and the *absurd* may rip through their veils at any time—when the *telos* fail, the state faces an economic setback, or the nation degrades into a dictatorship.
 
 They outsourced their ego in exchange of security, stability and hope, yet the angst comes back unsolicited once in a while because they can not extinguish the fear, and humans can only really live in the moment.
 
@@ -1637,11 +1637,11 @@ They chose cowardice because they are shamed by the herd into dismissing the *st
 
 They have made a demonic trade, batering their infinitude of the ego for a sense of comfort. 
 
-On the perimeter of reason thrives juxtaposition. They ignore it, silence it, because they fear it. The juxtaposed people is what I call *outliers*. 
+On the perimeter of reason thrives juxtaposition. They ignore it, silence it, because they fear it. The juxtaposed people are what I call *outliers*. 
 
 They demand you renounce your juxtaposed past to join a collective. They demand assimilation and conformity. 
 
-They crave for coherence and harmony to manufacture peace. The outliers have no choice but to habour their juxtaposed past because the imperative of authencity demands it.
+They crave coherence and harmony to manufacture peace. The outliers have no choice but to habour their juxtaposed past because the imperative of authencity demands it.
 
 Juxtaposition is irreducible by reason, despite great leaps in modern systematic reason. 
 
@@ -1651,7 +1651,7 @@ They devolve into either doomers or narcissists because they opted for one side.
 
 The juxtaposed get raised in one culture, change mindset and immigrate to another country. They end up being rejected by both cultures. 
 
-Juxtaposition is, that one white supremascist on the news who is brown, the males who hate being male. 
+Juxtaposition is—that one white supremascist on the news who is brown, the born-males who hate being male. 
 
 There is no way to resolve the juxtaposition, except by you. The system fails you, and the crowd hates you.
 
@@ -1661,7 +1661,7 @@ The juxtaposed person fails in silence. He's remembered as a weird nobody, and f
 
 The juxtaposed nobody dares envisioning what he would do if he was the president. The crowd dismiss it as unrealistic, cope, irrelevant and a waste of time for his life. 
 
-Juxtaposition is, the absurd manifested in the phenomenal reality. Reason can only work backwards. 
+Juxtaposition is—the absurd manifested in the phenomenal reality. Reason can only work backwards. 
 
 Juxtaposition is a state of nature. You can not avoid it. You can have a well-managed personal life and a broken family. 
 
