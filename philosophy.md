@@ -55,66 +55,6 @@ Hedonists live a life, often without the awareness that they believe 'hedonism i
 I live in the fear of implied beliefs. They could drive major decisions and what is hidden is assumed and most dangerous.
 
 
-# The Scream of Outliers
-
-> Tribute to Kafka.
-
-There has always been a strange feeling in countless encounters in my life, the moment I was misunderstood, the moment when I was left alone, estranged. The feeling stayed through my life until I gradually started to put it into words. There is not a single instance of such feeling, or situation that is worth noting down here. Nor is it worth sharing with others, because they are doomed to be not understood, *Kafkaesque*. I always believed, however, the true answer to human compassion is through reason, not emotions, with the all-encompassing sweeping generalizations. 
-
-The concept of pain was a good one, capturing a huge range of negative feelings. Then, here comes the *estrangement*, or being an outlier, which I use due to its mathematical undertone. The *estrangement* is perhaps even worse than pain, which is perhaps just dull and bland. 
-
-Modern society has harnessed reason as a tool of ruling. Reason, as defined by governments. Reason is defined to be a set of barely changing laws. Reason is defined to be a set of institutions. Reason is upheld and justified. The law applies its "reason" equally tolerating no exceptions or outliers. 
-
-The communists have tried. They established a new dictatorship. They executed the rich, tolerating no outliers. The racists tried, setting up concentration camps, shutting down immigration. What is truly wrong with humans. Is the problem, a class struggle, a racial struggle, or, just the struggle of outliers?
-
-Praise the outlier. The one Chinese who goes against his own race with critique hasher than outsiders. The one man who is different from the norm of his gender. And most importantly how he then goes agaisnt the norm of "the queer community" he used to, or you think he would, belong to.
-
-The outliers may become regonized, occasionally, rising to the status of "the minority". They stopped being outliers the moment that happens. Yet, the outliers continue to exist. You become the outlier when you disagree with "the minority". There is never any recognition of the outlier in the current way the society think about things, because the minority is recognized due to their political status, not as an inherent element of thought.
-
-The dialectic is almost shaped by a constant _betrayals_ of communities. 
-
-- I betrayed my own race or nation, marked by the sharp criticism which many of the nationals see me as dissident.
-- I betrayed various online communities such as those who shared my same criticism of the nation and race, due to differing views.
-- I betrayed 'queer communities' or things of this kind that I do not want to name more. 
-
-The outliers shall not fear betraying communities. They stand with nothing but the dialectic motion itself, whom I consider a physical embodiment of the dialectics. The problem with many current problems in politics is the problem of minority. The current social-dynamics can not handle a constant movement of thought process, or in other words, the consensus moves too slowly to follow the dialectic. Despite that I find the idea of 'minority' and 'legistlating laws to protect them or such regular legal process' an orthogonal solution to the very problem. People are often educated to recognize the minority, but not the constant existence of different kinds of outliers.  
-
-Outliers have no homeland. Nor are outliers affilated with anything. Just as how absurd and crudely rational the modern conception of nation-states and borders are. The mechanism of market is not that different from the institutions of state, regarding to its treatment of outliers.
-
-## The masses adapt their morals when the outliers are in power
-
-- The innovators are outliers. 
-- The rich are outliers. They do not obey the rules. 
-- The history is shaped by outliers. (not workers) 
-- The masses always want to shame the outliers because they don't obey a norm, yet the rich oppress them.
-- The masses preach property laws yet the outliers rig the markets. They see it as just. 
-
-There is always exception to rules which the masses constantly follow and many genuinely believe in the justness that they are forced to follow the rules. Rules however, always come with exceptions, the regulators themselves, and the rich. The masses turn a blind eye to such facts. I have met some communists online and they seem to believe in a revolution by the masses, for which I later found some excellent rebuttals. 
-
-Identify the causally important elements towards a causal goal, effect or consequence. The history is always shaped by outliers. If there are mass movements, it's usually initiated by a few people, or sparks of thoughts from a few people. It would be massively fallacious to attribute the change to the masses. Innovators are, by tautology, outliers.  
-
-## The majority deserve the treatment
-
-Outliers exist? Does that mean we ought to abandon our fruitful constructs of reason over categories, or in other words, the immensely useful generalizations? No, never.
-
-History has made two biggest mistakes, the grave generalization committed by fascists and communists, with their overwhelming mass movements. The other mistake is a total renunciation of generalizations, in favor of a reckless equality.
-
-The majority deserve their treatment. The outliers are their own breed. 
-
-## Kafka's socialism
-
-- The eros are fragile (against modern hedonism)
-- The collective is opppressive and alienating.
-- The absurd and unexpected is endless in every corner. (against wholistic design)
-- The absurd must be extinguished with human power
-- The exact means to such socialism is left to readers. 
-
-The socialism of last century was Kafkaesque. The next one shouldnt be. 
-
-It's then imperative to think what should this whole theory of Kafkaism land in. The various ideologies of past century have been dealing with class struggle, production, races, various aspirations. Imminent development in the future can drastically change the goals we want to pursue. I'd want to anchor the thought onto something that will probably, persist into foreseeable future for a quite a long time. That the very goal of next socialism should target the problem of _Kafkaesque predicatement_ of individuals itself. 
-
-Is socialism just about bread, or the production of material goods, or the triumph of a society maybe of some specific race? All of them will eventually fall into some sort of Kafkaesque dystopia in various corners unseen in the official propaganda. Think this idea as a pointer that points far into future, rather a specific prescription of the blueprint of a future socialism.
-
 # Dialectics and classical logic
 
 I've my own way of estimating my worth of thoughts. I value it when a new idea of mine challenges, or contradicts most mainstream thoughts. Such contradiction is based on ample contemplation of existing arguments, thus, a dialectical development. 
@@ -1614,6 +1554,68 @@ I stopped defending my sex drive because it's no longer part of *me*, because I 
 
 Yet, I still know what it felt like to be such a male.
 
+
+# The Scream of Outliers (Pending rewrite?)
+
+> Tribute to Kafka.
+
+There has always been a strange feeling in countless encounters in my life, the moment I was misunderstood, the moment when I was left alone, estranged. The feeling stayed through my life until I gradually started to put it into words. There is not a single instance of such feeling, or situation that is worth noting down here. Nor is it worth sharing with others, because they are doomed to be not understood, *Kafkaesque*. I always believed, however, the true answer to human compassion is through reason, not emotions, with the all-encompassing sweeping generalizations. 
+
+The concept of pain was a good one, capturing a huge range of negative feelings. Then, here comes the *estrangement*, or being an outlier, which I use due to its mathematical undertone. The *estrangement* is perhaps even worse than pain, which is perhaps just dull and bland. 
+
+Modern society has harnessed reason as a tool of ruling. Reason, as defined by governments. Reason is defined to be a set of barely changing laws. Reason is defined to be a set of institutions. Reason is upheld and justified. The law applies its "reason" equally tolerating no exceptions or outliers. 
+
+The communists have tried. They established a new dictatorship. They executed the rich, tolerating no outliers. The racists tried, setting up concentration camps, shutting down immigration. What is truly wrong with humans. Is the problem, a class struggle, a racial struggle, or, just the struggle of outliers?
+
+Praise the outlier. The one Chinese who goes against his own race with critique hasher than outsiders. The one man who is different from the norm of his gender. And most importantly how he then goes agaisnt the norm of "the queer community" he used to, or you think he would, belong to.
+
+The outliers may become regonized, occasionally, rising to the status of "the minority". They stopped being outliers the moment that happens. Yet, the outliers continue to exist. You become the outlier when you disagree with "the minority". There is never any recognition of the outlier in the current way the society think about things, because the minority is recognized due to their political status, not as an inherent element of thought.
+
+The dialectic is almost shaped by a constant _betrayals_ of communities. 
+
+- I betrayed my own race or nation, marked by the sharp criticism which many of the nationals see me as dissident.
+- I betrayed various online communities such as those who shared my same criticism of the nation and race, due to differing views.
+- I betrayed 'queer communities' or things of this kind that I do not want to name more. 
+
+The outliers shall not fear betraying communities. They stand with nothing but the dialectic motion itself, whom I consider a physical embodiment of the dialectics. The problem with many current problems in politics is the problem of minority. The current social-dynamics can not handle a constant movement of thought process, or in other words, the consensus moves too slowly to follow the dialectic. Despite that I find the idea of 'minority' and 'legistlating laws to protect them or such regular legal process' an orthogonal solution to the very problem. People are often educated to recognize the minority, but not the constant existence of different kinds of outliers.  
+
+Outliers have no homeland. Nor are outliers affilated with anything. Just as how absurd and crudely rational the modern conception of nation-states and borders are. The mechanism of market is not that different from the institutions of state, regarding to its treatment of outliers.
+
+## The masses adapt their morals when the outliers are in power
+
+- The innovators are outliers. 
+- The rich are outliers. They do not obey the rules. 
+- The history is shaped by outliers. (not workers) 
+- The masses always want to shame the outliers because they don't obey a norm, yet the rich oppress them.
+- The masses preach property laws yet the outliers rig the markets. They see it as just. 
+
+There is always exception to rules which the masses constantly follow and many genuinely believe in the justness that they are forced to follow the rules. Rules however, always come with exceptions, the regulators themselves, and the rich. The masses turn a blind eye to such facts. I have met some communists online and they seem to believe in a revolution by the masses, for which I later found some excellent rebuttals. 
+
+Identify the causally important elements towards a causal goal, effect or consequence. The history is always shaped by outliers. If there are mass movements, it's usually initiated by a few people, or sparks of thoughts from a few people. It would be massively fallacious to attribute the change to the masses. Innovators are, by tautology, outliers.  
+
+## The majority deserve the treatment
+
+Outliers exist? Does that mean we ought to abandon our fruitful constructs of reason over categories, or in other words, the immensely useful generalizations? No, never.
+
+History has made two biggest mistakes, the grave generalization committed by fascists and communists, with their overwhelming mass movements. The other mistake is a total renunciation of generalizations, in favor of a reckless equality.
+
+The majority deserve their treatment. The outliers are their own breed. 
+
+## Kafka's socialism
+
+- The eros are fragile (against modern hedonism)
+- The collective is opppressive and alienating.
+- The absurd and unexpected is endless in every corner. (against wholistic design)
+- The absurd must be extinguished with human power
+- The exact means to such socialism is left to readers. 
+
+The socialism of last century was Kafkaesque. The next one shouldnt be. 
+
+It's then imperative to think what should this whole theory of Kafkaism land in. The various ideologies of past century have been dealing with class struggle, production, races, various aspirations. Imminent development in the future can drastically change the goals we want to pursue. I'd want to anchor the thought onto something that will probably, persist into foreseeable future for a quite a long time. That the very goal of next socialism should target the problem of _Kafkaesque predicatement_ of individuals itself. 
+
+Is socialism just about bread, or the production of material goods, or the triumph of a society maybe of some specific race? All of them will eventually fall into some sort of Kafkaesque dystopia in various corners unseen in the official propaganda. Think this idea as a pointer that points far into future, rather a specific prescription of the blueprint of a future socialism.
+
+
 # The Juxtaposed Outlier
 
 > Why do I write this? I don't like your attitude. Existentialism is about attitude.
@@ -1681,6 +1683,12 @@ You know universal reason as it currently is accepted breaks down here. Nobody u
 **This is where true confidence, freedom and unparalleled madness _grounded in reason_ begins.**
 
 You did not abandon reason. You are at the frontier.
+
+# Delusion leads to freedom
+
+I have come to a terrifying conclusion. In order to live truly free, one must delude himself.
+
+
 
 # From explanation to emulation: An epistemic paradigm leap
 
