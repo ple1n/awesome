@@ -1684,11 +1684,6 @@ You know universal reason as it currently is accepted breaks down here. Nobody u
 
 You did not abandon reason. You are at the frontier.
 
-# Delusion leads to freedom
-
-I have come to a terrifying conclusion. In order to live truly free, one must delude himself.
-
-
 
 # From explanation to emulation: An epistemic paradigm leap
 
