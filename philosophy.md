@@ -5,7 +5,7 @@ An opsec tool for proxying at https://github.com/ple1n/nsproxy.
 
 Wayland native live pick-up instant fuzzt search dictionary at https://github.com/ple1n/hoverpanel
 
-This is a journal, which rests in chronological order. 
+This is a journal. It's recommended to read in backward direction.
 
 # "Against" Marxism, the pinnacle of academic obscurantism
 
@@ -413,29 +413,6 @@ I have developed this very specific kind of narcissism, where I am fully aware o
 
 The awareness about my own flaws only strengthens my narcissism, because it is not longer predicated on a flawless fiction, a delusion of weak foundation.
 
-# Reduction by calculus
-
-I suggest an application of calculus in the analysis of values, and philosophy in general. 
-
-If an outcome is noble, such as a utopia, the goals are justified as noble, and all the necessary steps leading up to the outcome are justified too. There is a nuance here that gets political very quick. What is necessary? Is the communist dictatorship necessary? Were the communist wars justified? I don't care about the answers since you can derive them, nor do I care enough to state my current views on politics, and the answers are trivial when compared to the thought process.  
-
-
-$$
-v_2 = \mathbf{r}(a) + \int_a^b \mathbf{r}'(t)\,dt
-$$
-
-The equation represents a path from $v_1 = r(a)$ to destination $v_2$
-
-Each $r'(t)$ represents a instant of free will where you make choices and the integral is a vector, which is also, a point in the 2D space. 
-
-# Fraction and necessity of causality
-
-The working class of drivers as a whole are causally necessary in the functioning of society, but an individual thereof, is not necessary. The importance, and necessity of the individual, is fractioned over the whole of causal node that is as a whole necessary to a noble goal. An ordinary worker is often seen as trivial because the fraction might be $1/100000$. I'm not positing that he is trivial or not. Rather, the word _trivial_ is too simple to capture the totality of the meaning here. Or from another angle you can refine the triviality of such a worker through the understanding of this section. 
-
-An outcome that is valued treated as noble, usually has many many causal nodes that may lead up to it. The fractionation and elusive necessity is central to much of the existential contemplation.
-
-Reduction by calculus tracks causality from a perspective of a single temporal trajectory. This section, examines a single step in causality.
-
 
 # Contingent morality and the worhip of status quo
 
@@ -789,18 +766,6 @@ Such a system can even enable cooperation between enemies, between mutually disa
     - On the other hand, intentionally worsend products are produced to maximize total realized profit / deals made, as long as the downsized products do not affect the sales of premium products.
     - This phenomenon is so ubitquitous
 
-## How do we expect a system to make correct decisions
-
-Say we can put a cabel of people in control, or set up a system, there is a measurable load on the system that it has to make certain amount of decisions, where some decisions turn out in our favor and some do not. The decisions, in turn, also changes the system itself, in a self catalysed loop.
-
-I think the more decisions the system is designed to handle, the faster it fails. In a state machine model, I would consider the state of failure a terminal state that can hardly go back, such as a state of oligarchy, authoritarianism, centralization of various kinds which prevent further change into other states.
-
-Modern capitalism amplifies the correct decisions it believes in through a series of amplification mechanisms. 
-
-Supreme court $\to$ Lower courts (incorrect decisions get overriden) $\to$ Financial institutions (incorrect decisions lead to profit loss) $\to$  Producers
-
-In each step there involves a combination of threat of violence from a more powerful party, self-policing by a prediction over profit or punishment. 
-
 # Morality, by Hume
 
 I tried to distance my self from moral judgement in my essay whenever possible. I do not believe in any grand theory of morality that can be explained in simple words, like 'workers deserve fair pay'. I believe in a morality that is extremely nuanced, sometimes absurd and contrived.
@@ -889,24 +854,6 @@ It's no longer a convenient perspective to see them as isolated stories to each 
 It matters to acknowledge the _finitude_ of one's own lived experience, either imposed by himself or circumstances outside of his control, especially when we want to seek the answer to the question, what humanity is. As one acknowledges the finitude, he frees himself from the pain of isolation; he also loses the bias and privilege of particularity. (On narcissism, existentialism, etc. All of them tackled at once)
 
 I value works of art especially those involving plot and, melodies that follow that encode the exquisite emotions present, in their merit of conveying and archiving lived or imagined human experience, such that they are greatly shared, and persist into infinitude.
-
-# Parallel hypotheticals
-
-I've progressed my internal mode of belief through 3 stages.
-
-1. I believe X to be true. 
-2. I believe X to be true, under the condition Y. (Y tends to be axiomatic assumption of some kind)
-3. I believe X to be true, under the condition Y. I believe M to be true, under the condition N. etc.
-
-The merit is that most people aren't even aware that their thought happens in these forms. This form is what I believe to be the most genereal form of belief system, where both science and religions can be treated as a 'subset' of the said system.
-
-Outside of the system, it's the void. There is nothing meaningful outside this system.
-
-There isn't any need to state doubt against any assumptions made, be it Y, N. Simply being aware that the modes of belief exists, is enough to qualify as proper skepticism to me.
-
-The classical atheism would argue over that, _Y is wrong_, or _Y lacks proof_, or _some people need to prove Y_, or _N is more plausible_, where specically N is obviously to be the assumptions that science makes, or _truthiness of X must be proported to Y_, or _It's possible that D is true where D is some absurd thing_ (Russell's teapot).
-
-I would simply present the picture of such 3 modes of belief. The failure is that a lot of people people can not think  and act in a way that deviates from 1, or 2. Perhaps rigorous training is needed.
 
 # Liberating humanness from assigned bodies
 
@@ -1027,8 +974,6 @@ From years of my biohacking experience, the best biohacking is done early.
 
 Current technology can at most prevent disease or adverse phenotype (such as a puberty one does not want) from happening, and its very nice if done right. Your toolkit shall mostly consist of nuclear receptor modulators such as hormones, targeted therapy drugs (originally designed for cancer) if you need; psychotropics are in its nascent stage but they can be greatly helpful in _very_ times. Do not ever expect biohacking (non-surgical) to program a new phenotype; it's impossible and delusional, but never miss a chance to prevent an outcome.
 
-Temporay sueperiority is the divergent subtrees starting from a node on the causal graph.
-
 # Novel tactics of reasoning
 
 - Phenomenal extraction
@@ -1045,8 +990,6 @@ Temporay sueperiority is the divergent subtrees starting from a node on the caus
 - Chaotic sources
     - Some sources may be mined to have more ideas to come to you. There is no value in playing rough. Exposure to sources that are as chaotic as possible may give you surprises. 
     - This came as a major accelerator in my reasoning trajectory. Such sources may include close contact with an eccentric person, and niche forums.
-- Agentic inverse
-    - Dothing things that contradict the agentic pattern of human life
 
 
 # What is existentialism, nihilism? 
@@ -1082,10 +1025,6 @@ Emotive nihilist state (anhedonia, depression, withdrawals) $\to$ Formation of a
 
 The 'emotive nihilism' is very prevalent but there is probably nothing to analyze in that because it's just a mental state. Take some stimulants and it will be gone. The emotive nihilist state can, indeed be a source of inspiration, despite being tormenting at times. Sometimes I get new ideas in that. 
 
-# The ability to tell that you actually do have novel ideas, is a sign of maturity
-
-The so-called maturity is hereby defined in the context of non-neurotypical person. I used to get a lot of whims over everything and I thought everyone else got it too. It took me many years to realize that most don't.
-
 # Certain philosophilical perspectives lead to dead ends
 
 There is always a choice on the set of primitives to start with when beginning to analyze a problem. You can theorize about free will and it will be some sort of litigation around the nature of free will. You can also choose to build a theory upon a primitive adjacent to 'free will', such as a person's apparent ability to choose among a set of possible courses of action. 
@@ -1095,28 +1034,6 @@ This is what I consider to be the 'algebraic method', algebraic as in abstract a
 Math is spectacular because the entire field works on good algebraic primitives, readily corresponding to real world phenomena.
 
 Abstract algebra is also not concerned with whether group, ring, or field exists because they are all figments of language anyway. Hence, when building theories I am also not very concerned with the existence of my primitives either. They just need to plausibly exist such that the theory has use. ie. Existential claims are irrelevant.
-
-# Can philosophy be learned?
-
-I heavily contest the idea that philosophy can be learned through traditional way of reading. A model for such learning can be that, the essays serve as computational shortcuts of thinking where each essay saves $n$ amount of time, where the thinking aims to produce a truthful, coherent body of thought.
-
-Philosophy tends to build a greater picture due to the metacognitive nature, which is very hard through mere words. 
-
-The main problem is on the writers. I disdain philosophers as much as I disdain mathematicians. Abstract algebra can be perfectly captured with Haskell (or FStar which is better) and is _extremely simple_, but they choose to express things in such an ugly way.
-
-Rebuilding things is never a shame. Rebuilding entails a complete audit, which is great for a high-stake project like building one's worldview in a deeply adversarial environment. In many cases, faster than finding proper text and reading it.
-
-# Modern recruiting is akin to dating on dating apps, while universities act as whore certifiers
-
-Everyone hates dating apps, social media, and various modern things seen as degenerate. The same people ignored work.
-
-They long for an 'organic life' which is how most people put it, but only personally. Personl issues are however much less important than, _production_.
-
-They feel there is something upsetting about social media and. not work? 
-
-There is no market, no power, no money, but stories that go on. Everything except the stories are spooks, invented by cowards.
-
-It's your very personal thing to make your story great. 
 
 # Cognitive architectures are the new racism
 
@@ -1133,10 +1050,6 @@ Speaking of urges, here I emphasize more reason-relevant urges, which shape reas
 Secondly I emphasize the urges that shape personality.
 
 And, let me clarify what this racism is, the current system oppresses the divergent kind of cognitive architecture. Based on this differentiation, people do in fact form tribes and oppress each other, despite not declaring it in public or even being aware, although the tribal behavior is usually preceded by racial and other buckets first.
-
-# Cost of communication
-
-If you tell somebody something, it's most likely he's gonna take it by literal meaning that is mostly commonly accepted, but in a lot of cases what I want to convey is a thing that is much more nuanced, which can visualize as a latent vector that is somewhere slightly deviant from the literal meanings. The vector can not be directly communicated through language because language is a subspace that follows a logic and some sequence of derivation that eventually falls back into the subspace. ie, _language is algebraicly closed, specifically formal lanugage and languages as communicated_. Here, it takes immense cost to derive such a deviant vector, which is done through a dialectic motion, where the new vector is derived at the orthogonality of two known vectors of a known language system.
 
 # Non-linear nature of causality and activation function as an inherent part of reality
 
@@ -1225,32 +1138,12 @@ Hume's bundle theory finds excellent use in intepreting modern gender identity i
 
 Hume's ethics theory is an excellent blank slate.
 
-# Manifold hypothesis has solved Platonism
-
-Platonism posits that semantic objects exist in a separate, physical realm. 
-
-It has long been dismissed due to the rise of physicalism, and constructs within language are regarded as mere symbols that do not exist without human mind.
-
-Manifold hypothesis reveals an underlying structure that backs these symbols, and that it exists physically.
-
 # The world is a backtracking solver
 
 Some call it evolution and survival of fittest. I call it a backtracking solver. The solver has no purpose. Or, I mean, it seems to be solving something?
 
 When it reaches a dead end, a person dies of some disease abruptly, or gets drafted and dies in a meaningless battlefield or, commits suicide.
 
-# Dimensionality expansion (a sequel to, dialetics and double negation)
-
-Consider a person digesting 2 opposing views
-
-- Capitalism is good, and communism is bad
-- Communism is good and capitalism is bad.
-
-Either subconsciously or intentionally, many would consider it a linear spectrum, and most even go as far as take one side on the spectrum. 
-
-One particular group of people simply take a stance right in the middle, as a form of neutrality or self-proclaimed rationality.
-
-What I perceive from dialectic negation is its preservation of information, despite invalidation of the arguments being sublated. The synthesis of apparently opposing worldviews also, results in a smaller overall framework of explanation. Intuitively I would consider it a new manifold that preserves the data points consistently drawn from the 2 conflicting manifolds.
 
 # Dialectics, and local minima
 
@@ -1684,7 +1577,6 @@ You know universal reason as it currently is accepted breaks down here. Nobody u
 
 You did not abandon reason. You are at the frontier.
 
-
 # From explanation to emulation: An epistemic paradigm leap
 
 I recognize a profound change in scientific method. 
@@ -1700,3 +1592,44 @@ LLM emulated reason (or the illusion of it; I only care about illusion and appea
 Reasonably, I predict free will to emulated or generated before it can be explained.
 
 Capacity outpaced reason.
+
+# Leap of definition, post-hoc relabelling, and dimensionality expansion
+
+I characterize dialectics as happening in 2 stages
+
+- Leap of definition; the subject has new intuitions lacking proper terms. the intuitions may be inspired by reading perhaps a book, yet completely new to the subject.
+- Post-hoc relabelling; the ideas are labelled with seemingly socially-agreed terms
+
+A classical example is economic-freedom vs economic-non-freedom, a *juxtaposition* of labels. The juxtaposition urges people to make a binary choice and there is no way to take the benefits of both.
+
+It was believed that in order for economic freedom to happen, governments must not intervene; which leads to monopoly. This contradictory consequence is another juxtaposition.
+
+The solution is not taking a random position in the middle of the perceived spectrum, although many people would suggest that compromise is somehow a good idea.
+
+Instead, the entire spectrum was dissolved, and new ideas were proposed. The term 'economic-freedom' was slapped onto the new ideas. Monopoly is not longer seen as a thing of economic-freedom. Government-intervention in this case, is seen as proponent of economic-freedom. 
+
+This theory suggests that communication does not happen. It is a process of *de novo* thought production by a subject, and a *post hoc* relabelling.
+
+Speaking of the dimensionality expansion and whether the dimension is inherent to the data, representation is independent of actual signal. There are many many ways to represent the same data or signal. Also, refer to *manifold hypothesis*.
+
+> Just read the books/theory
+
+No, you can not read the books. You ingest some words and reconstruct a world of your own, and slap the words back onto it.
+
+In my past experience, talking to real people and working things out (engineering) on my own have always been the fastest path to my leaps (gaining such profound intuitions), not reading some words.
+
+I have deliberately avoided terms like 'ideology' or 'contradiction' because I don't need a panel to check my citations. They can only delude junior readers into adopting their existing mindset, sabotaging my goal of presenting my idea because readers are busy validating their past reading; or grift reputation from academia.
+
+# Wirebrain as an abstraction fallacy
+
+The popular conjecture of wirebrain posits an apparent dystopian or nihilistic realtiy of a wirebrain feeding on hedonic loop devoid of thoughts at Lagrange L4, without any infrastructure or any past/history as to why such a brain can sustain existence whatsoever. Now that I spelled this out and you saw the problem; the illusion is inseperable from the conjecture. 
+
+There is no such 'abstract brain' that exists in the vaccum. If anyone says this is a doomed nihilist outcome, the meaning of everything (if exists) lies in its past and the reality that is infinitely fertile in information.
+
+Humans have been building this meaningless loop of hedonism for centuries, a worse version of wirebrain, now consisting of doomscrolling and sex. Yet, we aren't arguing how nihilistic this is, because we see a reality that is rich in information not a sterile conjecture.
+
+Isolated abstraction is fallacious.
+
+I also found this to be present in ethnic war narrative. Some people like my parents believe the Japanese have a problem with the Chinese. They are imagining the average Japanese, going to work, have dinner, and constantly contemplating contempt against the average Chinese, with no other emotions, thoughts, details, stories whatsoever. Unfortunately this is how most people think.
+
+I want to go as far to say they are imagining mindless, faceless beings devoid of attributes working at factories without names in perpetual motion, but vague enough that they aren't aware they are doing it.
